@@ -1,5 +1,5 @@
 # Desc: 6 characters or more, a-Z 0-9
-'6 characters or more, a-Z 0-9': '6 characters or more, a-Z 0-9'   # FIXME
+'6 characters or more, a-Z 0-9': '6 अक्षर या अधिक, A-Z 0-9'
 
 # Desc: A Preset Skin is a Skin with predefined values for the widget’s properties
 'A Preset Skin is a Skin with predefined values for the widget’s properties': 'A Preset Skin is a Skin with predefined values for the widget’s properties'   # FIXME
@@ -26,16 +26,16 @@
 About: About   # FIXME
 
 # Desc: Account Registration
-'Account Registration': 'Account Registration'   # FIXME
+'Account Registration': 'खाता पंजीकरण'
 
 # Desc: Account Settings
-'Account Settings': 'Account Settings'   # FIXME
+'Account Settings': 'खाता सेटिंग्स'   # FIXME
 
 # Desc: Account info
-'Account info': 'Account info'   # FIXME
+'Account info': 'खाता जानकारी'
 
 # Desc: Account password
-'Account password': 'Account password'   # FIXME
+'Account password': 'खाते का पासवर्ड'   # FIXME
 
 # Desc: Add Content
 'Add Content': 'Add Content'   # FIXME
@@ -743,10 +743,10 @@ Widgets: Widgets   # FIXME
 'change email': 'change email'   # FIXME
 
 # Desc: come back soon
-'come back soon': 'come back soon'   # FIXME
+'come back soon': 'जल्द ही वापस आइयेगा'
 
 # Desc: coming soon
-'coming soon': 'coming soon'   # FIXME
+'coming soon': 'जल्द ही आ रहा'
 
 # Desc: delete your blogvio account
 'delete your blogvio account': 'delete your blogvio account'   # FIXME
@@ -761,10 +761,10 @@ galleries: galleries   # FIXME
 'is disabled or deleted': 'is disabled or deleted'   # FIXME
 
 # Desc: is not registered
-'is not registered': 'is not registered'   # FIXME
+'is not registered': 'पंजीकृत नहीं है'
 
 # Desc: log in
-'log in': 'log in'   # FIXME
+'log in': 'लॉगिन'
 
 # Desc: on Twitter
 'on Twitter': 'on Twitter'   # FIXME
@@ -776,13 +776,13 @@ or: or   # FIXME
 other: other   # FIXME
 
 # Desc: our blog
-'our blog': 'our blog'   # FIXME
+'our blog': 'हमारे ब्लॉग'
 
 # Desc: sign up
-'sign up': 'sign up'   # FIXME
+'sign up': 'साइन अप कर'   # FIXME
 
 # Desc: to your website
-'to your website': 'to your website'   # FIXME
+'to your website': 'अपनी वेबसाइट पर'
 
 # Desc: widgets
 widgets: widgets   # FIXME
