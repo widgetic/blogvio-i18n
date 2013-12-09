@@ -1,788 +1,773 @@
 # Desc: 6 characters or more, a-Z 0-9
-'6 characters or more, a-Z 0-9': '6 characters or more, a-Z 0-9'   # FIXME
+'6 characters or more, a-Z 0-9': '6 characters or more, a-Z 0-9'
 
 # Desc: A Preset Skin is a Skin with predefined values for the widget’s properties
-'A Preset Skin is a Skin with predefined values for the widget’s properties': 'A Preset Skin is a Skin with predefined values for the widget’s properties'   # FIXME
+'A Preset Skin is a Skin with predefined values for the widget’s properties': 'A Preset Skin is a Skin with predefined values for the widget’s properties'
 
 # Desc: A Skin is a list of specific properties associated to a widget
-'A Skin is a list of specific properties associated to a widget': 'A Skin is a list of specific properties associated to a widget'   # FIXME
+'A Skin is a list of specific properties associated to a widget': 'A Skin is a list of specific properties associated to a widget'
 
 # Desc: A composition is the combination of a customized widget, your content and it’s details
-'A composition is the combination of a customized widget, your content and it’s details': 'A composition is the combination of a customized widget, your content and it’s details'   # FIXME
+'A composition is the combination of a customized widget, your content and it’s details': 'A composition is the combination of a customized widget, your content and it’s details'
 
 # Desc: A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded
-'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded': 'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded'   # FIXME
+'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded': 'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded'
 
 # Desc: A new widget is available
-'A new widget is available': 'A new widget is available'   # FIXME
+'A new widget is available': 'A new widget is available'
 
 # Desc: A widget I use gets a big update
-'A widget I use gets a big update': 'A widget I use gets a big update'   # FIXME
+'A widget I use gets a big update': 'A widget I use gets a big update'
 
 # Desc: A widget is any object you can copy and paste into a webpage through a snippet of code
-'A widget is any object you can copy and paste into a webpage through a snippet of code': 'A widget is any object you can copy and paste into a webpage through a snippet of code'   # FIXME
+'A widget is any object you can copy and paste into a webpage through a snippet of code': 'A widget is any object you can copy and paste into a webpage through a snippet of code'
 
 # Desc: About
-About: About   # FIXME
+About: About
 
 # Desc: Account Registration
-'Account Registration': 'Account Registration'   # FIXME
+'Account Registration': 'Account Registration'
 
 # Desc: Account Settings
-'Account Settings': 'Account Settings'   # FIXME
+'Account Settings': 'Account Settings'
 
 # Desc: Account info
-'Account info': 'Account info'   # FIXME
+'Account info': 'Account info'
 
 # Desc: Account password
-'Account password': 'Account password'   # FIXME
+'Account password': 'Account password'
 
 # Desc: Add Content
-'Add Content': 'Add Content'   # FIXME
+'Add Content': 'Add Content'
 
-# Desc: Add Content (link to your content using one of the provided services)
-'Add Content (link to your content using one of the provided services)': 'Add Content (link to your content using one of the provided services)'   # FIXME
-
-# Desc: Add beautiful
-'Add beautiful': 'Add beautiful'   # FIXME
-
-# Desc: Add beautiful widgets to your website
-'Add beautiful widgets to your website': 'Add beautiful widgets to your website'   # FIXME
+# Desc: Add beautiful %widgets% to your website
+'Add beautiful %widgets% to your website': 'Add beautiful %widgets% to your website'   # FIXME
 
 # Desc: Add your website
-'Add your website': 'Add your website'   # FIXME
+'Add your website': 'Add your website'
 
 # Desc: Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice
-'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice': 'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice'   # FIXME
+'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice': 'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice'
 
 # Desc: After you select your perfect widget, follow these simple 3 steps
-'After you select your perfect widget, follow these simple 3 steps': 'After you select your perfect widget, follow these simple 3 steps'   # FIXME
+'After you select your perfect widget, follow these simple 3 steps': 'After you select your perfect widget, follow these simple 3 steps'
 
 # Desc: Already have your content online? We can grab it for you from across the social web
-'Already have your content online? We can grab it for you from across the social web': 'Already have your content online? We can grab it for you from across the social web'   # FIXME
+'Already have your content online? We can grab it for you from across the social web': 'Already have your content online? We can grab it for you from across the social web'
 
 # Desc: Also, it's free!
-'Also, it''s free!': 'Also, it''s free!'   # FIXME
+'Also, it''s free!': 'Also, it''s free!'
 
 # Desc: Analyze, create and share your best content yet
-'Analyze, create and share your best content yet': 'Analyze, create and share your best content yet'   # FIXME
+'Analyze, create and share your best content yet': 'Analyze, create and share your best content yet'
 
 # Desc: And it is based on
-'And it is based on': 'And it is based on'   # FIXME
+'And it is based on': 'And it is based on'
 
 # Desc: Any updates you make will use the same embed code
-'Any updates you make will use the same embed code': 'Any updates you make will use the same embed code'   # FIXME
+'Any updates you make will use the same embed code': 'Any updates you make will use the same embed code'
 
 # Desc: Audio
-Audio: Audio   # FIXME
+Audio: Audio
 
 # Desc: Audio Widgets
-'Audio Widgets': 'Audio Widgets'   # FIXME
+'Audio Widgets': 'Audio Widgets'
 
 # Desc: Awesome! Get started by exploring our widgets
-'Awesome! Get started by exploring our widgets': 'Awesome! Get started by exploring our widgets'   # FIXME
+'Awesome! Get started by exploring our widgets': 'Awesome! Get started by exploring our widgets'
 
 # Desc: Back
-Back: Back   # FIXME
+Back: Back
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
-'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets'   # FIXME
+'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets'
 
 # Desc: Blogvio is a platform for content distribution
-'Blogvio is a platform for content distribution': 'Blogvio is a platform for content distribution'   # FIXME
+'Blogvio is a platform for content distribution': 'Blogvio is a platform for content distribution'
 
 # Desc: Blogvio is for any publisher and website owner that shares content online
-'Blogvio is for any publisher and website owner that shares content online': 'Blogvio is for any publisher and website owner that shares content online'   # FIXME
+'Blogvio is for any publisher and website owner that shares content online': 'Blogvio is for any publisher and website owner that shares content online'
 
 # Desc: Blogvio publishes a newsletter
-'Blogvio publishes a newsletter': 'Blogvio publishes a newsletter'   # FIXME
+'Blogvio publishes a newsletter': 'Blogvio publishes a newsletter'
 
 # Desc: Bring your<br />content in
-'Bring your<br />content in': 'Bring your<br />content in'   # FIXME
+'Bring your<br />content in': 'Bring your<br />content in'
 
 # Desc: Browse
-Browse: Browse   # FIXME
+Browse: Browse
 
 # Desc: Browse Our Widgets
-'Browse Our Widgets': 'Browse Our Widgets'   # FIXME
+'Browse Our Widgets': 'Browse Our Widgets'
 
 # Desc: Browse Widgets
-'Browse Widgets': 'Browse Widgets'   # FIXME
+'Browse Widgets': 'Browse Widgets'
 
 # Desc: Browse all widgets
-'Browse all widgets': 'Browse all widgets'   # FIXME
+'Browse all widgets': 'Browse all widgets'
 
-# Desc: But we have some interesting stuff going on
-'But we have some interesting stuff going on': 'But we have some interesting stuff going on'   # FIXME
+# Desc: But we have some interesting stuff going on %link% our blog
+'But we have some interesting stuff going on %link% our blog': 'But we have some interesting stuff going on %link% our blog'   # FIXME
 
 # Desc: COPY CODE
-'COPY CODE': 'COPY CODE'   # FIXME
+'COPY CODE': 'COPY CODE'
 
 # Desc: Can I use Blogvio on my website?
-'Can I use Blogvio on my website?': 'Can I use Blogvio on my website?'   # FIXME
+'Can I use Blogvio on my website?': 'Can I use Blogvio on my website?'
 
 # Desc: Change password
-'Change password': 'Change password'   # FIXME
+'Change password': 'Change password'
 
 # Desc: Changes saved
-'Changes saved': 'Changes saved'   # FIXME
+'Changes saved': 'Changes saved'
 
 # Desc: Choose a password
-'Choose a password': 'Choose a password'   # FIXME
+'Choose a password': 'Choose a password'
 
 # Desc: Choose your website's platform
-'Choose your website''s platform': 'Choose your website''s platform'   # FIXME
+'Choose your website''s platform': 'Choose your website''s platform'
 
 # Desc: Coming soon
-'Coming soon': 'Coming soon'   # FIXME
+'Coming soon': 'Coming soon'
 
 # Desc: Comments
-Comments: Comments   # FIXME
+Comments: Comments
 
 # Desc: Composition
-Composition: Composition   # FIXME
+Composition: Composition
 
 # Desc: Compositions
-Compositions: Compositions   # FIXME
+Compositions: Compositions
 
 # Desc: Compositions using this widget
-'Compositions using this widget': 'Compositions using this widget'   # FIXME
+'Compositions using this widget': 'Compositions using this widget'
 
 # Desc: Connect with Facebook
-'Connect with Facebook': 'Connect with Facebook'   # FIXME
+'Connect with Facebook': 'Connect with Facebook'
 
 # Desc: Connect with Google
-'Connect with Google': 'Connect with Google'   # FIXME
+'Connect with Google': 'Connect with Google'
 
 # Desc: Contact
-Contact: Contact   # FIXME
+Contact: Contact
 
 # Desc: Contact Us
-'Contact Us': 'Contact Us'   # FIXME
+'Contact Us': 'Contact Us'
 
 # Desc: Create Composition
-'Create Composition': 'Create Composition'   # FIXME
+'Create Composition': 'Create Composition'
 
 # Desc: Create a Composition
-'Create a Composition': 'Create a Composition'   # FIXME
+'Create a Composition': 'Create a Composition'
 
 # Desc: Create an account with your email
-'Create an account with your email': 'Create an account with your email'   # FIXME
+'Create an account with your email': 'Create an account with your email'
 
 # Desc: Created
-Created: Created   # FIXME
+Created: Created
 
 # Desc: Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)
-'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)': 'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)'   # FIXME
+'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)': 'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)'
 
 # Desc: Customize your widget using one of our beautiful Presets or create your own Skin
-'Customize your widget using one of our beautiful Presets or create your own Skin': 'Customize your widget using one of our beautiful Presets or create your own Skin'   # FIXME
+'Customize your widget using one of our beautiful Presets or create your own Skin': 'Customize your widget using one of our beautiful Presets or create your own Skin'
 
 # Desc: Definitely! Our widgets are built using the latest HTML5 technologies
-'Definitely! Our widgets are built using the latest HTML5 technologies': 'Definitely! Our widgets are built using the latest HTML5 technologies'   # FIXME
+'Definitely! Our widgets are built using the latest HTML5 technologies': 'Definitely! Our widgets are built using the latest HTML5 technologies'
 
 # Desc: Delete
-Delete: Delete   # FIXME
+Delete: Delete
 
 # Desc: Delete Account
-'Delete Account': 'Delete Account'   # FIXME
+'Delete Account': 'Delete Account'
 
 # Desc: Delete my account
-'Delete my account': 'Delete my account'   # FIXME
+'Delete my account': 'Delete my account'
 
 # Desc: Does Blogvio work on mobile devices?
-'Does Blogvio work on mobile devices?': 'Does Blogvio work on mobile devices?'   # FIXME
+'Does Blogvio work on mobile devices?': 'Does Blogvio work on mobile devices?'
 
 # Desc: Done
-Done: Done   # FIXME
+Done: Done
 
 # Desc: Done Editing
-'Done Editing': 'Done Editing'   # FIXME
+'Done Editing': 'Done Editing'
 
 # Desc: Download press kit
-'Download press kit': 'Download press kit'   # FIXME
+'Download press kit': 'Download press kit'
 
 # Desc: Duplicate
-Duplicate: Duplicate   # FIXME
+Duplicate: Duplicate
 
 # Desc: Edit Composition
-'Edit Composition': 'Edit Composition'   # FIXME
+'Edit Composition': 'Edit Composition'
 
 # Desc: Edit Details
-'Edit Details': 'Edit Details'   # FIXME
+'Edit Details': 'Edit Details'
 
 # Desc: Edit Details (add specific details to your content, such as titles and descriptions)
-'Edit Details (add specific details to your content, such as titles and descriptions)': 'Edit Details (add specific details to your content, such as titles and descriptions)'   # FIXME
+'Edit Details (add specific details to your content, such as titles and descriptions)': 'Edit Details (add specific details to your content, such as titles and descriptions)'
 
 # Desc: Email address
-'Email address': 'Email address'   # FIXME
+'Email address': 'Email address'
 
 # Desc: Email address is verified
-'Email address is verified': 'Email address is verified'   # FIXME
+'Email address is verified': 'Email address is verified'
 
 # Desc: Email successfully subscribed
-'Email successfully subscribed': 'Email successfully subscribed'   # FIXME
+'Email successfully subscribed': 'Email successfully subscribed'
 
 # Desc: Embed Code
-'Embed Code': 'Embed Code'   # FIXME
+'Embed Code': 'Embed Code'
 
 # Desc: Every widget has a set of Preset Skins that we provide as a start base
-'Every widget has a set of Preset Skins that we provide as a start base': 'Every widget has a set of Preset Skins that we provide as a start base'   # FIXME
+'Every widget has a set of Preset Skins that we provide as a start base': 'Every widget has a set of Preset Skins that we provide as a start base'
 
 # Desc: Explore our widgets gallery
-'Explore our widgets gallery': 'Explore our widgets gallery'   # FIXME
+'Explore our widgets gallery': 'Explore our widgets gallery'
 
 # Desc: FEEDBACK
-FEEDBACK: FEEDBACK   # FIXME
+FEEDBACK: FEEDBACK
 
 # Desc: Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%
-'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%': 'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%'   # FIXME
+'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%': 'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%'
 
 # Desc: Find the widget you need
-'Find the widget you need': 'Find the widget you need'   # FIXME
+'Find the widget you need': 'Find the widget you need'
 
 # Desc: First Name
-'First Name': 'First Name'   # FIXME
+'First Name': 'First Name'
 
 # Desc: Follow on Twitter
-'Follow on Twitter': 'Follow on Twitter'   # FIXME
+'Follow on Twitter': 'Follow on Twitter'
 
 # Desc: For example an Mp3 Player widget can have a property called “Loop” set by default to “true”
-'For example an Mp3 Player widget can have a property called “Loop” set by default to “true”': 'For example an Mp3 Player widget can have a property called “Loop” set by default to “true”'   # FIXME
+'For example an Mp3 Player widget can have a property called “Loop” set by default to “true”': 'For example an Mp3 Player widget can have a property called “Loop” set by default to “true”'
 
 # Desc: For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound
-'For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound': 'For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound'   # FIXME
+'For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound': 'For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound'
 
 # Desc: For older browsers, we offer a flash fallback option as well
-'For older browsers, we offer a flash fallback option as well': 'For older browsers, we offer a flash fallback option as well'   # FIXME
+'For older browsers, we offer a flash fallback option as well': 'For older browsers, we offer a flash fallback option as well'
 
 # Desc: For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio
-'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio': 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio'   # FIXME
+'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio': 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio'
 
 # Desc: Forgot Password
-'Forgot Password': 'Forgot Password'   # FIXME
+'Forgot Password': 'Forgot Password'
 
 # Desc: Form successfully submited
-'Form successfully submited': 'Form successfully submited'   # FIXME
+'Form successfully submited': 'Form successfully submited'
 
 # Desc: Frequently Asked Questions
-'Frequently Asked Questions': 'Frequently Asked Questions'   # FIXME
+'Frequently Asked Questions': 'Frequently Asked Questions'
 
 # Desc: Get started by creating your first Composition
-'Get started by creating your first Composition': 'Get started by creating your first Composition'   # FIXME
+'Get started by creating your first Composition': 'Get started by creating your first Composition'
 
 # Desc: Get started with Blogvio now
-'Get started with Blogvio now': 'Get started with Blogvio now'   # FIXME
+'Get started with Blogvio now': 'Get started with Blogvio now'
 
 # Desc: Get started with a free account
-'Get started with a free account': 'Get started with a free account'   # FIXME
+'Get started with a free account': 'Get started with a free account'
 
 # Desc: HOW TO EMBED ON ANY WEBSITE
-'HOW TO EMBED ON ANY WEBSITE': 'HOW TO EMBED ON ANY WEBSITE'   # FIXME
+'HOW TO EMBED ON ANY WEBSITE': 'HOW TO EMBED ON ANY WEBSITE'
 
 # Desc: Here’s an example
-'Here’s an example': 'Here’s an example'   # FIXME
+'Here’s an example': 'Here’s an example'
 
 # Desc: How Blogvio works
-'How Blogvio works': 'How Blogvio works'   # FIXME
+'How Blogvio works': 'How Blogvio works'
 
 # Desc: How can I create a new Skin?
-'How can I create a new Skin?': 'How can I create a new Skin?'   # FIXME
+'How can I create a new Skin?': 'How can I create a new Skin?'
 
 # Desc: How do I embed a Composition on my website?
-'How do I embed a Composition on my website?': 'How do I embed a Composition on my website?'   # FIXME
+'How do I embed a Composition on my website?': 'How do I embed a Composition on my website?'
 
 # Desc: How does Blogvio work?
-'How does Blogvio work?': 'How does Blogvio work?'   # FIXME
+'How does Blogvio work?': 'How does Blogvio work?'
 
 # Desc: How to add more websites
-'How to add more websites': 'How to add more websites'   # FIXME
+'How to add more websites': 'How to add more websites'
 
 # Desc: How to add more websites?
-'How to add more websites?': 'How to add more websites?'   # FIXME
+'How to add more websites?': 'How to add more websites?'
 
 # Desc: I'm stuck
-'I''m stuck': 'I''m stuck'   # FIXME
+'I''m stuck': 'I''m stuck'
 
 # Desc: If by mistake I delete my content, what will users on my website see?
-'If by mistake I delete my content, what will users on my website see?': 'If by mistake I delete my content, what will users on my website see?'   # FIXME
+'If by mistake I delete my content, what will users on my website see?': 'If by mistake I delete my content, what will users on my website see?'
 
 # Desc: If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account
-'If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account': 'If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account'   # FIXME
+'If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account': 'If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account'
 
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
-'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition'   # FIXME
+'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition'
 
-# Desc: If you’d like to say hello, drop us a line at 
-'If you’d like to say hello, drop us a line at ': 'If you’d like to say hello, drop us a line at '   # FIXME
+# Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
+'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter'   # FIXME
 
 # Desc: Is Blogvio free?
-'Is Blogvio free?': 'Is Blogvio free?'   # FIXME
+'Is Blogvio free?': 'Is Blogvio free?'
 
 # Desc: It will appear in this area
-'It will appear in this area': 'It will appear in this area'   # FIXME
+'It will appear in this area': 'It will appear in this area'
 
 # Desc: Kindly open it and follow the instructions in it to change your password
-'Kindly open it and follow the instructions in it to change your password': 'Kindly open it and follow the instructions in it to change your password'   # FIXME
+'Kindly open it and follow the instructions in it to change your password': 'Kindly open it and follow the instructions in it to change your password'
 
 # Desc: Last Name
-'Last Name': 'Last Name'   # FIXME
+'Last Name': 'Last Name'
 
 # Desc: Like on Facebook
-'Like on Facebook': 'Like on Facebook'   # FIXME
+'Like on Facebook': 'Like on Facebook'
 
 # Desc: Log Out
-'Log Out': 'Log Out'   # FIXME
+'Log Out': 'Log Out'
 
 # Desc: Main Features
-'Main Features': 'Main Features'   # FIXME
+'Main Features': 'Main Features'
 
 # Desc: Make sure your website is listed in your Account Settings
-'Make sure your website is listed in your Account Settings': 'Make sure your website is listed in your Account Settings'   # FIXME
+'Make sure your website is listed in your Account Settings': 'Make sure your website is listed in your Account Settings'
 
 # Desc: Making the most of Blogvio
-'Making the most of Blogvio': 'Making the most of Blogvio'   # FIXME
+'Making the most of Blogvio': 'Making the most of Blogvio'
 
 # Desc: Message successfully sent
-'Message successfully sent': 'Message successfully sent'   # FIXME
+'Message successfully sent': 'Message successfully sent'
 
 # Desc: Metrics
-Metrics: Metrics   # FIXME
+Metrics: Metrics
 
 # Desc: Monthly newsletter?
-'Monthly newsletter?': 'Monthly newsletter?'   # FIXME
+'Monthly newsletter?': 'Monthly newsletter?'
 
 # Desc: Must be at least 6 characters long, no spaces
-'Must be at least 6 characters long, no spaces': 'Must be at least 6 characters long, no spaces'   # FIXME
+'Must be at least 6 characters long, no spaces': 'Must be at least 6 characters long, no spaces'
 
 # Desc: My compositions are close to exceeding 50k views/month
-'My compositions are close to exceeding 50k views/month': 'My compositions are close to exceeding 50k views/month'   # FIXME
+'My compositions are close to exceeding 50k views/month': 'My compositions are close to exceeding 50k views/month'
 
 # Desc: My website is
-'My website is': 'My website is'   # FIXME
+'My website is': 'My website is'
 
 # Desc: My widgets don’t show up on my website
-'My widgets don’t show up on my website': 'My widgets don’t show up on my website'   # FIXME
+'My widgets don’t show up on my website': 'My widgets don’t show up on my website'
 
 # Desc: Name
-Name: Name   # FIXME
+Name: Name
 
 # Desc: Need to try a different email address
-'Need to try a different email address': 'Need to try a different email address'   # FIXME
+'Need to try a different email address': 'Need to try a different email address'
 
 # Desc: New Composition
-'New Composition': 'New Composition'   # FIXME
+'New Composition': 'New Composition'
 
 # Desc: New Password
-'New Password': 'New Password'   # FIXME
+'New Password': 'New Password'
 
 # Desc: Next Step
-'Next Step': 'Next Step'   # FIXME
+'Next Step': 'Next Step'
 
 # Desc: No spam - ever
-'No spam - ever': 'No spam - ever'   # FIXME
+'No spam - ever': 'No spam - ever'
 
 # Desc: Note
-Note: Note   # FIXME
+Note: Note
 
 # Desc: Notifications
-Notifications: Notifications   # FIXME
+Notifications: Notifications
 
 # Desc: Now you can use the composition you just created in your website
-'Now you can use the composition you just created in your website': 'Now you can use the composition you just created in your website'   # FIXME
+'Now you can use the composition you just created in your website': 'Now you can use the composition you just created in your website'
 
 # Desc: On your way
-'On your way': 'On your way'   # FIXME
+'On your way': 'On your way'
 
 # Desc: Once you have an embed code generated for a composition, this won't change
-'Once you have an embed code generated for a composition, this won''t change': 'Once you have an embed code generated for a composition, this won''t change'   # FIXME
+'Once you have an embed code generated for a composition, this won''t change': 'Once you have an embed code generated for a composition, this won''t change'
 
 # Desc: Or use your social media account
-'Or use your social media account': 'Or use your social media account'   # FIXME
+'Or use your social media account': 'Or use your social media account'
 
 # Desc: Or visit us
-'Or visit us': 'Or visit us'   # FIXME
+'Or visit us': 'Or visit us'
 
 # Desc: Other platform
-'Other platform': 'Other platform'   # FIXME
+'Other platform': 'Other platform'
 
 # Desc: Our Team
-'Our Team': 'Our Team'   # FIXME
+'Our Team': 'Our Team'
 
 # Desc: Our detailed analytics shows you how your content is doing on any platform
-'Our detailed analytics shows you how your content is doing on any platform': 'Our detailed analytics shows you how your content is doing on any platform'   # FIXME
+'Our detailed analytics shows you how your content is doing on any platform': 'Our detailed analytics shows you how your content is doing on any platform'
 
 # Desc: Our mission is to make content distribution easy and fun
-'Our mission is to make content distribution easy and fun': 'Our mission is to make content distribution easy and fun'   # FIXME
+'Our mission is to make content distribution easy and fun': 'Our mission is to make content distribution easy and fun'
 
 # Desc: Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices
-'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices'   # FIXME
+'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices'
 
 # Desc: Our widgets make sure not to break your website when content is missing
-'Our widgets make sure not to break your website when content is missing': 'Our widgets make sure not to break your website when content is missing'   # FIXME
+'Our widgets make sure not to break your website when content is missing': 'Our widgets make sure not to break your website when content is missing'
 
 # Desc: Password
-Password: Password   # FIXME
+Password: Password
 
 # Desc: Photo
-Photo: Photo   # FIXME
+Photo: Photo
 
 # Desc: Photo Widgets
-'Photo Widgets': 'Photo Widgets'   # FIXME
+'Photo Widgets': 'Photo Widgets'
 
 # Desc: Pick a new password
-'Pick a new password': 'Pick a new password'   # FIXME
+'Pick a new password': 'Pick a new password'
 
 # Desc: Please type a password
-'Please type a password': 'Please type a password'   # FIXME
+'Please type a password': 'Please type a password'
 
 # Desc: Plugin Installation
-'Plugin Installation': 'Plugin Installation'   # FIXME
+'Plugin Installation': 'Plugin Installation'
 
 # Desc: Plugins
-Plugins: Plugins   # FIXME
+Plugins: Plugins
 
 # Desc: Popular Widgets
-'Popular Widgets': 'Popular Widgets'   # FIXME
+'Popular Widgets': 'Popular Widgets'
 
 # Desc: Re-type New Password
-'Re-type New Password': 'Re-type New Password'   # FIXME
+'Re-type New Password': 'Re-type New Password'
 
 # Desc: Read Full Description
-'Read Full Description': 'Read Full Description'   # FIXME
+'Read Full Description': 'Read Full Description'
 
 # Desc: Ready?
-'Ready?': 'Ready?'   # FIXME
+'Ready?': 'Ready?'
 
 # Desc: Remind me when
-'Remind me when': 'Remind me when'   # FIXME
+'Remind me when': 'Remind me when'
 
 # Desc: Resend
-Resend: Resend   # FIXME
+Resend: Resend
 
 # Desc: Reset Password
-'Reset Password': 'Reset Password'   # FIXME
+'Reset Password': 'Reset Password'
 
 # Desc: Reset my password
-'Reset my password': 'Reset my password'   # FIXME
+'Reset my password': 'Reset my password'
 
 # Desc: SEARCH
-SEARCH: SEARCH   # FIXME
+SEARCH: SEARCH
 
 # Desc: SEND
-SEND: SEND   # FIXME
+SEND: SEND
 
 # Desc: Save password
-'Save password': 'Save password'   # FIXME
+'Save password': 'Save password'
 
 # Desc: Search
-Search: Search   # FIXME
+Search: Search
 
 # Desc: Select a
-'Select a': 'Select a'   # FIXME
+'Select a': 'Select a'
 
 # Desc: Select a password
-'Select a password': 'Select a password'   # FIXME
+'Select a password': 'Select a password'
 
 # Desc: Send us an email
-'Send us an email': 'Send us an email'   # FIXME
+'Send us an email': 'Send us an email'
 
 # Desc: Set up your shiny new account
-'Set up your shiny new account': 'Set up your shiny new account'   # FIXME
+'Set up your shiny new account': 'Set up your shiny new account'
 
 # Desc: Set your password
-'Set your password': 'Set your password'   # FIXME
+'Set your password': 'Set your password'
 
 # Desc: Settings
-Settings: Settings   # FIXME
+Settings: Settings
 
 # Desc: Show password text
-'Show password text': 'Show password text'   # FIXME
+'Show password text': 'Show password text'
 
 # Desc: Sign Up
-'Sign Up': 'Sign Up'   # FIXME
+'Sign Up': 'Sign Up'
 
 # Desc: Sign up to experience just how much Blogvio can help you &amp; your website
-'Sign up to experience just how much Blogvio can help you &amp; your website': 'Sign up to experience just how much Blogvio can help you &amp; your website'   # FIXME
+'Sign up to experience just how much Blogvio can help you &amp; your website': 'Sign up to experience just how much Blogvio can help you &amp; your website'
 
 # Desc: Sign up with
-'Sign up with': 'Sign up with'   # FIXME
+'Sign up with': 'Sign up with'
 
 # Desc: Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear
-'Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear': 'Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear'   # FIXME
+'Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear': 'Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear'
 
 # Desc: Skin
-Skin: Skin   # FIXME
+Skin: Skin
 
 # Desc: Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee
-'Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee': 'Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee'   # FIXME
+'Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee': 'Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee'
 
 # Desc: Statistics
-Statistics: Statistics   # FIXME
+Statistics: Statistics
 
 # Desc: Subscribe to the newsletter as well if you'd be interested to know what we're working on - we'll keep it short, promise!
-'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!'   # FIXME
+'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!'
 
 # Desc: Sure, Blogvio works on any website
-'Sure, Blogvio works on any website': 'Sure, Blogvio works on any website'   # FIXME
+'Sure, Blogvio works on any website': 'Sure, Blogvio works on any website'
 
 # Desc: Tags
-Tags: Tags   # FIXME
+Tags: Tags
 
 # Desc: Team
-Team: Team   # FIXME
+Team: Team
 
 # Desc: Thank you
-'Thank you': 'Thank you'   # FIXME
+'Thank you': 'Thank you'
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'That''s all you need to create a'   # FIXME
+'That''s all you need to create a': 'That''s all you need to create a'
 
 # Desc: The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports
-'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports': 'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports'   # FIXME
+'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports': 'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports'
 
 # Desc: They control the widget’s appearance and behaviour
-'They control the widget’s appearance and behaviour': 'They control the widget’s appearance and behaviour'   # FIXME
+'They control the widget’s appearance and behaviour': 'They control the widget’s appearance and behaviour'
 
 # Desc: This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website
-'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website': 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website'   # FIXME
+'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website': 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website'
 
 # Desc: This email is already registered
-'This email is already registered': 'This email is already registered'   # FIXME
+'This email is already registered': 'This email is already registered'
 
 # Desc: This is helpful because you won't need to edit this code after you've used it
-'This is helpful because you won''t need to edit this code after you''ve used it': 'This is helpful because you won''t need to edit this code after you''ve used it'   # FIXME
+'This is helpful because you won''t need to edit this code after you''ve used it': 'This is helpful because you won''t need to edit this code after you''ve used it'
 
 # Desc: To create a new Skin, simply edit the properties of any Preset Skin and save it
-'To create a new Skin, simply edit the properties of any Preset Skin and save it': 'To create a new Skin, simply edit the properties of any Preset Skin and save it'   # FIXME
+'To create a new Skin, simply edit the properties of any Preset Skin and save it': 'To create a new Skin, simply edit the properties of any Preset Skin and save it'
 
 # Desc: To prevent others from using your compositions, the widgets will load only on the websites you specify
-'To prevent others from using your compositions, the widgets will load only on the websites you specify': 'To prevent others from using your compositions, the widgets will load only on the websites you specify'   # FIXME
+'To prevent others from using your compositions, the widgets will load only on the websites you specify': 'To prevent others from using your compositions, the widgets will load only on the websites you specify'
 
 # Desc: Try again
-'Try again': 'Try again'   # FIXME
+'Try again': 'Try again'
 
 # Desc: Type your e-mail address
-'Type your e-mail address': 'Type your e-mail address'   # FIXME
+'Type your e-mail address': 'Type your e-mail address'
 
 # Desc: Type your email address below
-'Type your email address below': 'Type your email address below'   # FIXME
+'Type your email address below': 'Type your email address below'
 
 # Desc: Type your first name
-'Type your first name': 'Type your first name'   # FIXME
+'Type your first name': 'Type your first name'
 
 # Desc: Type your last name
-'Type your last name': 'Type your last name'   # FIXME
+'Type your last name': 'Type your last name'
 
 # Desc: Type your message
-'Type your message': 'Type your message'   # FIXME
+'Type your message': 'Type your message'
 
 # Desc: Type your name
-'Type your name': 'Type your name'   # FIXME
+'Type your name': 'Type your name'
 
 # Desc: Untitled Composition
-'Untitled Composition': 'Untitled Composition'   # FIXME
+'Untitled Composition': 'Untitled Composition'
 
 # Desc: Use iFrame
-'Use iFrame': 'Use iFrame'   # FIXME
+'Use iFrame': 'Use iFrame'
 
 # Desc: User account is disabled
-'User account is disabled': 'User account is disabled'   # FIXME
+'User account is disabled': 'User account is disabled'
 
 # Desc: Users
-Users: Users   # FIXME
+Users: Users
 
 # Desc: Utilities
-Utilities: Utilities   # FIXME
+Utilities: Utilities
 
 # Desc: Utilities Widgets
-'Utilities Widgets': 'Utilities Widgets'   # FIXME
+'Utilities Widgets': 'Utilities Widgets'
 
 # Desc: Video
-Video: Video   # FIXME
+Video: Video
 
 # Desc: Video Widgets
-'Video Widgets': 'Video Widgets'   # FIXME
+'Video Widgets': 'Video Widgets'
 
 # Desc: View statistics<br />for your content
-'View statistics<br />for your content': 'View statistics<br />for your content'   # FIXME
+'View statistics<br />for your content': 'View statistics<br />for your content'
 
 # Desc: Want to %link% sign up %end%?
-'Want to %link% sign up %end%?': 'Want to %link% sign up %end%?'   # FIXME
+'Want to %link% sign up %end%?': 'Want to %link% sign up %end%?'
 
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
-'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?'   # FIXME
+'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?'
 
 # Desc: We also love feedback!
-'We also love feedback!': 'We also love feedback!'   # FIXME
+'We also love feedback!': 'We also love feedback!'
 
 # Desc: We are a group of technologists, part of digital agency
-'We are a group of technologists, part of digital agency': 'We are a group of technologists, part of digital agency'   # FIXME
+'We are a group of technologists, part of digital agency': 'We are a group of technologists, part of digital agency'
 
 # Desc: We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content
-'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content'   # FIXME
+'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content'
 
 # Desc: We did a little welcome video for you
-'We did a little welcome video for you': 'We did a little welcome video for you'   # FIXME
+'We did a little welcome video for you': 'We did a little welcome video for you'
 
 # Desc: We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content
-'We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content': 'We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content'   # FIXME
+'We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content': 'We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content'
 
 # Desc: We skip the missing files if no content is found
-'We skip the missing files if no content is found': 'We skip the missing files if no content is found'   # FIXME
+'We skip the missing files if no content is found': 'We skip the missing files if no content is found'
 
 # Desc: We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video
-'We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video': 'We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video'   # FIXME
+'We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video': 'We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video'
 
 # Desc: We want to make content distribution easy and fun
-'We want to make content distribution easy and fun': 'We want to make content distribution easy and fun'   # FIXME
+'We want to make content distribution easy and fun': 'We want to make content distribution easy and fun'
 
 # Desc: We will be rolling out new widgets soon! We'll make announcements when we're ready to launch them
-'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them': 'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them'   # FIXME
+'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them': 'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them'
 
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
-'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'We''d love to find out why you left Blogvio, and if there''s anything we can improve'   # FIXME
+'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'We''d love to find out why you left Blogvio, and if there''s anything we can improve'
 
 # Desc: We'll be in touch!
-'We''ll be in touch!': 'We''ll be in touch!'   # FIXME
+'We''ll be in touch!': 'We''ll be in touch!'
 
 # Desc: We're big believers in the &quot;learn by doing&quot; aproach
-'We''re big believers in the &quot;learn by doing&quot; aproach': 'We''re big believers in the &quot;learn by doing&quot; aproach'   # FIXME
+'We''re big believers in the &quot;learn by doing&quot; aproach': 'We''re big believers in the &quot;learn by doing&quot; aproach'
 
 # Desc: We're currently working on these features
-'We''re currently working on these features': 'We''re currently working on these features'   # FIXME
+'We''re currently working on these features': 'We''re currently working on these features'
 
 # Desc: We've sent an email to
-'We''ve sent an email to': 'We''ve sent an email to'   # FIXME
+'We''ve sent an email to': 'We''ve sent an email to'
 
 # Desc: Welcome
-Welcome: Welcome   # FIXME
+Welcome: Welcome
 
 # Desc: We’re always happy to hear from our customers
-'We’re always happy to hear from our customers': 'We’re always happy to hear from our customers'   # FIXME
+'We’re always happy to hear from our customers': 'We’re always happy to hear from our customers'
 
 # Desc: What can we help you with?
-'What can we help you with?': 'What can we help you with?'   # FIXME
+'What can we help you with?': 'What can we help you with?'
 
 # Desc: What file types do you support?
-'What file types do you support?': 'What file types do you support?'   # FIXME
+'What file types do you support?': 'What file types do you support?'
 
 # Desc: What is Blogvio?
-'What is Blogvio?': 'What is Blogvio?'   # FIXME
+'What is Blogvio?': 'What is Blogvio?'
 
 # Desc: What is a Composition?
-'What is a Composition?': 'What is a Composition?'   # FIXME
+'What is a Composition?': 'What is a Composition?'
 
 # Desc: What is a Preset Skin?
-'What is a Preset Skin?': 'What is a Preset Skin?'   # FIXME
+'What is a Preset Skin?': 'What is a Preset Skin?'
 
 # Desc: What is a Skin?
-'What is a Skin?': 'What is a Skin?'   # FIXME
+'What is a Skin?': 'What is a Skin?'
 
 # Desc: What is a Widget?
-'What is a Widget?': 'What is a Widget?'   # FIXME
+'What is a Widget?': 'What is a Widget?'
 
 # Desc: What should I do?
-'What should I do?': 'What should I do?'   # FIXME
+'What should I do?': 'What should I do?'
 
 # Desc: What type of widget do you need?
-'What type of widget do you need?': 'What type of widget do you need?'   # FIXME
+'What type of widget do you need?': 'What type of widget do you need?'
 
 # Desc: What's the next step?
-'What''s the next step?': 'What''s the next step?'   # FIXME
+'What''s the next step?': 'What''s the next step?'
 
 # Desc: Where do you want to embed your Compositions?
-'Where do you want to embed your Compositions?': 'Where do you want to embed your Compositions?'   # FIXME
+'Where do you want to embed your Compositions?': 'Where do you want to embed your Compositions?'
 
 # Desc: Who is Blogvio for?
-'Who is Blogvio for?': 'Who is Blogvio for?'   # FIXME
+'Who is Blogvio for?': 'Who is Blogvio for?'
 
 # Desc: Why Blogvio?
-'Why Blogvio?': 'Why Blogvio?'   # FIXME
+'Why Blogvio?': 'Why Blogvio?'
 
 # Desc: Why is this important
-'Why is this important': 'Why is this important'   # FIXME
+'Why is this important': 'Why is this important'
 
 # Desc: Why?
-'Why?': 'Why?'   # FIXME
+'Why?': 'Why?'
 
 # Desc: Widgets
-Widgets: Widgets   # FIXME
+Widgets: Widgets
 
 # Desc: With Blogvio you can add beautiful widgets to your website or blog
-'With Blogvio you can add beautiful widgets to your website or blog': 'With Blogvio you can add beautiful widgets to your website or blog'   # FIXME
+'With Blogvio you can add beautiful widgets to your website or blog': 'With Blogvio you can add beautiful widgets to your website or blog'
 
 # Desc: You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time
-'You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time'   # FIXME
+'You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time'
 
 # Desc: You can embed our widgets using the unique code provided for each composition you create
-'You can embed our widgets using the unique code provided for each composition you create': 'You can embed our widgets using the unique code provided for each composition you create'   # FIXME
+'You can embed our widgets using the unique code provided for each composition you create': 'You can embed our widgets using the unique code provided for each composition you create'
 
 # Desc: You haven't used this widget yet
-'You haven''t used this widget yet': 'You haven''t used this widget yet'   # FIXME
+'You haven''t used this widget yet': 'You haven''t used this widget yet'
 
 # Desc: Your Blogvio Account is more than just widgets
-'Your Blogvio Account is more than just widgets': 'Your Blogvio Account is more than just widgets'   # FIXME
+'Your Blogvio Account is more than just widgets': 'Your Blogvio Account is more than just widgets'
 
 # Desc: Your Email
-'Your Email': 'Your Email'   # FIXME
+'Your Email': 'Your Email'
 
 # Desc: Your changes have been successfully saved
-'Your changes have been successfully saved': 'Your changes have been successfully saved'   # FIXME
+'Your changes have been successfully saved': 'Your changes have been successfully saved'
 
 # Desc: Your email address
-'Your email address': 'Your email address'   # FIXME
+'Your email address': 'Your email address'
 
 # Desc: Your name
-'Your name': 'Your name'   # FIXME
+'Your name': 'Your name'
 
 # Desc: You’ve been logged out!
-'You’ve been logged out!': 'You’ve been logged out!'   # FIXME
+'You’ve been logged out!': 'You’ve been logged out!'
 
 # Desc: change email
-'change email': 'change email'   # FIXME
+'change email': 'change email'
 
 # Desc: come back soon
-'come back soon': 'come back soon'   # FIXME
+'come back soon': 'come back soon'
 
 # Desc: coming soon
-'coming soon': 'coming soon'   # FIXME
+'coming soon': 'coming soon'
 
 # Desc: delete your blogvio account
-'delete your blogvio account': 'delete your blogvio account'   # FIXME
+'delete your blogvio account': 'delete your blogvio account'
 
 # Desc: email changed
-'email changed': 'email changed'   # FIXME
+'email changed': 'email changed'
 
 # Desc: galleries
-galleries: galleries   # FIXME
+galleries: galleries
 
 # Desc: is disabled or deleted
-'is disabled or deleted': 'is disabled or deleted'   # FIXME
+'is disabled or deleted': 'is disabled or deleted'
 
 # Desc: is not registered
-'is not registered': 'is not registered'   # FIXME
+'is not registered': 'is not registered'
+
+# Desc: link to your content using one of the provided services
+'link to your content using one of the provided services': 'link to your content using one of the provided services'   # FIXME
 
 # Desc: log in
-'log in': 'log in'   # FIXME
-
-# Desc: on Twitter
-'on Twitter': 'on Twitter'   # FIXME
-
-# Desc: or
-or: or   # FIXME
+'log in': 'log in'
 
 # Desc: other
-other: other   # FIXME
-
-# Desc: our blog
-'our blog': 'our blog'   # FIXME
+other: other
 
 # Desc: sign up
-'sign up': 'sign up'   # FIXME
-
-# Desc: to your website
-'to your website': 'to your website'   # FIXME
+'sign up': 'sign up'
 
 # Desc: widgets
-widgets: widgets   # FIXME
+widgets: widgets
