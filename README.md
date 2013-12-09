@@ -34,7 +34,7 @@ Spanish*             | `es`      |
 Finnish*             | `fi`      |
 French*              | `fr`      |
 Hebrew*              | `he`      |
-Hindi*               | `hi`      |
+Hindi*               | `hi`      | [@abhimanyusharma003](https://github.com/abhimanyusharma003)
 Italian*             | `it`      |
 Indonesian*          | `id`      |
 Latvian*             | `lv`      |
