@@ -58,6 +58,9 @@ Account: Account
 # Desc: After you select your perfect widget, follow these simple 3 steps
 'After you select your perfect widget, follow these simple 3 steps': 'After you select your perfect widget, follow these simple 3 steps'
 
+# Desc: All your compositions
+'All your compositions': 'All your compositions'   # FIXME
+
 # Desc: Already have your content online? We can grab it for you from across the social web
 'Already have your content online? We can grab it for you from across the social web': 'Already have your content online? We can grab it for you from across the social web'
 
@@ -742,6 +745,9 @@ Widgets: Widgets
 # Desc: Your Email
 'Your Email': 'Your Email'
 
+# Desc: Your account
+'Your account': 'Your account'   # FIXME
+
 # Desc: Your account has been deleted
 'Your account has been deleted': 'Your account has been deleted'
 
@@ -788,7 +794,7 @@ galleries: galleries
 'log in': लॉगिन
 
 # Desc: or
-or: or   # FIXME
+or: or
 
 # Desc: other
 other: other
