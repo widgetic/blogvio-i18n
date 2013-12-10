@@ -25,11 +25,17 @@
 # Desc: About
 About: About
 
+# Desc: Account
+Account: Account
+
 # Desc: Account Registration
 'Account Registration': 'Account Registration'
 
 # Desc: Account Settings
 'Account Settings': 'Account Settings'
+
+# Desc: Account deleted
+'Account deleted': 'Account deleted'
 
 # Desc: Account info
 'Account info': 'Account info'
@@ -41,7 +47,7 @@ About: About
 'Add Content': 'Add Content'
 
 # Desc: Add beautiful %widgets% to your website
-'Add beautiful %widgets% to your website': 'Add beautiful %widgets% to your website'   # FIXME
+'Add beautiful %widgets% to your website': 'Add beautiful %widgets% to your website'
 
 # Desc: Add your website
 'Add your website': 'Add your website'
@@ -107,7 +113,7 @@ Browse: Browse
 'Browse all widgets': 'Browse all widgets'
 
 # Desc: But we have some interesting stuff going on %link% our blog
-'But we have some interesting stuff going on %link% our blog': 'But we have some interesting stuff going on %link% our blog'   # FIXME
+'But we have some interesting stuff going on %link% our blog': 'But we have some interesting stuff going on %link% our blog'
 
 # Desc: COPY CODE
 'COPY CODE': 'COPY CODE'
@@ -308,7 +314,7 @@ FEEDBACK: FEEDBACK
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition'
 
 # Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
-'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter'   # FIXME
+'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter'
 
 # Desc: Is Blogvio free?
 'Is Blogvio free?': 'Is Blogvio free?'
@@ -373,6 +379,9 @@ Name: Name
 # Desc: Next Step
 'Next Step': 'Next Step'
 
+# Desc: No compositions published
+'No compositions published': 'No compositions published'
+
 # Desc: No spam - ever
 'No spam - ever': 'No spam - ever'
 
@@ -415,6 +424,9 @@ Notifications: Notifications
 # Desc: Our widgets make sure not to break your website when content is missing
 'Our widgets make sure not to break your website when content is missing': 'Our widgets make sure not to break your website when content is missing'
 
+# Desc: Overview
+Overview: Overview
+
 # Desc: Password
 Password: Password
 
@@ -426,6 +438,9 @@ Photo: Photo
 
 # Desc: Pick a new password
 'Pick a new password': 'Pick a new password'
+
+# Desc: Please let us know your feedback
+'Please let us know your feedback': 'Please let us know your feedback'
 
 # Desc: Please type a password
 'Please type a password': 'Please type a password'
@@ -555,6 +570,9 @@ Team: Team
 
 # Desc: Try again
 'Try again': 'Try again'
+
+# Desc: Try one of our most popular widgets to get started
+'Try one of our most popular widgets to get started': 'Try one of our most popular widgets to get started'
 
 # Desc: Type your e-mail address
 'Type your e-mail address': 'Type your e-mail address'
@@ -718,8 +736,14 @@ Widgets: Widgets
 # Desc: Your Blogvio Account is more than just widgets
 'Your Blogvio Account is more than just widgets': 'Your Blogvio Account is more than just widgets'
 
+# Desc: Your Compositions
+'Your Compositions': 'Your Compositions'
+
 # Desc: Your Email
 'Your Email': 'Your Email'
+
+# Desc: Your account has been deleted
+'Your account has been deleted': 'Your account has been deleted'
 
 # Desc: Your changes have been successfully saved
 'Your changes have been successfully saved': 'Your changes have been successfully saved'
@@ -758,10 +782,13 @@ galleries: galleries
 'is not registered': 'is not registered'
 
 # Desc: link to your content using one of the provided services
-'link to your content using one of the provided services': 'link to your content using one of the provided services'   # FIXME
+'link to your content using one of the provided services': 'link to your content using one of the provided services'
 
 # Desc: log in
 'log in': 'log in'
+
+# Desc: or
+or: or   # FIXME
 
 # Desc: other
 other: other

@@ -25,11 +25,17 @@
 # Desc: About
 About: Despre
 
+# Desc: Account
+Account: Account
+
 # Desc: Account Registration
 'Account Registration': 'Înregistrare cont'
 
 # Desc: Account Settings
 'Account Settings': 'Setări cont'
+
+# Desc: Account deleted
+'Account deleted': 'Account deleted'
 
 # Desc: Account info
 'Account info': 'Informații cont'
@@ -307,7 +313,7 @@ FEEDBACK: SUGESTII
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'Dacă site-ul dumneavoastră nu este bazat pe una dintre aceste platforme (WordPress, Blogger, Tumblr), puteți face copy/paste la fragmentul unic de cod oferit pentru fiecare compoziție'
 
-# Desc: Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%
+# Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'Dacă doriți să spuneți salut, ne puteți scrie la %contact% sau %at_blogvio% pe Twitter'
 
 # Desc: Is Blogvio free?
@@ -373,6 +379,9 @@ Name: Nume
 # Desc: Next Step
 'Next Step': 'Pasul următor'
 
+# Desc: No compositions published
+'No compositions published': 'Nicio compozitie publicată'
+
 # Desc: No spam - ever
 'No spam - ever': 'Fără spam. Deloc.'
 
@@ -415,6 +424,9 @@ Notifications: Notificări
 # Desc: Our widgets make sure not to break your website when content is missing
 'Our widgets make sure not to break your website when content is missing': 'Widget-urile noastre validează existența conținutului pentru a nu strica site-ul dumneavoastră când acesta lipsește'
 
+# Desc: Overview
+Overview: 'Prezentare generală'
+
 # Desc: Password
 Password: Parolă
 
@@ -426,6 +438,9 @@ Photo: Foto
 
 # Desc: Pick a new password
 'Pick a new password': 'Selectați o parolă nouă'
+
+# Desc: Please let us know your feedback
+'Please let us know your feedback': 'Please let us know your feedback'
 
 # Desc: Please type a password
 'Please type a password': 'Tipăriți parola'
@@ -556,6 +571,9 @@ Team: Echipă
 # Desc: Try again
 'Try again': 'Încercați din nou'
 
+# Desc: Try one of our most popular widgets to get started
+'Try one of our most popular widgets to get started': 'Pentru inceput, încercați unul din widget-urile populare'
+
 # Desc: Type your e-mail address
 'Type your e-mail address': 'Tipăriți adresa de e-mail'
 
@@ -650,7 +668,7 @@ Video: Video
 'We''ve sent an email to': 'Am trimis un email către'
 
 # Desc: Welcome
-Welcome: Bine ați venit
+Welcome: 'Bine ați venit'
 
 # Desc: We’re always happy to hear from our customers
 'We’re always happy to hear from our customers': 'Suntem întotdeauna fericiți să primim mesaje de la clienții noștri'
@@ -718,8 +736,14 @@ Widgets: Widget-uri
 # Desc: Your Blogvio Account is more than just widgets
 'Your Blogvio Account is more than just widgets': 'Contul dumneavoastră Blogvio reprezintă mai mult decât widget-uri'
 
+# Desc: Your Compositions
+'Your Compositions': 'Compoziții'
+
 # Desc: Your Email
 'Your Email': 'Adresa de E-mail'
+
+# Desc: Your account has been deleted
+'Your account has been deleted': 'Contul tău a fost șters'
 
 # Desc: Your changes have been successfully saved
 'Your changes have been successfully saved': 'Schimbările dumneavoastră au fost salvate cu succes'
@@ -754,14 +778,17 @@ galleries: galerii
 # Desc: is disabled or deleted
 'is disabled or deleted': 'este dezactivat sau șters'
 
-# Desc: link to your content using one of the provided services
-'link to your content using one of the provided services': 'link către conținutul tău folosind unul dintre serviciile oferite'
-
 # Desc: is not registered
 'is not registered': 'nu este înregistrat'
 
+# Desc: link to your content using one of the provided services
+'link to your content using one of the provided services': 'link către conținutul tău folosind unul dintre serviciile oferite'
+
 # Desc: log in
 'log in': 'intră în cont'
+
+# Desc: or
+or: sau
 
 # Desc: other
 other: altceva
@@ -769,5 +796,5 @@ other: altceva
 # Desc: sign up
 'sign up': 'creează cont'
 
-# Desc: to your website
-'to your website': 'pe site-ul tău'
+# Desc: widgets
+widgets: widget-uri
