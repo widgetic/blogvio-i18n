@@ -157,6 +157,9 @@ Skins: Skins
 # Desc: Statistics
 Statistics: Statistics
 
+# Desc: Success save
+'Success save': 'Success save'   # FIXME
+
 # Desc: That's it
 'That''s it': 'That''s it'
 
@@ -239,7 +242,7 @@ Video: Video
 'Your graph will show up here soon': 'Your graph will show up here soon'
 
 # Desc: Your website couldn't be added
-'Your website couldn''t be added': 'Your website couldn''t be added'   # FIXME
+'Your website couldn''t be added': 'Your website couldn''t be added'
 
 # Desc: Your website has been successfully added
 'Your website has been successfully added': 'Your website has been successfully added'
@@ -261,6 +264,9 @@ Video: Video
 
 # Desc: copy code
 'copy code': 'copy code'
+
+# Desc: current password
+'current password': 'current password'   # FIXME
 
 # Desc: galleries
 galleries: galleries

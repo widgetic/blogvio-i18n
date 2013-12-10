@@ -158,7 +158,7 @@ Skins: Skin-uri
 Statistics: Statistici
 
 # Desc: Success save
-'Success save': 'Success save'   # FIXME
+'Success save': 'Success save'
 
 # Desc: That's it
 'That''s it': 'Asta-i tot'
@@ -266,7 +266,7 @@ Video: Video
 'copy code': 'copie cod'
 
 # Desc: current password
-'current password': 'parolă curentă'   # FIXME
+'current password': 'parolă curentă'
 
 # Desc: galleries
 galleries: galerii
