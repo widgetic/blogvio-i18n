@@ -58,6 +58,9 @@ Account: Account
 # Desc: After you select your perfect widget, follow these simple 3 steps
 'After you select your perfect widget, follow these simple 3 steps': 'După ce selectezi widget-ul perfect, urmează aceşti 3 paşi simpli'
 
+# Desc: All your compositions
+'All your compositions': 'Toate compoziţiile tale'
+
 # Desc: Already have your content online? We can grab it for you from across the social web
 'Already have your content online? We can grab it for you from across the social web': 'Conţinutul tău este deja online? Putem să-l colectăm pentru tine din reţeaua ta socială'
 
@@ -158,7 +161,7 @@ Compositions: Compoziţii
 Contact: Contact
 
 # Desc: Contact Us
-'Contact Us': 'Contactaţi-ne'
+'Contact Us': Contactaţi-ne
 
 # Desc: Create Composition
 'Create Composition': 'Creează compoziţie'
@@ -197,7 +200,7 @@ Delete: Şterge
 Done: Gata
 
 # Desc: Done Editing
-'Done Editing': 'Finalizează'
+'Done Editing': Finalizează
 
 # Desc: Download press kit
 'Download press kit': 'Descarcă kit-ul pentru presă'
@@ -242,7 +245,7 @@ FEEDBACK: SUGESTII
 'Find the widget you need': 'Găsește widget-ul de care ai nevoie'
 
 # Desc: First Name
-'First Name': 'Nume'
+'First Name': Nume
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Urmărește-ne pe Twitter'
@@ -326,13 +329,13 @@ FEEDBACK: SUGESTII
 'Kindly open it and follow the instructions in it to change your password': 'Vă rugăm să-l deschideţi și să urmaţi instrucţiunile din el pentru a schimba parola'
 
 # Desc: Last Name
-'Last Name': 'Prenume'
+'Last Name': Prenume
 
 # Desc: Like on Facebook
 'Like on Facebook': 'Urmărește-ne pe Facebook'
 
 # Desc: Log Out
-'Log Out': 'Deconectare'
+'Log Out': Deconectare
 
 # Desc: Main Features
 'Main Features': 'Caracteristici Principale'
@@ -542,7 +545,7 @@ Tags: Tag-uri
 Team: Echipă
 
 # Desc: Thank you
-'Thank you': 'Mulţumesc'
+'Thank you': Mulţumesc
 
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'Asta este tot ce trebuie să faceţi pentru a crea o compoziţie'
@@ -737,10 +740,13 @@ Widgets: Widget-uri
 'Your Blogvio Account is more than just widgets': 'Contul dumneavoastră Blogvio reprezintă mai mult decât widget-uri'
 
 # Desc: Your Compositions
-'Your Compositions': 'Compoziţii'
+'Your Compositions': Compoziţii
 
 # Desc: Your Email
-'Your Email': 'Adresa de E-mail'
+'Your Email': 'Adresă E-mail'
+
+# Desc: Your account
+'Your account': 'Contul tău'
 
 # Desc: Your account has been deleted
 'Your account has been deleted': 'Contul tău a fost șters'
@@ -749,10 +755,10 @@ Widgets: Widget-uri
 'Your changes have been successfully saved': 'Schimbările dumneavoastră au fost salvate cu succes'
 
 # Desc: Your email address
-'Your email address': 'Adresa de e-mail'
+'Your email address': 'Adresă E-mail'
 
 # Desc: Your name
-'Your name': 'Nume'
+'Your name': Nume
 
 # Desc: You’ve been logged out!
 'You’ve been logged out!': 'Aţi fost deconectat!'
@@ -761,7 +767,7 @@ Widgets: Widget-uri
 'change email': 'schimbă e-mail'
 
 # Desc: come back soon
-'come back soon': 'reveniţi'
+'come back soon': reveniţi
 
 # Desc: coming soon
 'coming soon': 'în curând'
