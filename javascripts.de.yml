@@ -22,6 +22,9 @@ All: All
 # Desc: Audio
 Audio: Audio
 
+# Desc: Based on %platform%
+'Based on %platform%': 'Based on %platform%'   # FIXME
+
 # Desc: Changes saved successfully!
 'Changes saved successfully!': 'Changes saved successfully!'
 
@@ -76,6 +79,9 @@ Impressions: Impressions
 # Desc: Log in
 'Log in': 'Log in'
 
+# Desc: Message sent
+'Message sent': 'Message sent'   # FIXME
+
 # Desc: Most Viewed Compositions
 'Most Viewed Compositions': 'Most Viewed Compositions'
 
@@ -100,6 +106,9 @@ Name: Name
 # Desc: Now copy this embed code and add it to one of your websites in the %settings% page
 'Now copy this embed code and add it to one of your websites in the %settings% page': 'Now copy this embed code and add it to one of your websites in the %settings% page'
 
+# Desc: Other platform
+'Other platform': 'Other platform'   # FIXME
+
 # Desc: Page
 Page: Page
 
@@ -117,6 +126,9 @@ Photo: Photo
 
 # Desc: Please check for errors
 'Please check for errors': 'Please check for errors'
+
+# Desc: Please check your email to activate your account
+'Please check your email to activate your account': 'Please check your email to activate your account'   # FIXME
 
 # Desc: Preset
 Preset: Preset
@@ -158,7 +170,10 @@ Skins: Skins
 Statistics: Statistics
 
 # Desc: Success save
-'Success save': 'Success save'   # FIXME
+'Success save': 'Success save'
+
+# Desc: Thank you
+'Thank you': 'Thank you'   # FIXME
 
 # Desc: That's it
 'That''s it': 'That''s it'
@@ -184,6 +199,9 @@ Statistics: Statistics
 # Desc: Type your current password
 'Type your current password': 'Type your current password'
 
+# Desc: Type your e-mail address
+'Type your e-mail address': 'Type your e-mail address'   # FIXME
+
 # Desc: Untitled composition
 'Untitled composition': 'Untitled composition'
 
@@ -195,6 +213,9 @@ Statistics: Statistics
 
 # Desc: User
 User: User
+
+# Desc: Users
+Users: Users   # FIXME
 
 # Desc: Utilities
 Utilities: Utilities
@@ -210,6 +231,9 @@ Video: Video
 
 # Desc: We'll see you at the finish line!
 'We''ll see you at the finish line!': 'We''ll see you at the finish line!'
+
+# Desc: What's on your mind?
+'What''s on your mind?': 'What''s on your mind?'   # FIXME
 
 # Desc: Widget Categories
 'Widget Categories': 'Widget Categories'
@@ -242,7 +266,7 @@ Video: Video
 'Your graph will show up here soon': 'Your graph will show up here soon'
 
 # Desc: Your website couldn't be added
-'Your website couldn''t be added': 'Your website couldn''t be added'   # FIXME
+'Your website couldn''t be added': 'Your website couldn''t be added'
 
 # Desc: Your website has been successfully added
 'Your website has been successfully added': 'Your website has been successfully added'
@@ -266,7 +290,10 @@ Video: Video
 'copy code': 'copy code'
 
 # Desc: current password
-'current password': 'current password'   # FIXME
+'current password': 'current password'
+
+# Desc: date
+date: date   # FIXME
 
 # Desc: galleries
 galleries: galleries
@@ -288,6 +315,9 @@ password: password
 
 # Desc: players
 players: players
+
+# Desc: popularity
+popularity: popularity   # FIXME
 
 # Desc: skin
 skin: skin

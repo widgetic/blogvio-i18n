@@ -22,6 +22,9 @@ All: Toate
 # Desc: Audio
 Audio: Audio
 
+# Desc: Based on %platform%
+'Based on %platform%': 'Bazat pe %platform%'
+
 # Desc: Changes saved successfully!
 'Changes saved successfully!': 'Schimbările au fost salvate cu succes!'
 
@@ -44,7 +47,7 @@ Created: Creat
 Delete: Şters
 
 # Desc: Doesn't look like a valid %thing%
-'Doesn''t look like a valid %thing%': 'Nu pare să fie %thing% valid'
+'Doesn''t look like a valid %thing%': 'Nu pare să fie un %thing% valid'
 
 # Desc: Duplicate
 Duplicate: Duplică
@@ -76,6 +79,9 @@ Impressions: Vizionări
 # Desc: Log in
 'Log in': 'Intră în cont'
 
+# Desc: Message sent
+'Message sent': 'Mesaj trimis'
+
 # Desc: Most Viewed Compositions
 'Most Viewed Compositions': 'Cele mai vizionate Compoziţii'
 
@@ -100,6 +106,9 @@ Name: Nume
 # Desc: Now copy this embed code and add it to one of your websites in the %settings% page
 'Now copy this embed code and add it to one of your websites in the %settings% page': 'Acum copiaţi acest fragment de cod și încorporaţi-l într-unul dintre site-urile adăugate în pagina de %settings%'
 
+# Desc: Other platform
+'Other platform': 'Altă platformă'
+
 # Desc: Page
 Page: Pagină
 
@@ -117,6 +126,9 @@ Photo: Foto
 
 # Desc: Please check for errors
 'Please check for errors': 'Vă rugăm să verificaţi'
+
+# Desc: Please check your email to activate your account
+'Please check your email to activate your account': 'Please check your email to activate your account'
 
 # Desc: Preset
 Preset: Predefinit
@@ -160,6 +172,9 @@ Statistics: Statistici
 # Desc: Success save
 'Success save': 'Success save'
 
+# Desc: Thank you
+'Thank you': Multumim
+
 # Desc: That's it
 'That''s it': 'Asta-i tot'
 
@@ -184,6 +199,9 @@ Statistics: Statistici
 # Desc: Type your current password
 'Type your current password': 'Introduceţi parola curentă'
 
+# Desc: Type your e-mail address
+'Type your e-mail address': 'Introduceţi adresa dumneavoastră de email'
+
 # Desc: Untitled composition
 'Untitled composition': 'Compoziţie fără nume'
 
@@ -195,6 +213,9 @@ Statistics: Statistici
 
 # Desc: User
 User: Utilizator
+
+# Desc: Users
+Users: Utilizatori
 
 # Desc: Utilities
 Utilities: Utilităţi
@@ -210,6 +231,9 @@ Video: Video
 
 # Desc: We'll see you at the finish line!
 'We''ll see you at the finish line!': 'Ne vedem la ultimul pas!'
+
+# Desc: What's on your mind?
+'What''s on your mind?': 'Cum am putea îmbunătăți site-ul?'
 
 # Desc: Widget Categories
 'Widget Categories': 'Categorii de Widget-uri'
@@ -268,6 +292,9 @@ Video: Video
 # Desc: current password
 'current password': 'parolă curentă'
 
+# Desc: date
+date: dată
+
 # Desc: galleries
 galleries: galerii
 
@@ -288,6 +315,9 @@ password: parolă
 
 # Desc: players
 players: playere
+
+# Desc: popularity
+popularity: popularitate
 
 # Desc: skin
 skin: skin
