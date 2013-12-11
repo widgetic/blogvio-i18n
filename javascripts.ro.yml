@@ -4,6 +4,9 @@
 # Desc: Add content
 'Add content': 'Adaugă conţinut'
 
+# Desc: Add website
+'Add website': 'Add website'   # FIXME
+
 # Desc: Add your first host now
 'Add your first host now': 'Adaugă primul tău domeniu'
 
@@ -308,7 +311,7 @@ impressions: vizualizări
 'last 7 days': 'ultimele 7 zile'
 
 # Desc: or use
-'or use': 'sau folosiţi'
+'or use': sau
 
 # Desc: password
 password: parolă
@@ -338,7 +341,7 @@ you:
     can:
         embed:
             # Desc: {0}Embed Your Compositions In These Websites|{1}You Can Embed Compositions In One More Website|]1,Inf]You Can Embed Compositions In %count% More Websites
-            hosts: '{0}Încorporaţi compoziţiile dumneavoastră în următoarele site-uri|{1}Puteţi încorpora compoziţiile doar într-un singur alt site|]1,Inf]Puteţi încorpora compoziţiile in inca %count% site-uri'
+            hosts: '{0}Încorporaţi compoziţiile dumneavoastră în următoarele site-uri|{1}Puteţi încorpora compoziţiile doar într-un singur alt site|]1,Inf]Puteţi încorpora compoziţiile în înca %count% site-uri'
 
             # Desc: [0,Inf]You Can Embed Compositions In %count% Websites
-            hosts.max: '[0,Inf]Puteţi încorpora compoziţiile in %count% site-uri'
+            hosts.max: '[0,Inf]Puteţi încorpora compoziţiile în %count% site-uri'

@@ -124,6 +124,9 @@ Browse: Browse
 # Desc: Can I use Blogvio on my website?
 'Can I use Blogvio on my website?': 'Can I use Blogvio on my website?'
 
+# Desc: Careers
+Careers: Careers   # FIXME
+
 # Desc: Change password
 'Change password': 'Change password'
 
@@ -135,6 +138,9 @@ Browse: Browse
 
 # Desc: Choose your website's platform
 'Choose your website''s platform': 'Choose your website''s platform'
+
+# Desc: Close description
+'Close description': 'Close description'   # FIXME
 
 # Desc: Coming soon
 'Coming soon': 'Coming soon'
@@ -457,8 +463,14 @@ Plugins: Plugins
 # Desc: Popular Widgets
 'Popular Widgets': 'Popular Widgets'
 
+# Desc: Preset Skin
+'Preset Skin': 'Preset Skin'   # FIXME
+
 # Desc: Press
-Press: Press   # FIXME
+Press: Press
+
+# Desc: Privacy Policy
+'Privacy Policy': 'Privacy Policy'   # FIXME
 
 # Desc: Re-type New Password
 'Re-type New Password': 'Re-type New Password'
@@ -547,6 +559,9 @@ Tags: Tags
 # Desc: Team
 Team: Team
 
+# Desc: Terms of Service
+'Terms of Service': 'Terms of Service'   # FIXME
+
 # Desc: Thank you
 'Thank you': 'Thank you'
 
@@ -575,7 +590,7 @@ Team: Team
 'To prevent others from using your compositions, the widgets will load only on the websites you specify': 'To prevent others from using your compositions, the widgets will load only on the websites you specify'
 
 # Desc: Tour
-Tour: Tour   # FIXME
+Tour: Tour
 
 # Desc: Try again
 'Try again': 'Try again'

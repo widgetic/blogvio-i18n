@@ -4,6 +4,9 @@
 # Desc: Add content
 'Add content': 'Add content'
 
+# Desc: Add website
+'Add website': 'Add website'   # FIXME
+
 # Desc: Add your first host now
 'Add your first host now': 'Add your first host now'
 
@@ -23,7 +26,7 @@ All: All
 Audio: Audio
 
 # Desc: Based on %platform%
-'Based on %platform%': 'Based on %platform%'   # FIXME
+'Based on %platform%': 'Based on %platform%'
 
 # Desc: Changes saved successfully!
 'Changes saved successfully!': 'Changes saved successfully!'
@@ -80,7 +83,7 @@ Impressions: Impressions
 'Log in': 'Log in'
 
 # Desc: Message sent
-'Message sent': 'Message sent'   # FIXME
+'Message sent': 'Message sent'
 
 # Desc: Most Viewed Compositions
 'Most Viewed Compositions': 'Most Viewed Compositions'
@@ -107,7 +110,7 @@ Name: Name
 'Now copy this embed code and add it to one of your websites in the %settings% page': 'Now copy this embed code and add it to one of your websites in the %settings% page'
 
 # Desc: Other platform
-'Other platform': 'Other platform'   # FIXME
+'Other platform': 'Other platform'
 
 # Desc: Page
 Page: Page
@@ -128,7 +131,7 @@ Photo: Photo
 'Please check for errors': 'Please check for errors'
 
 # Desc: Please check your email to activate your account
-'Please check your email to activate your account': 'Please check your email to activate your account'   # FIXME
+'Please check your email to activate your account': 'Please check your email to activate your account'
 
 # Desc: Preset
 Preset: Preset
@@ -173,7 +176,7 @@ Statistics: Statistics
 'Success save': 'Success save'
 
 # Desc: Thank you
-'Thank you': 'Thank you'   # FIXME
+'Thank you': 'Thank you'
 
 # Desc: That's it
 'That''s it': 'That''s it'
@@ -200,7 +203,7 @@ Statistics: Statistics
 'Type your current password': 'Type your current password'
 
 # Desc: Type your e-mail address
-'Type your e-mail address': 'Type your e-mail address'   # FIXME
+'Type your e-mail address': 'Type your e-mail address'
 
 # Desc: Untitled composition
 'Untitled composition': 'Untitled composition'
@@ -215,7 +218,7 @@ Statistics: Statistics
 User: User
 
 # Desc: Users
-Users: Users   # FIXME
+Users: Users
 
 # Desc: Utilities
 Utilities: Utilities
@@ -233,7 +236,7 @@ Video: Video
 'We''ll see you at the finish line!': 'We''ll see you at the finish line!'
 
 # Desc: What's on your mind?
-'What''s on your mind?': 'What''s on your mind?'   # FIXME
+'What''s on your mind?': 'What''s on your mind?'
 
 # Desc: Widget Categories
 'Widget Categories': 'Widget Categories'
@@ -293,7 +296,7 @@ Video: Video
 'current password': 'current password'
 
 # Desc: date
-date: date   # FIXME
+date: date
 
 # Desc: galleries
 galleries: galleries
@@ -317,7 +320,7 @@ password: password
 players: players
 
 # Desc: popularity
-popularity: popularity   # FIXME
+popularity: popularity
 
 # Desc: skin
 skin: skin
