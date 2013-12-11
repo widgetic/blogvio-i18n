@@ -59,7 +59,7 @@ Account: Account
 'After you select your perfect widget, follow these simple 3 steps': 'After you select your perfect widget, follow these simple 3 steps'
 
 # Desc: All your compositions
-'All your compositions': 'All your compositions'   # FIXME
+'All your compositions': 'All your compositions'
 
 # Desc: Already have your content online? We can grab it for you from across the social web
 'Already have your content online? We can grab it for you from across the social web': 'Already have your content online? We can grab it for you from across the social web'
@@ -457,6 +457,9 @@ Plugins: Plugins
 # Desc: Popular Widgets
 'Popular Widgets': 'Popular Widgets'
 
+# Desc: Press
+Press: Press   # FIXME
+
 # Desc: Re-type New Password
 'Re-type New Password': 'Re-type New Password'
 
@@ -570,6 +573,9 @@ Team: Team
 
 # Desc: To prevent others from using your compositions, the widgets will load only on the websites you specify
 'To prevent others from using your compositions, the widgets will load only on the websites you specify': 'To prevent others from using your compositions, the widgets will load only on the websites you specify'
+
+# Desc: Tour
+Tour: Tour   # FIXME
 
 # Desc: Try again
 'Try again': 'Try again'
@@ -746,7 +752,7 @@ Widgets: Widgets
 'Your Email': 'Your Email'
 
 # Desc: Your account
-'Your account': 'Your account'   # FIXME
+'Your account': 'Your account'
 
 # Desc: Your account has been deleted
 'Your account has been deleted': 'Your account has been deleted'

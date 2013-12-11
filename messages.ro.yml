@@ -26,7 +26,7 @@
 About: Despre
 
 # Desc: Account
-Account: Account
+Account: Cont
 
 # Desc: Account Registration
 'Account Registration': 'Înregistrare cont'
@@ -44,7 +44,7 @@ Account: Account
 'Account password': 'Parolă cont'
 
 # Desc: Add Content
-'Add Content': 'Adaugă conţinut'
+'Add Content': 'Adaugă Conţinut'
 
 # Desc: Add beautiful %widgets% to your website
 'Add beautiful %widgets% to your website': 'Adaugă %widgets% frumoase pe site-ul tău'
@@ -386,7 +386,7 @@ Name: Nume
 'No compositions published': 'Nicio compozitie publicată'
 
 # Desc: No spam - ever
-'No spam - ever': 'Fără spam. Deloc.'
+'No spam - ever': 'Fără spam. Deloc'
 
 # Desc: Note
 Note: Notă
@@ -457,6 +457,9 @@ Plugins: Plugin-uri
 # Desc: Popular Widgets
 'Popular Widgets': 'Widget-uri Populare'
 
+# Desc: Press
+Press: Presă
+
 # Desc: Re-type New Password
 'Re-type New Password': 'Retipăriţi noua parolă'
 
@@ -491,7 +494,7 @@ SEND: TRIMITE
 Search: Caută
 
 # Desc: Select a
-'Select a': 'Selectează o'
+'Select a': 'Selectează un'
 
 # Desc: Select a password
 'Select a password': 'Selectează o parolă'
@@ -548,7 +551,7 @@ Team: Echipă
 'Thank you': Mulţumesc
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'Asta este tot ce trebuie să faceţi pentru a crea o compoziţie'
+'That''s all you need to create a': 'Asta este tot ce trebuie să faceţi pentru a crea o'
 
 # Desc: The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports
 'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports': 'Widget-urile pe care le găsești pe Blogvio te ajută să afișezi frumos conţinutul tău pe orice dispozitiv mobil sau desktop, în timp ce noi îţi oferim acces la diferite tipuri de statistici'
@@ -570,6 +573,9 @@ Team: Echipă
 
 # Desc: To prevent others from using your compositions, the widgets will load only on the websites you specify
 'To prevent others from using your compositions, the widgets will load only on the websites you specify': 'Pentru a preveni ca alţi utilizatori să folosească compoziţiile pe care le-aţi creat, widget-urile se vor încărca doar pe site-urile pe care le-aţi specificat'
+
+# Desc: Tour
+Tour: Tur
 
 # Desc: Try again
 'Try again': 'Încercaţi din nou'
