@@ -125,7 +125,7 @@ Browse: Browse
 'Can I use Blogvio on my website?': 'Can I use Blogvio on my website?'
 
 # Desc: Careers
-Careers: Careers   # FIXME
+Careers: Careers
 
 # Desc: Change password
 'Change password': 'Change password'
@@ -140,7 +140,7 @@ Careers: Careers   # FIXME
 'Choose your website''s platform': 'Choose your website''s platform'
 
 # Desc: Close description
-'Close description': 'Close description'   # FIXME
+'Close description': 'Close description'
 
 # Desc: Coming soon
 'Coming soon': 'Coming soon'
@@ -307,9 +307,6 @@ FEEDBACK: FEEDBACK
 # Desc: How to add more websites
 'How to add more websites': 'How to add more websites'
 
-# Desc: How to add more websites?
-'How to add more websites?': 'How to add more websites?'
-
 # Desc: I'm stuck
 'I''m stuck': 'I''m stuck'
 
@@ -464,13 +461,13 @@ Plugins: Plugins
 'Popular Widgets': 'Popular Widgets'
 
 # Desc: Preset Skin
-'Preset Skin': 'Preset Skin'   # FIXME
+'Preset Skin': 'Preset Skin'
 
 # Desc: Press
 Press: Press
 
 # Desc: Privacy Policy
-'Privacy Policy': 'Privacy Policy'   # FIXME
+'Privacy Policy': 'Privacy Policy'
 
 # Desc: Re-type New Password
 'Re-type New Password': 'Re-type New Password'
@@ -560,7 +557,7 @@ Tags: Tags
 Team: Team
 
 # Desc: Terms of Service
-'Terms of Service': 'Terms of Service'   # FIXME
+'Terms of Service': 'Terms of Service'
 
 # Desc: Thank you
 'Thank you': 'Thank you'
@@ -748,8 +745,8 @@ Widgets: Widgets
 # Desc: With Blogvio you can add beautiful widgets to your website or blog
 'With Blogvio you can add beautiful widgets to your website or blog': 'With Blogvio you can add beautiful widgets to your website or blog'
 
-# Desc: You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time
-'You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time'
+# Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
+'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time'   # FIXME
 
 # Desc: You can embed our widgets using the unique code provided for each composition you create
 'You can embed our widgets using the unique code provided for each composition you create': 'You can embed our widgets using the unique code provided for each composition you create'

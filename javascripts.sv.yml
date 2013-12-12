@@ -5,7 +5,7 @@
 'Add content': 'Add content'
 
 # Desc: Add website
-'Add website': 'Add website'   # FIXME
+'Add website': 'Add website'
 
 # Desc: Add your first host now
 'Add your first host now': 'Add your first host now'
@@ -70,9 +70,6 @@ Duplicate: Duplicate
 # Desc: Impressions
 Impressions: Impressions
 
-# Desc: Impressions by category
-'Impressions by category': 'Impressions by category'
-
 # Desc: Impressions is the number of times a composition is seen by visitors to your site
 'Impressions is the number of times a composition is seen by visitors to your site': 'Impressions is the number of times a composition is seen by visitors to your site'
 
@@ -90,6 +87,9 @@ Impressions: Impressions
 
 # Desc: Name
 Name: Name
+
+# Desc: New Skin
+'New Skin': 'New Skin'   # FIXME
 
 # Desc: No data available
 'No data available': 'No data available'
@@ -159,6 +159,9 @@ Send: Send
 
 # Desc: Sending
 Sending: Sending
+
+# Desc: Settings
+Settings: Settings   # FIXME
 
 # Desc: Skin name has been successfully changed
 'Skin name has been successfully changed': 'Skin name has been successfully changed'
@@ -301,6 +304,9 @@ date: date
 # Desc: galleries
 galleries: galleries
 
+# Desc: height
+height: height   # FIXME
+
 # Desc: impressions
 impressions: impressions
 
@@ -333,6 +339,9 @@ utilities: utilities
 
 # Desc: widgets
 widgets: widgets
+
+# Desc: width
+width: width   # FIXME
 
 # Desc: yesterday
 yesterday: yesterday

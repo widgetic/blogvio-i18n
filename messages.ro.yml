@@ -71,7 +71,7 @@ Account: Cont
 'Analyze, create and share your best content yet': 'Analizează, creează şi distribuie cel mai bun conţinut al tău'
 
 # Desc: And it is based on
-'And it is based on': 'And it is based on'
+'And it is based on': 'Bazat pe'
 
 # Desc: Any updates you make will use the same embed code
 'Any updates you make will use the same embed code': 'Orice actualizări veţi face, vor folosi acelaşi fragment de cod'
@@ -307,9 +307,6 @@ FEEDBACK: SUGESTII
 # Desc: How to add more websites
 'How to add more websites': 'Cum să adaug mai multe site-uri'
 
-# Desc: How to add more websites?
-'How to add more websites?': 'Cum să adaug mai multe site-uri?'
-
 # Desc: I'm stuck
 'I''m stuck': 'M-am blocat'
 
@@ -389,7 +386,7 @@ Name: Nume
 'Next Step': 'Pasul următor'
 
 # Desc: No compositions published
-'No compositions published': 'Nicio compozitie publicată'
+'No compositions published': 'Nici o compozitie publicată'
 
 # Desc: No spam - ever
 'No spam - ever': 'Fără spam. Deloc'
@@ -449,7 +446,7 @@ Photo: Foto
 'Pick a new password': 'Selectaţi o parolă nouă'
 
 # Desc: Please let us know your feedback
-'Please let us know your feedback': 'Please let us know your feedback'
+'Please let us know your feedback': 'um am putea îmbunătăți site-ul?'
 
 # Desc: Please type a password
 'Please type a password': 'Tipăriţi parola'
@@ -530,7 +527,7 @@ Settings: Setări
 'Sign Up': 'Creează Cont'
 
 # Desc: Sign up to experience just how much Blogvio can help you &amp; your website
-'Sign up to experience just how much Blogvio can help you &amp; your website': 'Crează un cont pe Blogvio pentru a întelege cât de mult te poate ajuta atât pe tine cât și pe site-ul tău'
+'Sign up to experience just how much Blogvio can help you &amp; your website': 'Creează un cont pe Blogvio pentru a întelege cât de mult te poate ajuta atât pe tine cât și pe site-ul tău'
 
 # Desc: Sign up with
 'Sign up with': 'Creează cont folosind'
@@ -596,7 +593,7 @@ Tour: Tur
 'Try again': 'Încercaţi din nou'
 
 # Desc: Try one of our most popular widgets to get started
-'Try one of our most popular widgets to get started': 'Pentru inceput, încercaţi unul din widget-urile populare'
+'Try one of our most popular widgets to get started': 'Pentru inceput, încercaţi unul dintre widget-urile populare'
 
 # Desc: Type your e-mail address
 'Type your e-mail address': 'Tipăriţi adresa de e-mail'
@@ -677,7 +674,7 @@ Video: Video
 'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them': 'Vom lansa widget-uri noi în curând! Vom anunţa când suntem gata să le lansăm'
 
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
-'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Ne-ar ajuta să aflăm de ce aţi renunţat la Blogvio și dacă există ceva ce am putea îmbunătăţi'
+'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Ne-ar ajuta să aflăm de ce aţi renunţat la Blogvio și dacă putem îmbunătăţi ceva'
 
 # Desc: We'll be in touch!
 'We''ll be in touch!': 'Vom fi în contact!'
@@ -748,8 +745,8 @@ Widgets: Widget-uri
 # Desc: With Blogvio you can add beautiful widgets to your website or blog
 'With Blogvio you can add beautiful widgets to your website or blog': 'Cu Blogvio puteţi adăuga widget-uri frumoase pe site-ul, ori blog-ul dumneavoastră'
 
-# Desc: You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time
-'You can change the values of data-width and and data-height to change the width and height of the composition, and it will be updated in real time': 'Puteţi schimba valorile pentru data-width și data-height pentru a schimba dimensiunile compoziţiei, și va fi actualizată în timp real'
+# Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
+'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Puteţi schimba valorile pentru data-width și data-height pentru a schimba dimensiunile compoziţiei, și va fi actualizată în timp real'
 
 # Desc: You can embed our widgets using the unique code provided for each composition you create
 'You can embed our widgets using the unique code provided for each composition you create': 'Puteţi încorpora widget-urile noastre folosind fragmentul de cod unic oferit pentru fiecare compoziţie pe care o creaţi'
