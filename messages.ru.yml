@@ -53,7 +53,7 @@ Actions: Actions
 'Add Content': 'Добавить содержимое'
 
 # Desc: Add beautiful widgets to your website
-'Add beautiful %widgets% to your website': 'Добавить красивые %виджеты% на ваш сайт'
+'Add beautiful %widgets% to your website': 'Добавить красивые %widgets% на ваш сайт'
 
 # Desc: Add your website
 'Add your website': 'Добавить свой сайт'
@@ -866,4 +866,4 @@ other: other
 'sign up': 'sign up'
 
 # Desc: widgets
-widgets: widgets
+widgets: виджеты
