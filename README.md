@@ -7,6 +7,11 @@ This repository contains all of the internationalization files.
 
 Simply open a pull request to contribute a new translation or fix. English is the reference translation. 
 
+> Note that the names between % are variables, this means that you aren't supposed to translate them.
+>
+> eg. 'Add beautiful `%widgets%` to your website' becomes: 'Добавить красивые `%widgets%` на ваш сайт'
+
+
 If you are changing a previous translation, please explain why.
 Don't forget to add yourself to the Contributors too! :smile:
 
