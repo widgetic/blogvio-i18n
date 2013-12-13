@@ -43,6 +43,12 @@ Account: Cont
 # Desc: Account password
 'Account password': 'Parolă cont'
 
+# Desc: Actions
+Actions: Actiuni
+
+# Desc: Activationkey not found
+'Activationkey not found': 'Cheia de activare nu a fost găsită'
+
 # Desc: Add Content
 'Add Content': 'Adaugă Conţinut'
 
@@ -202,6 +208,9 @@ Delete: Şterge
 # Desc: Does Blogvio work on mobile devices?
 'Does Blogvio work on mobile devices?': 'Blogvio funcţionează pe dispozitive mobile?'
 
+# Desc: Doesn't look like a valid email
+'Doesn''t look like a valid email': 'Nu pare să fie un email valid'
+
 # Desc: Done
 Done: Gata
 
@@ -229,6 +238,9 @@ Duplicate: Duplică
 # Desc: Email address is verified
 'Email address is verified': 'Adresa de e-mail este confirmată'
 
+# Desc: Email already used
+'Email already used': 'Email deja utilizat'
+
 # Desc: Email successfully subscribed
 'Email successfully subscribed': 'E-mail abonat cu succes'
 
@@ -240,6 +252,9 @@ Duplicate: Duplică
 
 # Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Explorează galeria noastră de widget-uri'
+
+# Desc: FAQ
+FAQ: Întrebări
 
 # Desc: FEEDBACK
 FEEDBACK: SUGESTII
@@ -322,6 +337,12 @@ FEEDBACK: SUGESTII
 # Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'Dacă doriţi să spuneţi salut, ne puteţi scrie la %contact% sau %at_blogvio% pe Twitter'
 
+# Desc: Incorrect password
+'Incorrect password': 'Parolă Incorectă'
+
+# Desc: Invalid user
+'Invalid user': 'Utilizator invalid'
+
 # Desc: Is Blogvio free?
 'Is Blogvio free?': 'Blogvio este gratis?'
 
@@ -340,6 +361,9 @@ FEEDBACK: SUGESTII
 # Desc: Log Out
 'Log Out': Deconectare
 
+# Desc: Looks like the old password
+'Looks like the old password': 'Pare a fi aceeaşi parolă cu cea veche'
+
 # Desc: Main Features
 'Main Features': 'Caracteristici Principale'
 
@@ -348,6 +372,9 @@ FEEDBACK: SUGESTII
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Profitaţi de Blogvio la maxim'
+
+# Desc: Maximum number of allowed hosts has been reached
+'Maximum number of allowed hosts has been reached': 'Aţi atins limita de hosturi'
 
 # Desc: Message successfully sent
 'Message successfully sent': 'Mesaj trimis cu succes'
@@ -436,6 +463,12 @@ Overview: 'Prezentare generală'
 # Desc: Password
 Password: Parolă
 
+# Desc: Password must be at least 6 characters
+'Password must be at least 6 characters': 'Parola trebuie să aibă cel puţin 6 caractere'
+
+# Desc: Password must match
+'Password must match': 'Parolele trebuie să corespundă'
+
 # Desc: Photo
 Photo: Foto
 
@@ -445,8 +478,17 @@ Photo: Foto
 # Desc: Pick a new password
 'Pick a new password': 'Selectaţi o parolă nouă'
 
+# Desc: Please enter the new password again
+'Please enter the new password again': 'Vă rugăm reintroduceți noua parolă'
+
 # Desc: Please let us know your feedback
 'Please let us know your feedback': 'um am putea îmbunătăți site-ul?'
+
+# Desc: Please select another one
+'Please select another one': 'Vă rugăm selectaţi alta'
+
+# Desc: Please specify your old password
+'Please specify your old password': 'Introduceți vechea parolă'
 
 # Desc: Please type a password
 'Please type a password': 'Tipăriţi parola'
@@ -502,11 +544,8 @@ SEND: TRIMITE
 # Desc: Search
 Search: Caută
 
-# Desc: Select a
-'Select a': 'Selectează un'
-
-# Desc: Select a password
-'Select a password': 'Selectează o parolă'
+# Desc: Select a %thing%
+'Select a %thing%': 'Selectează o %thing%'
 
 # Desc: Send us an email
 'Send us an email': 'Trimite-ne un e-mail'
@@ -564,6 +603,12 @@ Team: Echipă
 
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'Aceștia sunt pașii necesari pentru a crea o'
+
+# Desc: The password is too obvious
+'The password is too obvious': 'Parola este prea evidentă'
+
+# Desc: The provided key wasn't found
+'The provided key wasn''t found': 'Cheia introdusă nu a fost găsită'
 
 # Desc: The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports
 'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports': 'Widget-urile pe care le găsești pe Blogvio te ajută să afișezi frumos conţinutul tău pe orice dispozitiv mobil sau desktop, în timp ce noi îţi oferim acces la diferite tipuri de statistici'
@@ -745,6 +790,9 @@ Widgets: Widget-uri
 # Desc: With Blogvio you can add beautiful widgets to your website or blog
 'With Blogvio you can add beautiful widgets to your website or blog': 'Cu Blogvio puteţi adăuga widget-uri frumoase pe site-ul, ori blog-ul dumneavoastră'
 
+# Desc: Wrong email adress
+'Wrong email adress': 'Adresă de email greșită'
+
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Puteţi schimba valorile pentru data-width și data-height pentru a schimba dimensiunile compoziţiei, și va fi actualizată în timp real'
 
@@ -783,9 +831,6 @@ Widgets: Widget-uri
 
 # Desc: change email
 'change email': 'schimbă e-mail'
-
-# Desc: come back soon
-'come back soon': reveniţi
 
 # Desc: coming soon
 'coming soon': 'în curând'

@@ -5,7 +5,7 @@
 'Add content': 'Adaugă conţinut'
 
 # Desc: Add website
-'Add website': 'Add website'
+'Add website': 'Adaugă un site'
 
 # Desc: Add your first host now
 'Add your first host now': 'Adaugă primul tău domeniu'
@@ -25,11 +25,17 @@ All: Toate
 # Desc: Audio
 Audio: Audio
 
+# Desc: Back
+Back: Înapoi
+
 # Desc: Based on %platform%
 'Based on %platform%': 'Bazat pe %platform%'
 
 # Desc: Changes saved successfully!
 'Changes saved successfully!': 'Schimbările au fost salvate cu succes!'
+
+# Desc: Close
+Close: Închide
 
 # Desc: Coming soon
 'Coming soon': 'În curând'
@@ -58,6 +64,9 @@ Duplicate: Duplică
 # Desc: Edit details
 'Edit details': 'Actualizează detalii'
 
+# Desc: Embeds
+Embeds: Încorporări
+
 # Desc: Forgot it?
 'Forgot it?': 'Aţi uitat parola?'
 
@@ -69,6 +78,9 @@ Duplicate: Duplică
 
 # Desc: Impressions
 Impressions: Vizionări
+
+# Desc: Impressions by category
+'Impressions by category': 'Vizualizări pe categorii'
 
 # Desc: Impressions is the number of times a composition is seen by visitors to your site
 'Impressions is the number of times a composition is seen by visitors to your site': 'Vizionările reprezintă numărul de vizitatori ai site-ului dumneavoastră ce văd o compoziţie'
@@ -90,6 +102,9 @@ Name: Nume
 
 # Desc: New Skin
 'New Skin': 'Skin Nou'
+
+# Desc: Next tip
+'Next tip': 'Următorul sfat'
 
 # Desc: No data available
 'No data available': 'Nu există date disponibile'
@@ -199,6 +214,9 @@ Statistics: Statistici
 # Desc: This website is already in your list
 'This website is already in your list': 'Acest site este deja în lista dumneavoastră'
 
+# Desc: Tip
+Tip: Sfat
+
 # Desc: Try again later
 'Try again later': 'Încercaţi din nou mai târziu'
 
@@ -208,8 +226,8 @@ Statistics: Statistici
 # Desc: Type your e-mail address
 'Type your e-mail address': 'Introduceţi adresa dumneavoastră de email'
 
-# Desc: Untitled composition
-'Untitled composition': 'Compoziţie fără nume'
+# Desc: Untitled Composition
+'Untitled Composition': 'Compoziţie Fără Nume'
 
 # Desc: Use the %editor_plugin% if the website is based on a popular platform
 'Use the %editor_plugin% if the website is based on a popular platform': 'Folosiţi %editor_plugin% dacă site-ul este bazat pe o platformă populară'

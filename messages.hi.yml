@@ -43,6 +43,12 @@ Account: Account
 # Desc: Account password
 'Account password': 'खाते का पासवर्ड'
 
+# Desc: Actions
+Actions: Actions
+
+# Desc: Activationkey not found
+'Activationkey not found': 'Activationkey not found'
+
 # Desc: Add Content
 'Add Content': 'Add Content'
 
@@ -202,6 +208,9 @@ Delete: Delete
 # Desc: Does Blogvio work on mobile devices?
 'Does Blogvio work on mobile devices?': 'Does Blogvio work on mobile devices?'
 
+# Desc: Doesn't look like a valid email
+'Doesn''t look like a valid email': 'Doesn''t look like a valid email'
+
 # Desc: Done
 Done: Done
 
@@ -229,6 +238,9 @@ Duplicate: Duplicate
 # Desc: Email address is verified
 'Email address is verified': 'Email address is verified'
 
+# Desc: Email already used
+'Email already used': 'Email already used'
+
 # Desc: Email successfully subscribed
 'Email successfully subscribed': 'Email successfully subscribed'
 
@@ -240,6 +252,9 @@ Duplicate: Duplicate
 
 # Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Explore our widgets gallery'
+
+# Desc: FAQ
+FAQ: FAQ
 
 # Desc: FEEDBACK
 FEEDBACK: FEEDBACK
@@ -322,6 +337,12 @@ FEEDBACK: FEEDBACK
 # Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter'
 
+# Desc: Incorrect password
+'Incorrect password': 'Incorrect password'
+
+# Desc: Invalid user
+'Invalid user': 'Invalid user'
+
 # Desc: Is Blogvio free?
 'Is Blogvio free?': 'Is Blogvio free?'
 
@@ -340,6 +361,9 @@ FEEDBACK: FEEDBACK
 # Desc: Log Out
 'Log Out': 'Log Out'
 
+# Desc: Looks like the old password
+'Looks like the old password': 'Looks like the old password'
+
 # Desc: Main Features
 'Main Features': 'Main Features'
 
@@ -348,6 +372,9 @@ FEEDBACK: FEEDBACK
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Making the most of Blogvio'
+
+# Desc: Maximum number of allowed hosts has been reached
+'Maximum number of allowed hosts has been reached': 'Maximum number of allowed hosts has been reached'
 
 # Desc: Message successfully sent
 'Message successfully sent': 'Message successfully sent'
@@ -436,6 +463,12 @@ Overview: Overview
 # Desc: Password
 Password: Password
 
+# Desc: Password must be at least 6 characters
+'Password must be at least 6 characters': 'Password must be at least 6 characters'
+
+# Desc: Password must match
+'Password must match': 'Password must match'
+
 # Desc: Photo
 Photo: Photo
 
@@ -445,8 +478,17 @@ Photo: Photo
 # Desc: Pick a new password
 'Pick a new password': 'Pick a new password'
 
+# Desc: Please enter the new password again
+'Please enter the new password again': 'Please enter the new password again'
+
 # Desc: Please let us know your feedback
 'Please let us know your feedback': 'Please let us know your feedback'
+
+# Desc: Please select another one
+'Please select another one': 'Please select another one'
+
+# Desc: Please specify your old password
+'Please specify your old password': 'Please specify your old password'
 
 # Desc: Please type a password
 'Please type a password': 'Please type a password'
@@ -502,11 +544,8 @@ SEND: SEND
 # Desc: Search
 Search: Search
 
-# Desc: Select a
-'Select a': 'Select a'
-
-# Desc: Select a password
-'Select a password': 'Select a password'
+# Desc: Select a %thing%
+'Select a %thing%': 'Select a %thing%'
 
 # Desc: Send us an email
 'Send us an email': 'Send us an email'
@@ -564,6 +603,12 @@ Team: Team
 
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'That''s all you need to create a'
+
+# Desc: The password is too obvious
+'The password is too obvious': 'The password is too obvious'
+
+# Desc: The provided key wasn't found
+'The provided key wasn''t found': 'The provided key wasn''t found'
 
 # Desc: The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports
 'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports': 'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports'
@@ -745,8 +790,11 @@ Widgets: Widgets
 # Desc: With Blogvio you can add beautiful widgets to your website or blog
 'With Blogvio you can add beautiful widgets to your website or blog': 'With Blogvio you can add beautiful widgets to your website or blog'
 
+# Desc: Wrong email adress
+'Wrong email adress': 'Wrong email adress'
+
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
-'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time'   # FIXME
+'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time'
 
 # Desc: You can embed our widgets using the unique code provided for each composition you create
 'You can embed our widgets using the unique code provided for each composition you create': 'You can embed our widgets using the unique code provided for each composition you create'
@@ -783,9 +831,6 @@ Widgets: Widgets
 
 # Desc: change email
 'change email': 'change email'
-
-# Desc: come back soon
-'come back soon': 'जल्द ही वापस आइयेगा'
 
 # Desc: coming soon
 'coming soon': 'जल्द ही आ रहा'

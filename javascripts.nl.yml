@@ -25,11 +25,17 @@ All: All
 # Desc: Audio
 Audio: Audio
 
+# Desc: Back
+Back: Back
+
 # Desc: Based on %platform%
 'Based on %platform%': 'Based on %platform%'
 
 # Desc: Changes saved successfully!
 'Changes saved successfully!': 'Changes saved successfully!'
+
+# Desc: Close
+Close: Close
 
 # Desc: Coming soon
 'Coming soon': 'Coming soon'
@@ -58,6 +64,9 @@ Duplicate: Duplicate
 # Desc: Edit details
 'Edit details': 'Edit details'
 
+# Desc: Embeds
+Embeds: Embeds
+
 # Desc: Forgot it?
 'Forgot it?': 'Forgot it?'
 
@@ -69,6 +78,9 @@ Duplicate: Duplicate
 
 # Desc: Impressions
 Impressions: Impressions
+
+# Desc: Impressions by category
+'Impressions by category': 'Impressions by category'
 
 # Desc: Impressions is the number of times a composition is seen by visitors to your site
 'Impressions is the number of times a composition is seen by visitors to your site': 'Impressions is the number of times a composition is seen by visitors to your site'
@@ -89,7 +101,10 @@ Impressions: Impressions
 Name: Name
 
 # Desc: New Skin
-'New Skin': 'New Skin'   # FIXME
+'New Skin': 'New Skin'
+
+# Desc: Next tip
+'Next tip': 'Next tip'
 
 # Desc: No data available
 'No data available': 'No data available'
@@ -161,7 +176,7 @@ Send: Send
 Sending: Sending
 
 # Desc: Settings
-Settings: Settings   # FIXME
+Settings: Settings
 
 # Desc: Skin name has been successfully changed
 'Skin name has been successfully changed': 'Skin name has been successfully changed'
@@ -199,6 +214,9 @@ Statistics: Statistics
 # Desc: This website is already in your list
 'This website is already in your list': 'This website is already in your list'
 
+# Desc: Tip
+Tip: Tip
+
 # Desc: Try again later
 'Try again later': 'Try again later'
 
@@ -208,8 +226,8 @@ Statistics: Statistics
 # Desc: Type your e-mail address
 'Type your e-mail address': 'Type your e-mail address'
 
-# Desc: Untitled composition
-'Untitled composition': 'Untitled composition'
+# Desc: Untitled Composition
+'Untitled Composition': 'Untitled Composition'   # FIXME
 
 # Desc: Use the %editor_plugin% if the website is based on a popular platform
 'Use the %editor_plugin% if the website is based on a popular platform': 'Use the %editor_plugin% if the website is based on a popular platform'
@@ -305,7 +323,7 @@ date: date
 galleries: galleries
 
 # Desc: height
-height: height   # FIXME
+height: height
 
 # Desc: impressions
 impressions: impressions
@@ -341,7 +359,7 @@ utilities: utilities
 widgets: widgets
 
 # Desc: width
-width: width   # FIXME
+width: width
 
 # Desc: yesterday
 yesterday: yesterday
