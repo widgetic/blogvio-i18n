@@ -35,7 +35,7 @@ Account: Cont
 'Account Settings': 'Setări cont'
 
 # Desc: Account deleted
-'Account deleted': 'Account deleted'
+'Account deleted': 'Cont Şters'
 
 # Desc: Account info
 'Account info': 'Informaţii cont'
@@ -482,7 +482,7 @@ Photo: Foto
 'Please enter the new password again': 'Vă rugăm reintroduceți noua parolă'
 
 # Desc: Please let us know your feedback
-'Please let us know your feedback': 'um am putea îmbunătăți site-ul?'
+'Please let us know your feedback': 'Cum am putea îmbunătăți site-ul?'
 
 # Desc: Please select another one
 'Please select another one': 'Vă rugăm selectaţi alta'
