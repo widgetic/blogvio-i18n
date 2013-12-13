@@ -1,47 +1,47 @@
 # Desc: 6 characters or more, a-Z 0-9
-'6 characters or more, a-Z 0-9': '6 characters or more, a-Z 0-9'
+'6 characters or more, a-Z 0-9': '6 знаков или больше, a-Z 0-9'
 
 # Desc: A Preset Skin is a Skin with predefined values for the widget’s properties
-'A Preset Skin is a Skin with predefined values for the widget’s properties': 'A Preset Skin is a Skin with predefined values for the widget’s properties'
+'A Preset Skin is a Skin with predefined values for the widget’s properties': 'Preset Skin является скин с предопределенными значениями для свойств виджета'
 
 # Desc: A Skin is a list of specific properties associated to a widget
-'A Skin is a list of specific properties associated to a widget': 'A Skin is a list of specific properties associated to a widget'
+'A Skin is a list of specific properties associated to a widget': 'Skin представляет собой перечень конкретных свойств, связанных с виджетом'
 
 # Desc: A composition is the combination of a customized widget, your content and it’s details
-'A composition is the combination of a customized widget, your content and it’s details': 'A composition is the combination of a customized widget, your content and it’s details'
+'A composition is the combination of a customized widget, your content and it’s details': 'Композиция представляет собой комбинацию настроенной виджета, ваш контент, и это подробнее'
 
 # Desc: A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded
-'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded': 'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded'
+'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded': 'Бесплатный аккаунт имеет до 50000 просмотров / месяц для всех композиций и в общей сложности 3 сайтов, где виджеты могут быть внедрены'
 
 # Desc: A new widget is available
-'A new widget is available': 'A new widget is available'
+'A new widget is available': 'Новый виджет доступен'
 
 # Desc: A widget I use gets a big update
-'A widget I use gets a big update': 'A widget I use gets a big update'
+'A widget I use gets a big update': 'Виджет я использую получает большое обновление'
 
 # Desc: A widget is any object you can copy and paste into a webpage through a snippet of code
-'A widget is any object you can copy and paste into a webpage through a snippet of code': 'A widget is any object you can copy and paste into a webpage through a snippet of code'
+'A widget is any object you can copy and paste into a webpage through a snippet of code': 'Виджет является любой объект можно скопировать и вставить в веб-страницы через фрагмент кода'
 
 # Desc: About
-About: About
+'About': 'Насчет'
 
 # Desc: Account
 Account: Account
 
 # Desc: Account Registration
-'Account Registration': 'Account Registration'
+'Account Registration': 'Регистрация аккаунта'
 
 # Desc: Account Settings
-'Account Settings': 'Account Settings'
+'Account Settings': 'Настройки аккаунта'
 
 # Desc: Account deleted
 'Account deleted': 'Account deleted'
 
 # Desc: Account info
-'Account info': 'Account info'
+'Account info': 'Информация аккаунта'
 
 # Desc: Account password
-'Account password': 'Account password'
+'Account password': 'Пароль учетной записи'
 
 # Desc: Actions
 Actions: Actions
@@ -50,205 +50,205 @@ Actions: Actions
 'Activationkey not found': 'Activationkey not found'
 
 # Desc: Add Content
-'Add Content': 'Add Content'
+'Add Content': 'Добавить содержимое'
 
-# Desc: Add beautiful %widgets% to your website
-'Add beautiful %widgets% to your website': 'Add beautiful %widgets% to your website'
+# Desc: Add beautiful widgets to your website
+'Add beautiful %widgets% to your website': 'Добавить красивые %виджеты% на ваш сайт'
 
 # Desc: Add your website
-'Add your website': 'Add your website'
+'Add your website': 'Добавить свой сайт'
 
 # Desc: Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice
-'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice': 'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice'
+'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice': 'Дополнительно, если вы установите одну из наших плагинов, вы можете использовать Blogvio непосредственно в CMS выбора'
 
 # Desc: After you select your perfect widget, follow these simple 3 steps
-'After you select your perfect widget, follow these simple 3 steps': 'After you select your perfect widget, follow these simple 3 steps'
+'After you select your perfect widget, follow these simple 3 steps': 'После выбора подходящей виджет, следуйте этим простым 3 шага'
 
 # Desc: All your compositions
 'All your compositions': 'All your compositions'
 
 # Desc: Already have your content online? We can grab it for you from across the social web
-'Already have your content online? We can grab it for you from across the social web': 'Already have your content online? We can grab it for you from across the social web'
+'Already have your content online? We can grab it for you from across the social web': 'У вас уже есть свой контент в Интернете? Мы можем схватить его для вас со всей социальной сети'
 
 # Desc: Also, it's free!
-'Also, it''s free!': 'Also, it''s free!'
+'Also, it''s free!': 'Кроме того, это бесплатно!'
 
 # Desc: Analyze, create and share your best content yet
-'Analyze, create and share your best content yet': 'Analyze, create and share your best content yet'
+'Analyze, create and share your best content yet': 'Aнализировать, создавать и еще поделиться своими лучшими содержание'
 
 # Desc: And it is based on
-'And it is based on': 'And it is based on'
+'And it is based on': 'И она основана на'
 
 # Desc: Any updates you make will use the same embed code
-'Any updates you make will use the same embed code': 'Any updates you make will use the same embed code'
+'Any updates you make will use the same embed code': 'Любые обновления вы будете делать это будет использоваться один и тот же код'
 
 # Desc: Audio
-Audio: Audio
+'Audio': 'Aудио'
 
 # Desc: Audio Widgets
-'Audio Widgets': 'Audio Widgets'
+'Audio Widgets': 'Aудио виджеты'
 
 # Desc: Awesome! Get started by exploring our widgets
-'Awesome! Get started by exploring our widgets': 'Awesome! Get started by exploring our widgets'
+'Awesome! Get started by exploring our widgets': 'Потрясающе! Начните исследовать наши виджеты'
 
 # Desc: Back
-Back: Back
+'Back': 'Назад'
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
-'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets'
+'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio имеет инновационный редактор, который позволяет быстро создавать свои собственные скины или выбрать один из наших существующих пресетов'
 
 # Desc: Blogvio is a platform for content distribution
-'Blogvio is a platform for content distribution': 'Blogvio is a platform for content distribution'
+'Blogvio is a platform for content distribution': 'Blogvio является платформой для распространения контента'
 
 # Desc: Blogvio is for any publisher and website owner that shares content online
-'Blogvio is for any publisher and website owner that shares content online': 'Blogvio is for any publisher and website owner that shares content online'
+'Blogvio is for any publisher and website owner that shares content online': 'Blogvio является для любого издателя и владельца вебсайта который разделяет контент на сайте'
 
 # Desc: Blogvio publishes a newsletter
-'Blogvio publishes a newsletter': 'Blogvio publishes a newsletter'
+'Blogvio publishes a newsletter': 'Blogvio издает информационный бюллетень'
 
 # Desc: Bring your<br />content in
-'Bring your<br />content in': 'Bring your<br />content in'
+'Bring your<br />content in': 'Принесите<br />свой контент в'
 
 # Desc: Browse
-Browse: Browse
+'Browse': 'Обыск'
 
 # Desc: Browse Our Widgets
-'Browse Our Widgets': 'Browse Our Widgets'
+'Browse Our Widgets': 'Обыск наши виджеты'
 
 # Desc: Browse Widgets
-'Browse Widgets': 'Browse Widgets'
+'Browse Widgets': 'Обыск виджеты'
 
 # Desc: Browse all widgets
-'Browse all widgets': 'Browse all widgets'
+'Browse all widgets': 'Вы можете просмотреть все виджеты'
 
-# Desc: But we have some interesting stuff going on %link% our blog
-'But we have some interesting stuff going on %link% our blog': 'But we have some interesting stuff going on %link% our blog'
+# Desc: But we have some interesting stuff going on
+'But we have some interesting stuff going on %link% our blog': 'Но у нас есть некоторые интересные вещи сучяс %link% наш блог'
 
 # Desc: COPY CODE
-'COPY CODE': 'COPY CODE'
+'COPY CODE': 'Скопируйте код'
 
 # Desc: Can I use Blogvio on my website?
-'Can I use Blogvio on my website?': 'Can I use Blogvio on my website?'
+'Can I use Blogvio on my website?': 'Могу ли я использовать Blogvio на моем сайте?'
 
 # Desc: Careers
 Careers: Careers
 
 # Desc: Change password
-'Change password': 'Change password'
+'Change password': 'Измененить пароля'
 
 # Desc: Changes saved
-'Changes saved': 'Changes saved'
+'Changes saved': 'Изменений сохранены'
 
 # Desc: Choose a password
-'Choose a password': 'Choose a password'
+'Choose a password': 'Выберите пароль'
 
 # Desc: Choose your website's platform
-'Choose your website''s platform': 'Choose your website''s platform'
+'Choose your website''s platform': 'Выберите платформу вашего сайта'
 
 # Desc: Close description
 'Close description': 'Close description'
 
 # Desc: Coming soon
-'Coming soon': 'Coming soon'
+'Coming soon': 'Скоро'
 
 # Desc: Comments
-Comments: Comments
+'Comments': 'Комментарии'
 
 # Desc: Composition
-Composition: Composition
+'Composition': 'Состав'
 
 # Desc: Compositions
-Compositions: Compositions
+'Compositions': 'Составы'
 
 # Desc: Compositions using this widget
-'Compositions using this widget': 'Compositions using this widget'
+'Compositions using this widget': 'Составы с помощью этого виджета'
 
 # Desc: Connect with Facebook
-'Connect with Facebook': 'Connect with Facebook'
+'Connect with Facebook': 'Cоединиться с Facebook'
 
 # Desc: Connect with Google
-'Connect with Google': 'Connect with Google'
+'Connect with Google': 'Cоединиться с Google'
 
 # Desc: Contact
-Contact: Contact
+'Contact': 'Kонтакт'
 
 # Desc: Contact Us
-'Contact Us': 'Contact Us'
+'Contact Us': 'Cвязаться с нами'
 
 # Desc: Create Composition
-'Create Composition': 'Create Composition'
+'Create Composition': 'Создание cостав'
 
 # Desc: Create a Composition
-'Create a Composition': 'Create a Composition'
+'Create a Composition': 'Создать композицию'
 
 # Desc: Create an account with your email
-'Create an account with your email': 'Create an account with your email'
+'Create an account with your email': 'Создать учетную запись с вашей электронной почтой'
 
 # Desc: Created
-Created: Created
+'Created': 'Созданный'
 
 # Desc: Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)
-'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)': 'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)'
+'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)': 'Настроить Skin (выберите Preset Skin или настроить внешний вид скины и поведение)'
 
 # Desc: Customize your widget using one of our beautiful Presets or create your own Skin
-'Customize your widget using one of our beautiful Presets or create your own Skin': 'Customize your widget using one of our beautiful Presets or create your own Skin'
+'Customize your widget using one of our beautiful Presets or create your own Skin': 'Настройте свой виджет, используя один из наших прекрасных пресетов или создать свой собственный скин'
 
 # Desc: Definitely! Our widgets are built using the latest HTML5 technologies
-'Definitely! Our widgets are built using the latest HTML5 technologies': 'Definitely! Our widgets are built using the latest HTML5 technologies'
+'Definitely! Our widgets are built using the latest HTML5 technologies': 'Определенно! Наши виджеты строяны с использованием новейших технологий HTML5'
 
 # Desc: Delete
-Delete: Delete
+'Delete': 'Удалять'
 
 # Desc: Delete Account
-'Delete Account': 'Delete Account'
+'Delete Account': 'Удалить аккаунт'
 
 # Desc: Delete my account
-'Delete my account': 'Delete my account'
+'Delete my account': 'Удалить мой аккаунт'
 
 # Desc: Does Blogvio work on mobile devices?
-'Does Blogvio work on mobile devices?': 'Does Blogvio work on mobile devices?'
+'Does Blogvio work on mobile devices?': 'Работает ли Blogvio на мобильных?'
 
 # Desc: Doesn't look like a valid email
 'Doesn''t look like a valid email': 'Doesn''t look like a valid email'
 
 # Desc: Done
-Done: Done
+'Done': 'Готовa'
 
 # Desc: Done Editing
-'Done Editing': 'Done Editing'
+'Done Editing': 'Готово редактирование'
 
 # Desc: Download press kit
-'Download press kit': 'Download press kit'
+'Download press kit': 'Скачать пресс-кит'
 
 # Desc: Duplicate
-Duplicate: Duplicate
+'Duplicate': 'Дублировать'
 
 # Desc: Edit Composition
-'Edit Composition': 'Edit Composition'
+'Edit Composition': 'Редактировать состав'
 
 # Desc: Edit Details
-'Edit Details': 'Edit Details'
+'Edit Details': 'Изменить сведения'
 
 # Desc: Edit Details (add specific details to your content, such as titles and descriptions)
-'Edit Details (add specific details to your content, such as titles and descriptions)': 'Edit Details (add specific details to your content, such as titles and descriptions)'
+'Edit Details (add specific details to your content, such as titles and descriptions)': 'Изменить сведения (добавить конкретные детали на содержание вашего сайта, такие как  заголовков и описаний'
 
 # Desc: Email address
-'Email address': 'Email address'
+'Email address': 'Адрес электронной почты'
 
 # Desc: Email address is verified
-'Email address is verified': 'Email address is verified'
+'Email address is verified': 'Адрес электронной почты проверяется'
 
 # Desc: Email already used
 'Email already used': 'Email already used'
 
 # Desc: Email successfully subscribed
-'Email successfully subscribed': 'Email successfully subscribed'
+'Email successfully subscribed': 'E-mail успешно подписаны'
 
 # Desc: Embed Code
-'Embed Code': 'Embed Code'
+'Embed Code': 'Вставлять кода'
 
 # Desc: Every widget has a set of Preset Skins that we provide as a start base
-'Every widget has a set of Preset Skins that we provide as a start base': 'Every widget has a set of Preset Skins that we provide as a start base'
+'Every widget has a set of Preset Skins that we provide as a start base': 'Каждый виджет имеет набор предустановленных скинов, которые мы предоставляем в качестве основной базы'
 
 # Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Explore our widgets gallery'
@@ -851,7 +851,7 @@ galleries: galleries
 'is not registered': 'is not registered'
 
 # Desc: link to your content using one of the provided services
-'link to your content using one of the provided services': 'link to your content using one of the provided services'
+'link to your content using one of the provided services': 'ссылка на содержание вашего сайта с помощью одного из предоставляемых услуг'
 
 # Desc: log in
 'log in': 'log in'
