@@ -545,7 +545,7 @@ SEND: TRIMITE
 Search: Caută
 
 # Desc: Select a %thing%
-'Select a %thing%': 'Selectează o %thing%'
+'Select a %thing%': 'Selectează un %thing%'
 
 # Desc: Send us an email
 'Send us an email': 'Trimite-ne un e-mail'
