@@ -17,7 +17,7 @@ All: Todas
 'Any compositions embedded in it will stop working': 'Cualquier composición embebida dejará de funcionar'
 
 # Desc: Are you sure you want to delete this composition?
-'Are you sure you want to delete this composition?': ' ¿Estás seguro de que quieres borrar esta composición? '
+'Are you sure you want to delete this composition?': ' ¿Estás seguro de que quieres borrar esta composición?'
 
 # Desc: Are you sure you want to remove this host?
 'Are you sure you want to remove this host?': '¿Estás seguro de que quieres borrar este dominio?'
@@ -202,18 +202,17 @@ Statistics: 'Estadísticas'
 
 # Desc: The friendly Editor is as easy as pie
 'The friendly Editor is as easy as pie': 'El editor es muy sencillo de utilizar'
-
 # Desc: The password is too obvious
 'The password is too obvious': 'La contraseña es demasiado sencilla.'
 
 # Desc: These metrics will become available soon
-'These metrics will become available soon': 'Estas medidas estarán pronto disponibles.'
+'These metrics will become available soon': 'Estas medidas estarán pronto disponibles'
 
 # Desc: This button will take you every step of the way
-'This button will take you every step of the way': 'Este botón te guiará en todo momento.'
+'This button will take you every step of the way': 'Este botón te guiará en todo momento'
 
 # Desc: This website is already in your list
-'This website is already in your list': 'Esta página Web ya se encuentra en tu lista.'
+'This website is already in your list': 'Esta página Web ya se encuentra en tu lista'
 
 # Desc: Tip
 Tip: Paso
@@ -234,7 +233,7 @@ Tip: Paso
 'Use the %editor_plugin% if the website is based on a popular platform': 'Utiliza el %editor_plugin% si la página Web está basada en una plataforma popular'
 
 # Desc: Use the Editor to create your Compositions
-'Use the Editor to create your Compositions': 'Utiliza el editor para crear tus propias composiciones.'
+'Use the Editor to create your Compositions': 'Utiliza el editor para crear tus propias composiciones'
 
 # Desc: User
 User: 'Usuario'
@@ -252,7 +251,7 @@ Video: Video
 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Quieres %link_one% entrar en el Sistema %end_tag% o %link_two%recuperar%end_tag_two% tu contraseña?'
 
 # Desc: We sent an activation link to your email, please confirm it by clicking the link
-'We sent an activation link to your email, please confirm it by clicking the link': 'Te hemos enviado un email de activación. Por favor, confirma que lo has recibido hacienda click en el link.'
+'We sent an activation link to your email, please confirm it by clicking the link': 'Te hemos enviado un email de activación. Por favor, confirma que lo has recibido hacienda click en el link'
 
 # Desc: We'll see you at the finish line!
 'We''ll see you at the finish line!': 'Nos vemos en la línea de meta!'
@@ -264,46 +263,46 @@ Video: Video
 'Widget Categories': 'Categorías de widgets'
 
 # Desc: You've already created an account
-'You''ve already created an account': 'Ya has creado una cuenta.'
+'You''ve already created an account': 'Ya has creado una cuenta'
 
 # Desc: Your Most popular widgets
 'Your Most popular widgets': 'Tus widgets más populares'
 
 # Desc: Your composition has been successfully created
-'Your composition has been successfully created': 'Tu composición se ha creado satisfactoriamente.'
+'Your composition has been successfully created': 'Tu composición se ha creado satisfactoriamente'
 
 # Desc: Your composition has been successfully deleted
-'Your composition has been successfully deleted': 'Tu composición se ha eliminado satisfactoriamente.'
+'Your composition has been successfully deleted': 'Tu composición se ha eliminado satisfactoriamente'
 
 # Desc: Your composition has been successfully duplicated
-'Your composition has been successfully duplicated': 'Tu composición se ha duplicado satisfactoriamente.'
+'Your composition has been successfully duplicated': 'Tu composición se ha duplicado satisfactoriamente'
 
 # Desc: Your composition has been successfully updated
-'Your composition has been successfully updated': 'Tu composición se ha actualizado correctamente.'
+'Your composition has been successfully updated': 'Tu composición se ha actualizado correctamente'
 
 # Desc: Your first Composition, so exciting! Any changes you do will appear here, in this preview area
-'Your first Composition, so exciting! Any changes you do will appear here, in this preview area' 'Felicidades, ya has creado tu primera composición! Cualquier cambio que introduzcas aparecerá aquí en el área de previsualización.'
+'Your first Composition, so exciting! Any changes you do will appear here, in this preview area' 'Felicidades, ya has creado tu primera composición! Cualquier cambio que introduzcas aparecerá aquí en el área de previsualización'
 
 # Desc: Your first composition is ready
-'Your first composition is ready': 'Tu primera composición está lista.'
+'Your first composition is ready': 'Tu primera composición está lista'
 
 # Desc: Your graph will show up here soon
-'Your graph will show up here soon': 'Tu gráfico aparecerá aquí en unos momentos.'
+'Your graph will show up here soon': 'Tu gráfico aparecerá aquí en unos momentos'
 
 # Desc: Your website couldn't be added
-'Your website couldn''t be added': 'No pudo añadirse tu página Web.'
+'Your website couldn''t be added': 'No pudo añadirse tu página Web'
 
 # Desc: Your website has been successfully added
-'Your website has been successfully added': 'Tu página Web se ha añadido satisfactoriamente.'
+'Your website has been successfully added': 'Tu página Web se ha añadido satisfactoriamente'
 
 # Desc: Your website has been successfully removed
-'Your website has been successfully removed': 'Tu página Web se ha eliminado satisfactoriamente.'
+'Your website has been successfully removed': 'Tu página Web se ha eliminado satisfactoriamente'
 
 # Desc: Your website has been successfully saved
-'Your website has been successfully saved': 'Tu página Web ha sido guardada satisfactoriamente.'
+'Your website has been successfully saved': 'Tu página Web ha sido guardada satisfactoriamente'
 
 # Desc: Your website has been successfully updated
-'Your website has been successfully updated': ' Tu página Web ha sido actualizada satisfactoriamente.'
+'Your website has been successfully updated': ' Tu página Web ha sido actualizada satisfactoriamente'
 
 # Desc: all time
 'all time': 'Todo el tiempo'
@@ -312,7 +311,7 @@ Video: Video
 'code copied': 'Código copiado'
 
 # Desc: copy code
-'copy code': 'Copiar código.'
+'copy code': 'Copiar código'
 
 # Desc: current password
 'current password': 'Contraseña actual'
