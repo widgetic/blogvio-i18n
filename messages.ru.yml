@@ -47,7 +47,7 @@ Account: Account
 Actions: Actions
 
 # Desc: Activationkey not found
-'Activationkey not found': 'Activationkey not found'
+'Activationkey not found': 'Ключ активации не найден'
 
 # Desc: Add Content
 'Add Content': 'Добавить содержимое'
@@ -74,7 +74,7 @@ Actions: Actions
 'Also, it''s free!': 'Кроме того, это бесплатно!'
 
 # Desc: Analyze, create and share your best content yet
-'Analyze, create and share your best content yet': 'Aнализировать, создавать и еще поделиться своими лучшими содержание'
+'Analyze, create and share your best content yet': 'Aнализируйте, создавайте и делитесь своим лучшим контентом'
 
 # Desc: And it is based on
 'And it is based on': 'И она основана на'
@@ -110,19 +110,19 @@ Actions: Actions
 'Bring your<br />content in': 'Принесите<br />свой контент в'
 
 # Desc: Browse
-'Browse': 'Обыск'
+'Browse': 'Просмотр'
 
 # Desc: Browse Our Widgets
-'Browse Our Widgets': 'Обыск наши виджеты'
+'Browse Our Widgets': 'Смотреть наши виджеты'
 
 # Desc: Browse Widgets
-'Browse Widgets': 'Обыск виджеты'
+'Browse Widgets': 'Смотреть виджеты'
 
 # Desc: Browse all widgets
 'Browse all widgets': 'Вы можете просмотреть все виджеты'
 
 # Desc: But we have some interesting stuff going on
-'But we have some interesting stuff going on %link% our blog': 'Но у нас есть некоторые интересные вещи сучяс %link% наш блог'
+'But we have some interesting stuff going on %link% our blog': 'Но у нас есть некоторые интересные вещи,действующие %link% на нашем блоге'
 
 # Desc: COPY CODE
 'COPY CODE': 'Скопируйте код'
@@ -134,10 +134,10 @@ Actions: Actions
 Careers: Careers
 
 # Desc: Change password
-'Change password': 'Измененить пароля'
+'Change password': 'Измененить пароль'
 
 # Desc: Changes saved
-'Changes saved': 'Изменений сохранены'
+'Changes saved': 'Изменения сохранены'
 
 # Desc: Choose a password
 'Choose a password': 'Выберите пароль'
@@ -146,7 +146,7 @@ Careers: Careers
 'Choose your website''s platform': 'Выберите платформу вашего сайта'
 
 # Desc: Close description
-'Close description': 'Close description'
+'Close description': 'Закрыть описание'
 
 # Desc: Coming soon
 'Coming soon': 'Скоро'
@@ -176,7 +176,7 @@ Careers: Careers
 'Contact Us': 'Cвязаться с нами'
 
 # Desc: Create Composition
-'Create Composition': 'Создание cостав'
+'Create Composition': 'Создать композицию'
 
 # Desc: Create a Composition
 'Create a Composition': 'Создать композицию'
@@ -206,16 +206,16 @@ Careers: Careers
 'Delete my account': 'Удалить мой аккаунт'
 
 # Desc: Does Blogvio work on mobile devices?
-'Does Blogvio work on mobile devices?': 'Работает ли Blogvio на мобильных?'
+'Does Blogvio work on mobile devices?': 'Blogvio работает на мобильных устройствах?'
 
 # Desc: Doesn't look like a valid email
-'Doesn''t look like a valid email': 'Doesn''t look like a valid email'
+'Doesn''t look like a valid email': 'Неправильный формат электронной почты'
 
 # Desc: Done
-'Done': 'Готовa'
+'Done': 'Готово'
 
 # Desc: Done Editing
-'Done Editing': 'Готово редактирование'
+'Done Editing': 'Редактирование завершено'
 
 # Desc: Download press kit
 'Download press kit': 'Скачать пресс-кит'
@@ -239,13 +239,13 @@ Careers: Careers
 'Email address is verified': 'Адрес электронной почты проверяется'
 
 # Desc: Email already used
-'Email already used': 'Email already used'
+'Email already used': 'Email уже используется'
 
 # Desc: Email successfully subscribed
-'Email successfully subscribed': 'E-mail успешно подписаны'
+'Email successfully subscribed': 'E-mail успешно подписан'
 
 # Desc: Embed Code
-'Embed Code': 'Вставлять кода'
+'Embed Code': 'Вставить код'
 
 # Desc: Every widget has a set of Preset Skins that we provide as a start base
 'Every widget has a set of Preset Skins that we provide as a start base': 'Каждый виджет имеет набор предустановленных скинов, которые мы предоставляем в качестве основной базы'
@@ -263,10 +263,10 @@ FEEDBACK: FEEDBACK
 'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%': 'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%'
 
 # Desc: Find the widget you need
-'Find the widget you need': 'Find the widget you need'
+'Find the widget you need': 'Найдите нужный вам виджет'
 
 # Desc: First Name
-'First Name': 'First Name'
+'First Name': 'Имя'
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Follow on Twitter'
@@ -287,10 +287,10 @@ FEEDBACK: FEEDBACK
 'Forgot Password': 'Forgot Password'
 
 # Desc: Form successfully submited
-'Form successfully submited': 'Form successfully submited'
+'Form successfully submited': 'Форма успешно отправлена'
 
 # Desc: Frequently Asked Questions
-'Frequently Asked Questions': 'Frequently Asked Questions'
+'Frequently Asked Questions': 'Часто-Задаваемые Вопросы'
 
 # Desc: Get started by creating your first Composition
 'Get started by creating your first Composition': 'Get started by creating your first Composition'
@@ -308,7 +308,7 @@ FEEDBACK: FEEDBACK
 'Here’s an example': 'Here’s an example'
 
 # Desc: How Blogvio works
-'How Blogvio works': 'How Blogvio works'
+'How Blogvio works': 'Как Blogvio работает'
 
 # Desc: How can I create a new Skin?
 'How can I create a new Skin?': 'How can I create a new Skin?'
@@ -359,7 +359,7 @@ FEEDBACK: FEEDBACK
 'Like on Facebook': 'Like on Facebook'
 
 # Desc: Log Out
-'Log Out': 'Log Out'
+'Log Out': 'Выйти'
 
 # Desc: Looks like the old password
 'Looks like the old password': 'Looks like the old password'
@@ -377,7 +377,7 @@ FEEDBACK: FEEDBACK
 'Maximum number of allowed hosts has been reached': 'Maximum number of allowed hosts has been reached'
 
 # Desc: Message successfully sent
-'Message successfully sent': 'Message successfully sent'
+'Message successfully sent': 'Сообщение успешно отправлено'
 
 # Desc: Metrics
 Metrics: Metrics
