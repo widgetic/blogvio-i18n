@@ -49,9 +49,9 @@ Polish*              | `pl`      |
 Portuguese*          | `pt`      |
 Portuguese (Brazil)* | `pt-BR`   |
 Romanian*            | `ro`      |
-Russian*             | `ru`      |
-Serbian*             | `sr`      |
-Serbian (Latin)*     | `sr-Latn` |
+Russian*             | `ru`      | [@diggihong](https://github.com/diggihong)
+Serbian*             | `sr`      | [@vlajki](https://github.com/vlajki)
+Serbian (Latin)*     | `sr-Latn` | [@vlajki](https://github.com/vlajki)
 Slovak*              | `sk`      |
 Slovenian*           | `sl`      |
 Swedish*             | `sv`      |
