@@ -2,10 +2,10 @@
 'Add a Composition to your website first and check back tomorrow': 'Add a Composition to your website first and check back tomorrow'
 
 # Desc: Add content
-'Add content': 'Add content'
+'Add content': 'Dodaj sadržaj'
 
 # Desc: Add website
-'Add website': 'Add website'
+'Add website': 'Dodaj sajt'
 
 # Desc: Add your first host now
 'Add your first host now': 'Add your first host now'
@@ -26,19 +26,19 @@ All: All
 Audio: Audio
 
 # Desc: Back
-Back: Back
+Back: Nazad
 
 # Desc: Based on %platform%
 'Based on %platform%': 'Based on %platform%'
 
 # Desc: Changes saved successfully!
-'Changes saved successfully!': 'Changes saved successfully!'
+'Changes saved successfully!': 'Izmene su uspešno sačuvane!'
 
 # Desc: Close
-Close: Close
+Close: Zatvoriti
 
 # Desc: Coming soon
-'Coming soon': 'Coming soon'
+'Coming soon': 'Uskoro'
 
 # Desc: Composition
 Composition: Composition
@@ -47,13 +47,13 @@ Composition: Composition
 Compositions: Compositions
 
 # Desc: Congratulations!
-Congratulations!: Congratulations!
+Congratulations!: Čestitamo!
 
 # Desc: Created
 Created: Created
 
 # Desc: Delete
-Delete: Delete
+Delete: Izbrisati
 
 # Desc: Doesn't look like a valid %thing%
 'Doesn''t look like a valid %thing%': 'Doesn''t look like a valid %thing%'
@@ -62,7 +62,7 @@ Delete: Delete
 Duplicate: Duplicate
 
 # Desc: Edit details
-'Edit details': 'Edit details'
+'Edit details': 'Izmeni detalje'
 
 # Desc: Embeds
 Embeds: Embeds
@@ -89,16 +89,16 @@ Impressions: Impressions
 'Keep following %link% our blog %end_link% for updates': 'Keep following %link% our blog %end_link% for updates'
 
 # Desc: Log in
-'Log in': 'Log in'
+'Log in': 'Prijavi se'
 
 # Desc: Message sent
-'Message sent': 'Message sent'
+'Message sent': 'Poruka poslata'
 
 # Desc: Most Viewed Compositions
 'Most Viewed Compositions': 'Most Viewed Compositions'
 
 # Desc: Name
-Name: Name
+Name: Ime
 
 # Desc: New Skin
 'New Skin': 'New Skin'
@@ -119,7 +119,7 @@ Name: Name
 'No special characters allowed': 'No special characters allowed'
 
 # Desc: Not available yet
-'Not available yet': 'Not available yet'
+'Not available yet': 'Još uvek nije dostupno'
 
 # Desc: Now copy this embed code and add it to one of your websites in the %settings% page
 'Now copy this embed code and add it to one of your websites in the %settings% page': 'Now copy this embed code and add it to one of your websites in the %settings% page'
@@ -128,16 +128,16 @@ Name: Name
 'Other platform': 'Other platform'
 
 # Desc: Page
-Page: Page
+Page: Stranica
 
 # Desc: Password must be at least 6 characters
-'Password must be at least 6 characters': 'Password must be at least 6 characters'
+'Password must be at least 6 characters': 'Lozinka mora da sadrži najmanje 6 karaktera'
 
 # Desc: Password too long
-'Password too long': 'Password too long'
+'Password too long': 'Lozinka je predugačka'
 
 # Desc: Photo
-Photo: Photo
+Photo: Fotografija
 
 # Desc: Please %link% log in %end_link%
 'Please %link% log in %end_link%': 'Please %link% log in %end_link%'
@@ -146,7 +146,7 @@ Photo: Photo
 'Please check for errors': 'Please check for errors'
 
 # Desc: Please check your email to activate your account
-'Please check your email to activate your account': 'Please check your email to activate your account'
+'Please check your email to activate your account': 'Molimo Vas da proverite Vaš e-mail kako bi aktivirali nalog'
 
 # Desc: Preset
 Preset: Preset
@@ -161,22 +161,22 @@ Remove: Remove
 Resend: Resend
 
 # Desc: Save changes
-'Save changes': 'Save changes'
+'Save changes': 'Sačuvati izmene'
 
 # Desc: Saving changes
-'Saving changes': 'Saving changes'
+'Saving changes': 'Čuvanje izmena'
 
 # Desc: Select a Skin
 'Select a Skin': 'Select a Skin'
 
 # Desc: Send
-Send: Send
+Send: Poslati
 
 # Desc: Sending
-Sending: Sending
+Sending: Šalje se
 
 # Desc: Settings
-Settings: Settings
+Settings: Podešavanja
 
 # Desc: Skin name has been successfully changed
 'Skin name has been successfully changed': 'Skin name has been successfully changed'
