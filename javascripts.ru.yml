@@ -2,43 +2,43 @@
 'Add a Composition to your website first and check back tomorrow': 'Add a Composition to your website first and check back tomorrow'
 
 # Desc: Add content
-'Add content': 'Add content'
+'Add content': 'Добавить контент'
 
 # Desc: Add website
-'Add website': 'Add website'
+'Add website': 'Добавить сайт'
 
 # Desc: Add your first host now
-'Add your first host now': 'Add your first host now'
+'Add your first host now': 'Добавьте свой первый host сейчас'
 
 # Desc: All
-All: All
+All: Все
 
 # Desc: Any compositions embedded in it will stop working
 'Any compositions embedded in it will stop working': 'Any compositions embedded in it will stop working'
 
 # Desc: Are you sure you want to delete this composition?
-'Are you sure you want to delete this composition?': 'Are you sure you want to delete this composition?'
+'Are you sure you want to delete this composition?': 'Вы уверены, что хотите удалить this composition?'
 
 # Desc: Are you sure you want to remove this host?
-'Are you sure you want to remove this host?': 'Are you sure you want to remove this host?'
+'Are you sure you want to remove this host?': 'Вы уверены, что хотите удалить this host?'
 
 # Desc: Audio
-Audio: Audio
+Audio: Аудио
 
 # Desc: Back
-Back: Back
+Back: Назад
 
 # Desc: Based on %platform%
-'Based on %platform%': 'Based on %platform%'
+'Based on %platform%': 'Основано на %platform%'
 
 # Desc: Changes saved successfully!
-'Changes saved successfully!': 'Changes saved successfully!'
+'Changes saved successfully!': 'Изменения успешно сохранены!'
 
 # Desc: Close
-Close: Close
+Close: Закрыть
 
 # Desc: Coming soon
-'Coming soon': 'Coming soon'
+'Coming soon': 'Скоро будет'
 
 # Desc: Composition
 Composition: Composition
@@ -47,31 +47,31 @@ Composition: Composition
 Compositions: Compositions
 
 # Desc: Congratulations!
-Congratulations!: Congratulations!
+Congratulations!: Поздравляем!
 
 # Desc: Created
-Created: Created
+Created: Создано
 
 # Desc: Delete
-Delete: Delete
+Delete: Удалить
 
 # Desc: Doesn't look like a valid %thing%
-'Doesn''t look like a valid %thing%': 'Doesn''t look like a valid %thing%'
+'Doesn''t look like a valid %thing%': 'Не похоже на валидный %thing%'
 
 # Desc: Duplicate
-Duplicate: Duplicate
+Duplicate: Дублировать
 
 # Desc: Edit details
-'Edit details': 'Edit details'
+'Edit details': 'Редактировать подробности'
 
 # Desc: Embeds
-Embeds: Embeds
+Embeds: Встраивает
 
 # Desc: Forgot it?
-'Forgot it?': 'Forgot it?'
+'Forgot it?': 'Забыли его?'
 
 # Desc: Got it! What's next?
-'Got it! What''s next?': 'Got it! What''s next?'
+'Got it! What''s next?': 'Понятно! Что дальше?'
 
 # Desc: Great, you have created your first composition, where do you plan to embed it?
 'Great, you have created your first composition, where do you plan to embed it?': 'Great, you have created your first composition, where do you plan to embed it?'
@@ -89,142 +89,142 @@ Impressions: Impressions
 'Keep following %link% our blog %end_link% for updates': 'Keep following %link% our blog %end_link% for updates'
 
 # Desc: Log in
-'Log in': 'Log in'
+'Log in': 'Войти'
 
 # Desc: Message sent
-'Message sent': 'Message sent'
+'Message sent': 'Сообщение отправлено'
 
 # Desc: Most Viewed Compositions
-'Most Viewed Compositions': 'Most Viewed Compositions'
+'Most Viewed Compositions': 'Самые просматриваемые Compositions'
 
 # Desc: Name
-Name: Name
+Name: Название
 
 # Desc: New Skin
-'New Skin': 'New Skin'
+'New Skin': 'Новая тема'
 
 # Desc: Next tip
-'Next tip': 'Next tip'
+'Next tip': 'Следующая подсказка'
 
 # Desc: No data available
-'No data available': 'No data available'
+'No data available': 'Нет доступных данных'
 
 # Desc: No data recorded for this graph
 'No data recorded for this graph': 'No data recorded for this graph'
 
 # Desc: No impressions for this timespan
-'No impressions for this timespan': 'No impressions for this timespan'
+'No impressions for this timespan': 'Нет выражений для this timespan'
 
 # Desc: No special characters allowed
-'No special characters allowed': 'No special characters allowed'
+'No special characters allowed': 'Специальные символы не разрешены'
 
 # Desc: Not available yet
-'Not available yet': 'Not available yet'
+'Not available yet': 'Пока не доступно'
 
 # Desc: Now copy this embed code and add it to one of your websites in the %settings% page
-'Now copy this embed code and add it to one of your websites in the %settings% page': 'Now copy this embed code and add it to one of your websites in the %settings% page'
+'Now copy this embed code and add it to one of your websites in the %settings% page': 'Сейчас скопируйте этот вставленный код и добавьте его в один из ваших сайтов на  %settings% странице'
 
 # Desc: Other platform
-'Other platform': 'Other platform'
+'Other platform': 'Другая платформа'
 
 # Desc: Page
-Page: Page
+Page: Страница
 
 # Desc: Password must be at least 6 characters
-'Password must be at least 6 characters': 'Password must be at least 6 characters'
+'Password must be at least 6 characters': 'Пароль должен быть минимум 6 символов'
 
 # Desc: Password too long
-'Password too long': 'Password too long'
+'Password too long': 'Пароль слишком длинный'
 
 # Desc: Photo
-Photo: Photo
+Photo: Фото
 
 # Desc: Please %link% log in %end_link%
-'Please %link% log in %end_link%': 'Please %link% log in %end_link%'
+'Please %link% log in %end_link%': 'Пожалуйста %link% войдите %end_link%'
 
 # Desc: Please check for errors
-'Please check for errors': 'Please check for errors'
+'Please check for errors': 'Пожалуйста исправьте ошибки'
 
 # Desc: Please check your email to activate your account
-'Please check your email to activate your account': 'Please check your email to activate your account'
+'Please check your email to activate your account': 'Пожалуйста проверьте свою почту, чтобы активировать аккаунт'
 
 # Desc: Preset
-Preset: Preset
+Preset: Предустановка
 
 # Desc: Preview the widget
-'Preview the widget': 'Preview the widget'
+'Preview the widget': 'Предпросмотр виджета'
 
 # Desc: Remove
-Remove: Remove
+Remove: Удалить
 
 # Desc: Resend
-Resend: Resend
+Resend: Повторная отправка
 
 # Desc: Save changes
-'Save changes': 'Save changes'
+'Save changes': 'Сохранить изменения'
 
 # Desc: Saving changes
-'Saving changes': 'Saving changes'
+'Saving changes': 'Сохраненные изменения'
 
 # Desc: Select a Skin
-'Select a Skin': 'Select a Skin'
+'Select a Skin': 'Выбрать тему'
 
 # Desc: Send
-Send: Send
+Send: Отправить
 
 # Desc: Sending
-Sending: Sending
+Sending: Отправление
 
 # Desc: Settings
-Settings: Settings
+Settings: Настройки
 
 # Desc: Skin name has been successfully changed
-'Skin name has been successfully changed': 'Skin name has been successfully changed'
+'Skin name has been successfully changed': 'Название темы было успешно изменено'
 
 # Desc: Skins
-Skins: Skins
+Skins: Темы
 
 # Desc: Sort results by
-'Sort results by': 'Sort results by'
+'Sort results by': 'Сортировать результаты по'
 
 # Desc: Statistics
-Statistics: Statistics
+Statistics: Статистика
 
 # Desc: Success save
-'Success save': 'Success save'
+'Success save': 'Удачное сохранение'
 
 # Desc: Thank you
-'Thank you': 'Thank you'
+'Thank you': 'Спасибо'
 
 # Desc: That's it
 'That''s it': 'That''s it'
 
 # Desc: The friendly Editor is as easy as pie
-'The friendly Editor is as easy as pie': 'The friendly Editor is as easy as pie'
+'The friendly Editor is as easy as pie': 'Дружественный редактор проще, чем пареная репа'
 
 # Desc: The password is too obvious
-'The password is too obvious': 'The password is too obvious'
+'The password is too obvious': 'Пароль слишком простой'
 
 # Desc: These metrics will become available soon
-'These metrics will become available soon': 'These metrics will become available soon'
+'These metrics will become available soon': 'Эти параметры скоро станут доступны'
 
 # Desc: This button will take you every step of the way
 'This button will take you every step of the way': 'This button will take you every step of the way'
 
 # Desc: This website is already in your list
-'This website is already in your list': 'This website is already in your list'
+'This website is already in your list': 'Этот сайт уже в вашем списке'
 
 # Desc: Tip
-Tip: Tip
+Tip: Подсказка
 
 # Desc: Try again later
-'Try again later': 'Try again later'
+'Try again later': 'Попробуйте позже'
 
 # Desc: Type your current password
-'Type your current password': 'Type your current password'
+'Type your current password': 'Введите свой действующий пароль'
 
 # Desc: Type your e-mail address
-'Type your e-mail address': 'Type your e-mail address'
+'Type your e-mail address': 'Введите свой адрес почты'
 
 # Desc: Untitled Composition
 'Untitled Composition': 'Untitled Composition'   # FIXME
@@ -233,25 +233,25 @@ Tip: Tip
 'Use the %editor_plugin% if the website is based on a popular platform': 'Use the %editor_plugin% if the website is based on a popular platform'
 
 # Desc: Use the Editor to create your Compositions
-'Use the Editor to create your Compositions': 'Use the Editor to create your Compositions'
+'Use the Editor to create your Compositions': 'Используйте редактор, чтобы создать ваш макет'
 
 # Desc: User
-User: User
+User: Пользователь
 
 # Desc: Users
-Users: Users
+Users: Пользователи
 
 # Desc: Utilities
 Utilities: Utilities
 
 # Desc: Video
-Video: Video
+Video: Видео
 
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?'
 
 # Desc: We sent an activation link to your email, please confirm it by clicking the link
-'We sent an activation link to your email, please confirm it by clicking the link': 'We sent an activation link to your email, please confirm it by clicking the link'
+'We sent an activation link to your email, please confirm it by clicking the link': 'Мы отправили активационную ссылку на ваш почтовый ящик, пожалуйста подтвердите её, кликнув по ссылке'
 
 # Desc: We'll see you at the finish line!
 'We''ll see you at the finish line!': 'We''ll see you at the finish line!'
@@ -260,61 +260,61 @@ Video: Video
 'What''s on your mind?': 'What''s on your mind?'
 
 # Desc: Widget Categories
-'Widget Categories': 'Widget Categories'
+'Widget Categories': 'Категории виджетов'
 
 # Desc: You've already created an account
-'You''ve already created an account': 'You''ve already created an account'
+'You''ve already created an account': 'Вы уже создали аккаунт'
 
 # Desc: Your Most popular widgets
-'Your Most popular widgets': 'Your Most popular widgets'
+'Your Most popular widgets': 'Ваши самые популярные виджеты'
 
 # Desc: Your composition has been successfully created
-'Your composition has been successfully created': 'Your composition has been successfully created'
+'Your composition has been successfully created': 'Ваш макет был успешно создан'
 
 # Desc: Your composition has been successfully deleted
-'Your composition has been successfully deleted': 'Your composition has been successfully deleted'
+'Your composition has been successfully deleted': 'Ваш макет был успешно удален'
 
 # Desc: Your composition has been successfully duplicated
-'Your composition has been successfully duplicated': 'Your composition has been successfully duplicated'
+'Your composition has been successfully duplicated': 'Ваш макет был успешно дублирован'
 
 # Desc: Your composition has been successfully updated
-'Your composition has been successfully updated': 'Your composition has been successfully updated'
+'Your composition has been successfully updated': 'Ваш макет был успешно обновлен'
 
 # Desc: Your first Composition, so exciting! Any changes you do will appear here, in this preview area
-'Your first Composition, so exciting! Any changes you do will appear here, in this preview area': 'Your first Composition, so exciting! Any changes you do will appear here, in this preview area'
+'Your first Composition, so exciting! Any changes you do will appear here, in this preview area': 'Your first Composition, so exciting! Любые изменения, которые вы сделаете, будут показаны в этой области предпросмотра'
 
 # Desc: Your first composition is ready
-'Your first composition is ready': 'Your first composition is ready'
+'Your first composition is ready': 'Ваш первый макет готов'
 
 # Desc: Your graph will show up here soon
-'Your graph will show up here soon': 'Your graph will show up here soon'
+'Your graph will show up here soon': 'Ваш график скоро будет показан здесь'
 
 # Desc: Your website couldn't be added
-'Your website couldn''t be added': 'Your website couldn''t be added'
+'Your website couldn''t be added': 'Вашсайт не может быть добавлен'
 
 # Desc: Your website has been successfully added
-'Your website has been successfully added': 'Your website has been successfully added'
+'Your website has been successfully added': 'Ваш сайт успешно добавлен'
 
 # Desc: Your website has been successfully removed
-'Your website has been successfully removed': 'Your website has been successfully removed'
+'Your website has been successfully removed': 'Ваш сайт успешно удален'
 
 # Desc: Your website has been successfully saved
-'Your website has been successfully saved': 'Your website has been successfully saved'
+'Your website has been successfully saved': 'Ваш сайт успешно сохранен'
 
 # Desc: Your website has been successfully updated
-'Your website has been successfully updated': 'Your website has been successfully updated'
+'Your website has been successfully updated': 'Ваш сайт успешно обновлен'
 
 # Desc: all time
-'all time': 'all time'
+'all time': 'всегда'
 
 # Desc: code copied
-'code copied': 'code copied'
+'code copied': 'код скопирован'
 
 # Desc: copy code
-'copy code': 'copy code'
+'copy code': 'копировать код'
 
 # Desc: current password
-'current password': 'current password'
+'current password': 'действующий пароль'
 
 # Desc: date
 date: date
@@ -323,31 +323,31 @@ date: date
 galleries: galleries
 
 # Desc: height
-height: height
+height: высота
 
 # Desc: impressions
 impressions: impressions
 
 # Desc: last 30 days
-'last 30 days': 'last 30 days'
+'last 30 days': 'последние 30 дней'
 
 # Desc: last 7 days
-'last 7 days': 'last 7 days'
+'last 7 days': 'последние 7 дней'
 
 # Desc: or use
-'or use': 'or use'
+'or use': 'или используйте'
 
 # Desc: password
-password: password
+password: пароль
 
 # Desc: players
-players: players
+players: партнеры
 
 # Desc: popularity
-popularity: popularity
+popularity: популярность
 
 # Desc: skin
-skin: skin
+skin: тема
 
 # Desc: username
 username: username
@@ -356,13 +356,13 @@ username: username
 utilities: utilities
 
 # Desc: widgets
-widgets: widgets
+widgets: виджеты
 
 # Desc: width
-width: width
+width: ширина
 
 # Desc: yesterday
-yesterday: yesterday
+yesterday: вчера
 
 you:
     can:
