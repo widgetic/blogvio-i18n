@@ -1,26 +1,11 @@
 # Desc: 6 characters or more, a-Z 0-9
 '6 characters or more, a-Z 0-9': 'cel puţin 6 caractere, a-Z 0-9'
 
-# Desc: A Preset Skin is a Skin with predefined values for the widget’s properties
-'A Preset Skin is a Skin with predefined values for the widget’s properties': 'Un Skin Predefinit este un Skin cu valori predefinite pentru proprietăţile unui widget'
-
-# Desc: A Skin is a list of specific properties associated to a widget
-'A Skin is a list of specific properties associated to a widget': 'Un Skin este o listă de proprietăţi specifice asociată unui widget'
-
-# Desc: A composition is the combination of a customized widget, your content and it’s details
-'A composition is the combination of a customized widget, your content and it’s details': 'O compoziţie este combinaţia dintre un widget personalizat, conţinutul dumneavoastră şi detaliile sale'
-
-# Desc: A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded
-'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded': 'Un cont gratis are până la 50,000 vizualizări/lună pentru toate compoziţiile şi un total de 3 site-uri unde widget-urile pot fi adăugate'
-
 # Desc: A new widget is available
 'A new widget is available': 'Un nou widget este disponibil'
 
 # Desc: A widget I use gets a big update
 'A widget I use gets a big update': 'Un widget pe care îl folosesc primeşte o actualizare importantă'
-
-# Desc: A widget is any object you can copy and paste into a webpage through a snippet of code
-'A widget is any object you can copy and paste into a webpage through a snippet of code': 'Un widget este orice obiect pe care poţi să îl adaugi într-o pagină web cu ajutorul unui fragment de cod'
 
 # Desc: About
 About: Despre
@@ -58,12 +43,6 @@ Actions: Acţiuni
 # Desc: Add your website
 'Add your website': 'Adaugă site-ul tău'
 
-# Desc: Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice
-'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice': 'În plus, dacă instalezi unul dintre pluginurile noastre, poţi folosi Blogvio direct în CMS-ul ales de tine'
-
-# Desc: After you select your perfect widget, follow these simple 3 steps
-'After you select your perfect widget, follow these simple 3 steps': 'După ce selectezi widget-ul perfect, urmează aceşti 3 paşi simpli'
-
 # Desc: All your compositions
 'All your compositions': 'Toate compoziţiile mele'
 
@@ -97,12 +76,6 @@ Back: Înapoi
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio dispune de un editor inovator care vă permite să construiţi rapid skin-uri proprii sau să alegeţi dintre skin-urile noastre predefinite'
 
-# Desc: Blogvio is a platform for content distribution
-'Blogvio is a platform for content distribution': 'Blogvio este o platformă pentru distribuţie de conţinut'
-
-# Desc: Blogvio is for any publisher and website owner that shares content online
-'Blogvio is for any publisher and website owner that shares content online': 'Blogvio poate fi folosit de orice proprietar de site-uri web care adaugă conţinut on-line'
-
 # Desc: Blogvio publishes a newsletter
 'Blogvio publishes a newsletter': 'Blogvio publică un newsletter'
 
@@ -126,9 +99,6 @@ Browse: Explorează
 
 # Desc: COPY CODE
 'COPY CODE': 'COPIE COD'
-
-# Desc: Can I use Blogvio on my website?
-'Can I use Blogvio on my website?': 'Pot folosi Blogvio pe site-ul meu?'
 
 # Desc: Careers
 Careers: Cariere
@@ -187,14 +157,8 @@ Contact: Contact
 # Desc: Created
 Created: Creat
 
-# Desc: Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)
-'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)': 'Personalizează Skin (selectaţi un Skin Predefinit, sau personalizaţi aspectul și comportamentul unui Skin)'
-
 # Desc: Customize your widget using one of our beautiful Presets or create your own Skin
 'Customize your widget using one of our beautiful Presets or create your own Skin': 'Personalizează widget-ul tău folosind unul dintre frumoasele noastre Skin-uri Predefinite sau creează propriul Skin'
-
-# Desc: Definitely! Our widgets are built using the latest HTML5 technologies
-'Definitely! Our widgets are built using the latest HTML5 technologies': 'Categoric! Widget-urile noastre sunt construite folosind cele mai noi tehnologii HTML5'
 
 # Desc: Delete
 Delete: Şterge
@@ -204,9 +168,6 @@ Delete: Şterge
 
 # Desc: Delete my account
 'Delete my account': 'Şterge Contul Meu'
-
-# Desc: Does Blogvio work on mobile devices?
-'Does Blogvio work on mobile devices?': 'Blogvio funcţionează pe dispozitive mobile?'
 
 # Desc: Doesn't look like a valid email
 'Doesn''t look like a valid email': 'Nu pare să fie un email valid'
@@ -229,9 +190,6 @@ Duplicate: Duplică
 # Desc: Edit Details
 'Edit Details': 'Modifică Detalii'
 
-# Desc: Edit Details (add specific details to your content, such as titles and descriptions)
-'Edit Details (add specific details to your content, such as titles and descriptions)': 'Modifică Detalii (adaugă detalii specifice conţinutului tău, cum ar fi titluri sau descrieri)'
-
 # Desc: Email address
 'Email address': 'Adresă de e-mail'
 
@@ -247,20 +205,11 @@ Duplicate: Duplică
 # Desc: Embed Code
 'Embed Code': 'Cod de încorporat'
 
-# Desc: Every widget has a set of Preset Skins that we provide as a start base
-'Every widget has a set of Preset Skins that we provide as a start base': 'Fiecare widget are un set de Skin-uri Predefinite pe care le oferim ca bază de pornire'
-
 # Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Explorează galeria noastră de widget-uri'
 
-# Desc: FAQ
-FAQ: Întrebări
-
 # Desc: FEEDBACK
 FEEDBACK: SUGESTII
-
-# Desc: Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%
-'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%': 'Nu ezitaţi să ne trimiteţi un e-mail la %email% sau să ne contactaţi pe Twitter la %twitter_link%'
 
 # Desc: Find the widget you need
 'Find the widget you need': 'Găsește widget-ul de care ai nevoie'
@@ -270,15 +219,6 @@ FEEDBACK: SUGESTII
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Urmărește-ne pe Twitter'
-
-# Desc: For example an Mp3 Player widget can have a property called “Loop” set by default to “true”
-'For example an Mp3 Player widget can have a property called “Loop” set by default to “true”': 'De exemplu un widget de tipul Mp3 Player poate avea o proprietate denumită “Loop” cu valoarea default “true”'
-
-# Desc: For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound
-'For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound': 'De exemplu un widget de tipul Mp3 Player poate avea o proprietate denumită “Volume”, ce reprezintă volumul iniţial al sunetului'
-
-# Desc: For older browsers, we offer a flash fallback option as well
-'For older browsers, we offer a flash fallback option as well': 'Pentru browsere mai vechi, oferim Flash ca opţiune de rezervă'
 
 # Desc: For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio
 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio': 'Pentru cele mai populare platforme oferim un plugin care integrează acest Editor în CMS-ul dumneavoastră, pentru a putea să construiţi compoziţii fără a vizita Blogvio'
@@ -304,32 +244,17 @@ FEEDBACK: SUGESTII
 # Desc: HOW TO EMBED ON ANY WEBSITE
 'HOW TO EMBED ON ANY WEBSITE': 'CUM SĂ ÎNCORPOREZI WIDGET-UL PE ORICE SITE'
 
+# Desc: Help
+Help: Help   # FIXME
+
 # Desc: Here’s an example
 'Here’s an example': 'Aici aveţi un exemplu'
 
 # Desc: How Blogvio works
 'How Blogvio works': 'Cum funcţionează Blogvio'
 
-# Desc: How can I create a new Skin?
-'How can I create a new Skin?': 'Cum pot crea un Skin nou?'
-
-# Desc: How do I embed a Composition on my website?
-'How do I embed a Composition on my website?': 'Cum încorporez o Compoziţie pe site-ul meu?'
-
-# Desc: How does Blogvio work?
-'How does Blogvio work?': 'Cum funcţionează Blogvio?'
-
 # Desc: How to add more websites
 'How to add more websites': 'Cum să adaug mai multe site-uri'
-
-# Desc: I'm stuck
-'I''m stuck': 'M-am blocat'
-
-# Desc: If by mistake I delete my content, what will users on my website see?
-'If by mistake I delete my content, what will users on my website see?': 'Dacă îmi șterg din greșeală contul, ce vor vedea utilizatorii mei?'
-
-# Desc: If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account
-'If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account': 'Dacă doriţi să încorporaţi widget-urile în mai mult de 3 site-uri, trebuie să vă abonaţi la un cont Standard sau Plus'
 
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'Dacă site-ul dumneavoastră nu este bazat pe una dintre aceste platforme (WordPress, Blogger, Tumblr), puteţi face copy/paste la fragmentul unic de cod oferit pentru fiecare compoziţie'
@@ -342,9 +267,6 @@ FEEDBACK: SUGESTII
 
 # Desc: Invalid user
 'Invalid user': 'Utilizator invalid'
-
-# Desc: Is Blogvio free?
-'Is Blogvio free?': 'Blogvio este gratis?'
 
 # Desc: It will appear in this area
 'It will appear in this area': 'Va apărea în această zonă'
@@ -366,9 +288,6 @@ FEEDBACK: SUGESTII
 
 # Desc: Main Features
 'Main Features': 'Caracteristici Principale'
-
-# Desc: Make sure your website is listed in your Account Settings
-'Make sure your website is listed in your Account Settings': 'Verificaţi dacă site-ul dumneavoastră este listat în pagina de Setări Cont'
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Profitaţi de Blogvio la maxim'
@@ -393,9 +312,6 @@ Metrics: Statistici
 
 # Desc: My website is
 'My website is': 'Site-ul meu este'
-
-# Desc: My widgets don’t show up on my website
-'My widgets don’t show up on my website': 'Widget-urile nu sunt afișate pe site-ul meu'
 
 # Desc: Name
 Name: Nume
@@ -424,9 +340,6 @@ Note: Notă
 # Desc: Notifications
 Notifications: Notificări
 
-# Desc: Now you can use the composition you just created in your website
-'Now you can use the composition you just created in your website': 'Acum puteţi folosi compoziţia creată în site-ul dumneavoastră'
-
 # Desc: On your way
 'On your way': 'Mai departe'
 
@@ -453,9 +366,6 @@ Notifications: Notificări
 
 # Desc: Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices
 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Viziunea noastră este ca pe termen lung să oferim proprietarilor de site-uri o platformă pentru a îi ajuta pe aceştia să își distribuie conţinutul prin intermediul unor widget-uri personalizate, care funcţionează pe orice dispozitiv mobil si desktop'
-
-# Desc: Our widgets make sure not to break your website when content is missing
-'Our widgets make sure not to break your website when content is missing': 'Widget-urile noastre validează existenţa conţinutului pentru a nu strica site-ul dumneavoastră când acesta lipsește'
 
 # Desc: Overview
 Overview: 'Prezentare generală'
@@ -571,23 +481,14 @@ Settings: Setări
 # Desc: Sign up with
 'Sign up with': 'Creează cont folosind'
 
-# Desc: Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear
-'Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear': 'Copiaţi fragmentul de cod unic oferit pentru compoziţia dumneavoastră și încorporaţi-l în site, unde doriţi să apară widget-ul'
-
 # Desc: Skin
 Skin: Skin
-
-# Desc: Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee
-'Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee': 'În curând blogerii, agenţiile și organizaţiile vor putea să își creeze conturi Standard și Plus ce vor permite mai multe vizualizări, mai multe domenii web pentru widget-uri, statistici detaliate și alte avantaje pentru un mic abonamnent lunar'
 
 # Desc: Statistics
 Statistics: Statistici
 
 # Desc: Subscribe to the newsletter as well if you'd be interested to know what we're working on - we'll keep it short, promise!
 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Abonaţi-vă la newsletter dacă doriţi să aflaţi la ce lucrăm - vom fi conciși, promitem!'
-
-# Desc: Sure, Blogvio works on any website
-'Sure, Blogvio works on any website': 'Sigur, Blogvio funcţionează pe orice site'
 
 # Desc: Tags
 Tags: Tag-uri
@@ -610,12 +511,6 @@ Team: Echipă
 # Desc: The provided key wasn't found
 'The provided key wasn''t found': 'Cheia introdusă nu a fost găsită'
 
-# Desc: The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports
-'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports': 'Widget-urile pe care le găsești pe Blogvio te ajută să afișezi frumos conţinutul tău pe orice dispozitiv mobil sau desktop, în timp ce noi îţi oferim acces la diferite tipuri de statistici'
-
-# Desc: They control the widget’s appearance and behaviour
-'They control the widget’s appearance and behaviour': 'Ele controlează aspectul și comportamentul widget-urilor'
-
 # Desc: This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website
 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website': 'Acest fragment de cod este generat după ce compoziţia este salvată și îl puteţi încorpora unde doriţi să afișaţi widget-ul'
 
@@ -624,12 +519,6 @@ Team: Echipă
 
 # Desc: This is helpful because you won't need to edit this code after you've used it
 'This is helpful because you won''t need to edit this code after you''ve used it': 'Acest lucru este util pentru că nu este necesar să modificaţi acest fragment de cod după ce l-aţi folosit'
-
-# Desc: To create a new Skin, simply edit the properties of any Preset Skin and save it
-'To create a new Skin, simply edit the properties of any Preset Skin and save it': 'Pentru a crea un nou Skin, editaţi proprietăţile oricarui Skin Predefinit și salvaţi noul Skin'
-
-# Desc: To prevent others from using your compositions, the widgets will load only on the websites you specify
-'To prevent others from using your compositions, the widgets will load only on the websites you specify': 'Pentru a preveni ca alţi utilizatori să folosească compoziţiile pe care le-aţi creat, widget-urile se vor încărca doar pe site-urile pe care le-aţi specificat'
 
 # Desc: Tour
 Tour: Tur
@@ -691,9 +580,6 @@ Video: Video
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Doriţi să %link_one% intraţi în cont %end_tag% sau să %link_two% vă recuperaţi %end_tag_two% parola?'
 
-# Desc: We also love feedback!
-'We also love feedback!': 'Iubim sugestiile!'
-
 # Desc: We are a group of technologists, part of digital agency
 'We are a group of technologists, part of digital agency': 'Suntem un grup de tehnologi, parte din agenţia digitală'
 
@@ -702,21 +588,6 @@ Video: Video
 
 # Desc: We did a little welcome video for you
 'We did a little welcome video for you': 'Am făcut o scurtă introducere video pentru dumneavoastră'
-
-# Desc: We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content
-'We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content': 'Ne focusăm pe afișarea conţinutului dumneavoastră pe orice dispozitiv mobil sau desktop, în widget-uri frumoase, interactive, pentru ca dumneavoastră să vă puteţi focusa pe a crea cel mai bun conţinut'
-
-# Desc: We skip the missing files if no content is found
-'We skip the missing files if no content is found': 'Sărim peste fișierele lipsă dacă nu există conţinut'
-
-# Desc: We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video
-'We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video': 'Suportăm formatul %imageFormats% pentru imagini, %audioFormats% pentru audio și %videoFormats% pentru video'
-
-# Desc: We want to make content distribution easy and fun
-'We want to make content distribution easy and fun': 'Vrem să facem din distribuţia de conţinut o activitate simplă și plăcută'
-
-# Desc: We will be rolling out new widgets soon! We'll make announcements when we're ready to launch them
-'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them': 'Vom lansa widget-uri noi în curând! Vom anunţa când suntem gata să le lansăm'
 
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
 'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Ne-ar ajuta să aflăm de ce aţi renunţat la Blogvio și dacă putem îmbunătăţi ceva'
@@ -727,41 +598,14 @@ Video: Video
 # Desc: We're big believers in the &quot;learn by doing&quot; aproach
 'We''re big believers in the &quot;learn by doing&quot; aproach': 'Credem în tehnica învăţării prin practică'
 
-# Desc: We're currently working on these features
-'We''re currently working on these features': 'Lucrăm în momentul de faţă la aceste funcţionalităţi'
-
 # Desc: We've sent an email to
 'We''ve sent an email to': 'Am trimis un email către'
 
 # Desc: Welcome
 Welcome: 'Bine aţi venit'
 
-# Desc: We’re always happy to hear from our customers
-'We’re always happy to hear from our customers': 'Suntem întotdeauna fericiţi să primim mesaje de la clienţii noștri'
-
 # Desc: What can we help you with?
 'What can we help you with?': 'Cum vă putem ajuta?'
-
-# Desc: What file types do you support?
-'What file types do you support?': 'Ce format de fișiere acceptaţi?'
-
-# Desc: What is Blogvio?
-'What is Blogvio?': 'Ce este Blogvio?'
-
-# Desc: What is a Composition?
-'What is a Composition?': 'Ce este o Compoziţie?'
-
-# Desc: What is a Preset Skin?
-'What is a Preset Skin?': 'Ce este un Skin Predefinit?'
-
-# Desc: What is a Skin?
-'What is a Skin?': 'Ce este un Skin?'
-
-# Desc: What is a Widget?
-'What is a Widget?': 'Ce este un Widget?'
-
-# Desc: What should I do?
-'What should I do?': 'Ce ar trebui să fac?'
 
 # Desc: What type of widget do you need?
 'What type of widget do you need?': 'Ce tip de widget căutaţi?'
@@ -772,32 +616,17 @@ Welcome: 'Bine aţi venit'
 # Desc: Where do you want to embed your Compositions?
 'Where do you want to embed your Compositions?': 'Unde doriţi să încorporaţi Compoziţiile?'
 
-# Desc: Who is Blogvio for?
-'Who is Blogvio for?': 'Pentru cine este Blogvio?'
-
-# Desc: Why Blogvio?
-'Why Blogvio?': 'De ce Blogvio?'
-
 # Desc: Why is this important
 'Why is this important': 'De ce este important'
 
-# Desc: Why?
-'Why?': 'De ce?'
-
 # Desc: Widgets
 Widgets: Widget-uri
-
-# Desc: With Blogvio you can add beautiful widgets to your website or blog
-'With Blogvio you can add beautiful widgets to your website or blog': 'Cu Blogvio puteţi adăuga widget-uri frumoase pe site-ul, ori blog-ul dumneavoastră'
 
 # Desc: Wrong email adress
 'Wrong email adress': 'Adresă de email greșită'
 
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Puteţi schimba valorile pentru data-width și data-height pentru a schimba dimensiunile compoziţiei, și va fi actualizată în timp real'
-
-# Desc: You can embed our widgets using the unique code provided for each composition you create
-'You can embed our widgets using the unique code provided for each composition you create': 'Puteţi încorpora widget-urile noastre folosind fragmentul de cod unic oferit pentru fiecare compoziţie pe care o creaţi'
 
 # Desc: You haven't used this widget yet
 'You haven''t used this widget yet': 'Încă nu aţi folosit acest widget'
@@ -849,9 +678,6 @@ galleries: galerii
 
 # Desc: is not registered
 'is not registered': 'nu este înregistrat'
-
-# Desc: link to your content using one of the provided services
-'link to your content using one of the provided services': 'link către conţinutul tău folosind unul dintre serviciile oferite'
 
 # Desc: log in
 'log in': 'intră în cont'

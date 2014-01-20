@@ -1,29 +1,14 @@
 # Desc: 6 characters or more, a-Z 0-9
 '6 characters or more, a-Z 0-9': '6 знаков или больше, a-Z 0-9'
 
-# Desc: A Preset Skin is a Skin with predefined values for the widget’s properties
-'A Preset Skin is a Skin with predefined values for the widget’s properties': 'Preset Skin является скин с предопределенными значениями для свойств виджета'
-
-# Desc: A Skin is a list of specific properties associated to a widget
-'A Skin is a list of specific properties associated to a widget': 'Skin представляет собой перечень конкретных свойств, связанных с виджетом'
-
-# Desc: A composition is the combination of a customized widget, your content and it’s details
-'A composition is the combination of a customized widget, your content and it’s details': 'Композиция представляет собой комбинацию настроенной виджета, ваш контент, и это подробнее'
-
-# Desc: A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded
-'A free account has up to 50,000 views/month for all compositions and a total of 3 websites where the widgets can be embedded': 'Бесплатный аккаунт имеет до 50000 просмотров / месяц для всех композиций и в общей сложности 3 сайтов, где виджеты могут быть внедрены'
-
 # Desc: A new widget is available
 'A new widget is available': 'Новый виджет доступен'
 
 # Desc: A widget I use gets a big update
 'A widget I use gets a big update': 'Виджет я использую получает большое обновление'
 
-# Desc: A widget is any object you can copy and paste into a webpage through a snippet of code
-'A widget is any object you can copy and paste into a webpage through a snippet of code': 'Виджет является любой объект можно скопировать и вставить в веб-страницы через фрагмент кода'
-
 # Desc: About
-'About': 'Насчет'
+About: Насчет
 
 # Desc: Account
 Account: Account
@@ -52,17 +37,11 @@ Actions: Actions
 # Desc: Add Content
 'Add Content': 'Добавить содержимое'
 
-# Desc: Add beautiful widgets to your website
+# Desc: Add beautiful %widgets% to your website
 'Add beautiful %widgets% to your website': 'Добавить красивые %widgets% на ваш сайт'
 
 # Desc: Add your website
 'Add your website': 'Добавить свой сайт'
-
-# Desc: Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice
-'Additionaly, if you install one of our plugins, you can use Blogvio directly in your CMS of choice': 'Дополнительно, если вы установите одну из наших плагинов, вы можете использовать Blogvio непосредственно в CMS выбора'
-
-# Desc: After you select your perfect widget, follow these simple 3 steps
-'After you select your perfect widget, follow these simple 3 steps': 'После выбора подходящей виджет, следуйте этим простым 3 шага'
 
 # Desc: All your compositions
 'All your compositions': 'All your compositions'
@@ -83,7 +62,7 @@ Actions: Actions
 'Any updates you make will use the same embed code': 'Любые обновления вы будете делать это будет использоваться один и тот же код'
 
 # Desc: Audio
-'Audio': 'Aудио'
+Audio: Aудио
 
 # Desc: Audio Widgets
 'Audio Widgets': 'Aудио виджеты'
@@ -92,16 +71,10 @@ Actions: Actions
 'Awesome! Get started by exploring our widgets': 'Потрясающе! Начните исследовать наши виджеты'
 
 # Desc: Back
-'Back': 'Назад'
+Back: Назад
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio имеет инновационный редактор, который позволяет быстро создавать свои собственные скины или выбрать один из наших существующих пресетов'
-
-# Desc: Blogvio is a platform for content distribution
-'Blogvio is a platform for content distribution': 'Blogvio является платформой для распространения контента'
-
-# Desc: Blogvio is for any publisher and website owner that shares content online
-'Blogvio is for any publisher and website owner that shares content online': 'Blogvio является для любого издателя и владельца вебсайта который разделяет контент на сайте'
 
 # Desc: Blogvio publishes a newsletter
 'Blogvio publishes a newsletter': 'Blogvio издает информационный бюллетень'
@@ -121,14 +94,11 @@ Actions: Actions
 # Desc: Browse all widgets
 'Browse all widgets': 'Вы можете просмотреть все виджеты'
 
-# Desc: But we have some interesting stuff going on
+# Desc: But we have some interesting stuff going on %link% our blog
 'But we have some interesting stuff going on %link% our blog': 'Но у нас есть некоторые интересные вещи,действующие %link% на нашем блоге'
 
 # Desc: COPY CODE
 'COPY CODE': 'Скопируйте код'
-
-# Desc: Can I use Blogvio on my website?
-'Can I use Blogvio on my website?': 'Могу ли я использовать Blogvio на моем сайте?'
 
 # Desc: Careers
 Careers: Careers
@@ -149,16 +119,16 @@ Careers: Careers
 'Close description': 'Закрыть описание'
 
 # Desc: Coming soon
-'Coming soon': 'Скоро'
+'Coming soon': Скоро
 
 # Desc: Comments
-'Comments': 'Комментарии'
+Comments: Комментарии
 
 # Desc: Composition
-'Composition': 'Состав'
+Composition: Состав
 
 # Desc: Compositions
-'Compositions': 'Составы'
+Compositions: Составы
 
 # Desc: Compositions using this widget
 'Compositions using this widget': 'Составы с помощью этого виджета'
@@ -170,7 +140,7 @@ Careers: Careers
 'Connect with Google': 'Cоединиться с Google'
 
 # Desc: Contact
-'Contact': 'Kонтакт'
+Contact: Kонтакт
 
 # Desc: Contact Us
 'Contact Us': 'Cвязаться с нами'
@@ -185,19 +155,13 @@ Careers: Careers
 'Create an account with your email': 'Создать учетную запись с вашей электронной почтой'
 
 # Desc: Created
-'Created': 'Созданный'
-
-# Desc: Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)
-'Customize Skin (select a Preset Skin, or customize a Skin’s appearance and behaviour)': 'Настроить Skin (выберите Preset Skin или настроить внешний вид скины и поведение)'
+Created: Созданный
 
 # Desc: Customize your widget using one of our beautiful Presets or create your own Skin
 'Customize your widget using one of our beautiful Presets or create your own Skin': 'Настройте свой виджет, используя один из наших прекрасных пресетов или создать свой собственный скин'
 
-# Desc: Definitely! Our widgets are built using the latest HTML5 technologies
-'Definitely! Our widgets are built using the latest HTML5 technologies': 'Определенно! Наши виджеты строяны с использованием новейших технологий HTML5'
-
 # Desc: Delete
-'Delete': 'Удалять'
+Delete: Удалять
 
 # Desc: Delete Account
 'Delete Account': 'Удалить аккаунт'
@@ -205,14 +169,11 @@ Careers: Careers
 # Desc: Delete my account
 'Delete my account': 'Удалить мой аккаунт'
 
-# Desc: Does Blogvio work on mobile devices?
-'Does Blogvio work on mobile devices?': 'Blogvio работает на мобильных устройствах?'
-
 # Desc: Doesn't look like a valid email
 'Doesn''t look like a valid email': 'Неправильный формат электронной почты'
 
 # Desc: Done
-'Done': 'Готово'
+Done: Готовa
 
 # Desc: Done Editing
 'Done Editing': 'Редактирование завершено'
@@ -221,16 +182,13 @@ Careers: Careers
 'Download press kit': 'Скачать пресс-кит'
 
 # Desc: Duplicate
-'Duplicate': 'Дублировать'
+Duplicate: Дублировать
 
 # Desc: Edit Composition
 'Edit Composition': 'Редактировать состав'
 
 # Desc: Edit Details
 'Edit Details': 'Изменить сведения'
-
-# Desc: Edit Details (add specific details to your content, such as titles and descriptions)
-'Edit Details (add specific details to your content, such as titles and descriptions)': 'Изменить сведения (добавить конкретные детали на содержание вашего сайта, такие как  заголовков и описаний'
 
 # Desc: Email address
 'Email address': 'Адрес электронной почты'
@@ -247,20 +205,11 @@ Careers: Careers
 # Desc: Embed Code
 'Embed Code': 'Вставить код'
 
-# Desc: Every widget has a set of Preset Skins that we provide as a start base
-'Every widget has a set of Preset Skins that we provide as a start base': 'Каждый виджет имеет набор предустановленных скинов, которые мы предоставляем в качестве основной базы'
-
 # Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Explore our widgets gallery'
 
-# Desc: FAQ
-FAQ: FAQ
-
 # Desc: FEEDBACK
 FEEDBACK: FEEDBACK
-
-# Desc: Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%
-'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%': 'Feel free to drop us a line at %email% or contact us on Twitter %twitter_link%'
 
 # Desc: Find the widget you need
 'Find the widget you need': 'Найдите нужный вам виджет'
@@ -270,15 +219,6 @@ FEEDBACK: FEEDBACK
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Follow on Twitter'
-
-# Desc: For example an Mp3 Player widget can have a property called “Loop” set by default to “true”
-'For example an Mp3 Player widget can have a property called “Loop” set by default to “true”': 'For example an Mp3 Player widget can have a property called “Loop” set by default to “true”'
-
-# Desc: For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound
-'For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound': 'For example an Mp3 Player widget can have a property called “Volume”, that represents the initial volume of the sound'
-
-# Desc: For older browsers, we offer a flash fallback option as well
-'For older browsers, we offer a flash fallback option as well': 'For older browsers, we offer a flash fallback option as well'
 
 # Desc: For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio
 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio': 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio'
@@ -304,32 +244,17 @@ FEEDBACK: FEEDBACK
 # Desc: HOW TO EMBED ON ANY WEBSITE
 'HOW TO EMBED ON ANY WEBSITE': 'HOW TO EMBED ON ANY WEBSITE'
 
+# Desc: Help
+Help: Help   # FIXME
+
 # Desc: Here’s an example
 'Here’s an example': 'Here’s an example'
 
 # Desc: How Blogvio works
 'How Blogvio works': 'Как Blogvio работает'
 
-# Desc: How can I create a new Skin?
-'How can I create a new Skin?': 'How can I create a new Skin?'
-
-# Desc: How do I embed a Composition on my website?
-'How do I embed a Composition on my website?': 'How do I embed a Composition on my website?'
-
-# Desc: How does Blogvio work?
-'How does Blogvio work?': 'How does Blogvio work?'
-
 # Desc: How to add more websites
 'How to add more websites': 'How to add more websites'
-
-# Desc: I'm stuck
-'I''m stuck': 'I''m stuck'
-
-# Desc: If by mistake I delete my content, what will users on my website see?
-'If by mistake I delete my content, what will users on my website see?': 'If by mistake I delete my content, what will users on my website see?'
-
-# Desc: If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account
-'If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account': 'If you want to embed your widgets in more than three websites, you will need to Sign Up for a Standard or Plus account'
 
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition'
@@ -342,9 +267,6 @@ FEEDBACK: FEEDBACK
 
 # Desc: Invalid user
 'Invalid user': 'Invalid user'
-
-# Desc: Is Blogvio free?
-'Is Blogvio free?': 'Is Blogvio free?'
 
 # Desc: It will appear in this area
 'It will appear in this area': 'It will appear in this area'
@@ -366,9 +288,6 @@ FEEDBACK: FEEDBACK
 
 # Desc: Main Features
 'Main Features': 'Main Features'
-
-# Desc: Make sure your website is listed in your Account Settings
-'Make sure your website is listed in your Account Settings': 'Make sure your website is listed in your Account Settings'
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Making the most of Blogvio'
@@ -393,9 +312,6 @@ Metrics: Metrics
 
 # Desc: My website is
 'My website is': 'My website is'
-
-# Desc: My widgets don’t show up on my website
-'My widgets don’t show up on my website': 'My widgets don’t show up on my website'
 
 # Desc: Name
 Name: Name
@@ -424,9 +340,6 @@ Note: Note
 # Desc: Notifications
 Notifications: Notifications
 
-# Desc: Now you can use the composition you just created in your website
-'Now you can use the composition you just created in your website': 'Now you can use the composition you just created in your website'
-
 # Desc: On your way
 'On your way': 'On your way'
 
@@ -453,9 +366,6 @@ Notifications: Notifications
 
 # Desc: Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices
 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices'
-
-# Desc: Our widgets make sure not to break your website when content is missing
-'Our widgets make sure not to break your website when content is missing': 'Our widgets make sure not to break your website when content is missing'
 
 # Desc: Overview
 Overview: Overview
@@ -571,23 +481,14 @@ Settings: Settings
 # Desc: Sign up with
 'Sign up with': 'Sign up with'
 
-# Desc: Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear
-'Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear': 'Simply copy the unique code provided for your composition and paste it in your site, where you want the widget to appear'
-
 # Desc: Skin
 Skin: Skin
-
-# Desc: Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee
-'Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee': 'Soon, bloggers, agencies and organizations will be able to upgrade their accounts to be able to have more views, add more hosts, get detailed reports and additional sweets for a small monthly subscription fee'
 
 # Desc: Statistics
 Statistics: Statistics
 
 # Desc: Subscribe to the newsletter as well if you'd be interested to know what we're working on - we'll keep it short, promise!
 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!'
-
-# Desc: Sure, Blogvio works on any website
-'Sure, Blogvio works on any website': 'Sure, Blogvio works on any website'
 
 # Desc: Tags
 Tags: Tags
@@ -610,12 +511,6 @@ Team: Team
 # Desc: The provided key wasn't found
 'The provided key wasn''t found': 'The provided key wasn''t found'
 
-# Desc: The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports
-'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports': 'The widgets you find on Blogvio help you display your content beautifully across devices, while giving you access to different types of reports'
-
-# Desc: They control the widget’s appearance and behaviour
-'They control the widget’s appearance and behaviour': 'They control the widget’s appearance and behaviour'
-
 # Desc: This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website
 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website': 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website'
 
@@ -624,12 +519,6 @@ Team: Team
 
 # Desc: This is helpful because you won't need to edit this code after you've used it
 'This is helpful because you won''t need to edit this code after you''ve used it': 'This is helpful because you won''t need to edit this code after you''ve used it'
-
-# Desc: To create a new Skin, simply edit the properties of any Preset Skin and save it
-'To create a new Skin, simply edit the properties of any Preset Skin and save it': 'To create a new Skin, simply edit the properties of any Preset Skin and save it'
-
-# Desc: To prevent others from using your compositions, the widgets will load only on the websites you specify
-'To prevent others from using your compositions, the widgets will load only on the websites you specify': 'To prevent others from using your compositions, the widgets will load only on the websites you specify'
 
 # Desc: Tour
 Tour: Tour
@@ -691,9 +580,6 @@ Video: Video
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?'
 
-# Desc: We also love feedback!
-'We also love feedback!': 'We also love feedback!'
-
 # Desc: We are a group of technologists, part of digital agency
 'We are a group of technologists, part of digital agency': 'We are a group of technologists, part of digital agency'
 
@@ -702,21 +588,6 @@ Video: Video
 
 # Desc: We did a little welcome video for you
 'We did a little welcome video for you': 'We did a little welcome video for you'
-
-# Desc: We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content
-'We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content': 'We focus on making your content work across devices, in beautiful, interactive, smart widgets, so you can focus on creating your best content'
-
-# Desc: We skip the missing files if no content is found
-'We skip the missing files if no content is found': 'We skip the missing files if no content is found'
-
-# Desc: We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video
-'We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video': 'We support %imageFormats% for images, %audioFormats% for audio and %videoFormats% for video'
-
-# Desc: We want to make content distribution easy and fun
-'We want to make content distribution easy and fun': 'We want to make content distribution easy and fun'
-
-# Desc: We will be rolling out new widgets soon! We'll make announcements when we're ready to launch them
-'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them': 'We will be rolling out new widgets soon! We''ll make announcements when we''re ready to launch them'
 
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
 'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'We''d love to find out why you left Blogvio, and if there''s anything we can improve'
@@ -727,41 +598,14 @@ Video: Video
 # Desc: We're big believers in the &quot;learn by doing&quot; aproach
 'We''re big believers in the &quot;learn by doing&quot; aproach': 'We''re big believers in the &quot;learn by doing&quot; aproach'
 
-# Desc: We're currently working on these features
-'We''re currently working on these features': 'We''re currently working on these features'
-
 # Desc: We've sent an email to
 'We''ve sent an email to': 'We''ve sent an email to'
 
 # Desc: Welcome
 Welcome: Welcome
 
-# Desc: We’re always happy to hear from our customers
-'We’re always happy to hear from our customers': 'We’re always happy to hear from our customers'
-
 # Desc: What can we help you with?
 'What can we help you with?': 'What can we help you with?'
-
-# Desc: What file types do you support?
-'What file types do you support?': 'What file types do you support?'
-
-# Desc: What is Blogvio?
-'What is Blogvio?': 'What is Blogvio?'
-
-# Desc: What is a Composition?
-'What is a Composition?': 'What is a Composition?'
-
-# Desc: What is a Preset Skin?
-'What is a Preset Skin?': 'What is a Preset Skin?'
-
-# Desc: What is a Skin?
-'What is a Skin?': 'What is a Skin?'
-
-# Desc: What is a Widget?
-'What is a Widget?': 'What is a Widget?'
-
-# Desc: What should I do?
-'What should I do?': 'What should I do?'
 
 # Desc: What type of widget do you need?
 'What type of widget do you need?': 'What type of widget do you need?'
@@ -772,32 +616,17 @@ Welcome: Welcome
 # Desc: Where do you want to embed your Compositions?
 'Where do you want to embed your Compositions?': 'Where do you want to embed your Compositions?'
 
-# Desc: Who is Blogvio for?
-'Who is Blogvio for?': 'Who is Blogvio for?'
-
-# Desc: Why Blogvio?
-'Why Blogvio?': 'Why Blogvio?'
-
 # Desc: Why is this important
 'Why is this important': 'Why is this important'
 
-# Desc: Why?
-'Why?': 'Why?'
-
 # Desc: Widgets
 Widgets: Widgets
-
-# Desc: With Blogvio you can add beautiful widgets to your website or blog
-'With Blogvio you can add beautiful widgets to your website or blog': 'With Blogvio you can add beautiful widgets to your website or blog'
 
 # Desc: Wrong email adress
 'Wrong email adress': 'Wrong email adress'
 
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time'
-
-# Desc: You can embed our widgets using the unique code provided for each composition you create
-'You can embed our widgets using the unique code provided for each composition you create': 'You can embed our widgets using the unique code provided for each composition you create'
 
 # Desc: You haven't used this widget yet
 'You haven''t used this widget yet': 'You haven''t used this widget yet'
@@ -849,9 +678,6 @@ galleries: galleries
 
 # Desc: is not registered
 'is not registered': 'is not registered'
-
-# Desc: link to your content using one of the provided services
-'link to your content using one of the provided services': 'ссылка на содержание вашего сайта с помощью одного из предоставляемых услуг'
 
 # Desc: log in
 'log in': 'log in'
