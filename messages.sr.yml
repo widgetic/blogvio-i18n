@@ -11,22 +11,22 @@
 About: About
 
 # Desc: Account
-Account: Account
+Account: Налог
 
 # Desc: Account Registration
-'Account Registration': 'Account Registration'
+'Account Registration': 'Регистрација налога'
 
 # Desc: Account Settings
-'Account Settings': 'Account Settings'
+'Account Settings': 'Подешавања налога'
 
 # Desc: Account deleted
-'Account deleted': 'Account deleted'
+'Account deleted': 'Налог избрисан'
 
 # Desc: Account info
-'Account info': 'Account info'
+'Account info': 'Информације о налогу'
 
 # Desc: Account password
-'Account password': 'Account password'
+'Account password': 'Лозинка'
 
 # Desc: Actions
 Actions: Actions
@@ -38,10 +38,10 @@ Actions: Actions
 'Add Content': 'Add Content'
 
 # Desc: Add beautiful %widgets% to your website
-'Add beautiful %widgets% to your website': 'Add beautiful %widgets% to your website'
+'Add beautiful %widgets% to your website': 'Додај прелепе %widgets% на свој вебсајт'
 
 # Desc: Add your website
-'Add your website': 'Add your website'
+'Add your website': 'Додај свој вебсајт'
 
 # Desc: All your compositions
 'All your compositions': 'All your compositions'
@@ -50,7 +50,7 @@ Actions: Actions
 'Already have your content online? We can grab it for you from across the social web': 'Already have your content online? We can grab it for you from across the social web'
 
 # Desc: Also, it's free!
-'Also, it''s free!': 'Also, it''s free!'
+'Also, it''s free!': 'Такође, бесплатно је!'
 
 # Desc: Analyze, create and share your best content yet
 'Analyze, create and share your best content yet': 'Analyze, create and share your best content yet'
@@ -62,16 +62,16 @@ Actions: Actions
 'Any updates you make will use the same embed code': 'Any updates you make will use the same embed code'
 
 # Desc: Audio
-Audio: Audio
+Audio: Аудио
 
 # Desc: Audio Widgets
-'Audio Widgets': 'Audio Widgets'
+'Audio Widgets': 'Аудио виџети'
 
 # Desc: Awesome! Get started by exploring our widgets
 'Awesome! Get started by exploring our widgets': 'Awesome! Get started by exploring our widgets'
 
 # Desc: Back
-Back: Back
+Back: Назад
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets'
@@ -98,31 +98,31 @@ Browse: Browse
 'But we have some interesting stuff going on %link% our blog': 'But we have some interesting stuff going on %link% our blog'
 
 # Desc: COPY CODE
-'COPY CODE': 'COPY CODE'
+'COPY CODE': 'ИСКОПИРАЈ КОД'
 
 # Desc: Careers
-Careers: Careers
+Careers: Посао
 
 # Desc: Change password
-'Change password': 'Change password'
+'Change password': 'Промени лозинку'
 
 # Desc: Changes saved
-'Changes saved': 'Changes saved'
+'Changes saved': 'Промене сачуване'
 
 # Desc: Choose a password
-'Choose a password': 'Choose a password'
+'Choose a password': 'Изабери лозинку'
 
 # Desc: Choose your website's platform
 'Choose your website''s platform': 'Choose your website''s platform'
 
 # Desc: Close description
-'Close description': 'Close description'
+'Close description': 'Затвори опис'
 
 # Desc: Coming soon
-'Coming soon': 'Coming soon'
+'Coming soon': 'Ускоро'
 
 # Desc: Comments
-Comments: Comments
+Comments: Коментари
 
 # Desc: Composition
 Composition: Composition
@@ -134,16 +134,16 @@ Compositions: Compositions
 'Compositions using this widget': 'Compositions using this widget'
 
 # Desc: Connect with Facebook
-'Connect with Facebook': 'Connect with Facebook'
+'Connect with Facebook': 'Повежи са Фејсбуком'
 
 # Desc: Connect with Google
-'Connect with Google': 'Connect with Google'
+'Connect with Google': 'Повежи са Гуглом'
 
 # Desc: Contact
-Contact: Contact
+Contact: Контакт
 
 # Desc: Contact Us
-'Contact Us': 'Contact Us'
+'Contact Us': 'Контактирај нас'
 
 # Desc: Create Composition
 'Create Composition': 'Create Composition'
@@ -152,7 +152,7 @@ Contact: Contact
 'Create a Composition': 'Create a Composition'
 
 # Desc: Create an account with your email
-'Create an account with your email': 'Create an account with your email'
+'Create an account with your email': 'Направи налог користећи своју и-мејл адресу'
 
 # Desc: Created
 Created: Created
@@ -161,16 +161,16 @@ Created: Created
 'Customize your widget using one of our beautiful Presets or create your own Skin': 'Customize your widget using one of our beautiful Presets or create your own Skin'
 
 # Desc: Delete
-Delete: Delete
+Delete: Избриши
 
 # Desc: Delete Account
-'Delete Account': 'Delete Account'
+'Delete Account': 'Избриши налог'
 
 # Desc: Delete my account
-'Delete my account': 'Delete my account'
+'Delete my account': 'Избрисати мој налог'
 
 # Desc: Doesn't look like a valid email
-'Doesn''t look like a valid email': 'Doesn''t look like a valid email'
+'Doesn''t look like a valid email': 'Не изгледа као валидна и-мејл адреса'
 
 # Desc: Done
 Done: Done
@@ -188,37 +188,37 @@ Duplicate: Duplicate
 'Edit Composition': 'Edit Composition'
 
 # Desc: Edit Details
-'Edit Details': 'Edit Details'
+'Edit Details': 'Измени детаље'
 
 # Desc: Email address
-'Email address': 'Email address'
+'Email address': 'И-мејл адреса'
 
 # Desc: Email address is verified
-'Email address is verified': 'Email address is verified'
+'Email address is verified': 'И-мејл адреса је верификована'
 
 # Desc: Email already used
-'Email already used': 'Email already used'
+'Email already used': 'Овај И-мејл се већ користи'
 
 # Desc: Email successfully subscribed
-'Email successfully subscribed': 'Email successfully subscribed'
+'Email successfully subscribed': 'И-мејл успешно пријављен'
 
 # Desc: Embed Code
 'Embed Code': 'Embed Code'
 
 # Desc: Explore our widgets gallery
-'Explore our widgets gallery': 'Explore our widgets gallery'
+'Explore our widgets gallery': 'Истражите нашу галерију виџета'
 
 # Desc: FEEDBACK
 FEEDBACK: FEEDBACK
 
 # Desc: Find the widget you need
-'Find the widget you need': 'Find the widget you need'
+'Find the widget you need': 'Пронађите виџет који Вам је потребан'
 
 # Desc: First Name
-'First Name': 'First Name'
+'First Name': 'Име'
 
 # Desc: Follow on Twitter
-'Follow on Twitter': 'Follow on Twitter'
+'Follow on Twitter': 'Прати на Твитеру'
 
 # Desc: For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio
 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio': 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio'
@@ -230,7 +230,7 @@ FEEDBACK: FEEDBACK
 'Form successfully submited': 'Form successfully submited'
 
 # Desc: Frequently Asked Questions
-'Frequently Asked Questions': 'Frequently Asked Questions'
+'Frequently Asked Questions': 'Често постављана питања'
 
 # Desc: Get started by creating your first Composition
 'Get started by creating your first Composition': 'Get started by creating your first Composition'
@@ -239,7 +239,7 @@ FEEDBACK: FEEDBACK
 'Get started with Blogvio now': 'Get started with Blogvio now'
 
 # Desc: Get started with a free account
-'Get started with a free account': 'Get started with a free account'
+'Get started with a free account': 'Направите бесплатан налог'
 
 # Desc: HOW TO EMBED ON ANY WEBSITE
 'HOW TO EMBED ON ANY WEBSITE': 'HOW TO EMBED ON ANY WEBSITE'
@@ -251,10 +251,10 @@ Help: Help   # FIXME
 'Here’s an example': 'Here’s an example'
 
 # Desc: How Blogvio works
-'How Blogvio works': 'How Blogvio works'
+'How Blogvio works': 'Како Блогвио ради'
 
 # Desc: How to add more websites
-'How to add more websites': 'How to add more websites'
+'How to add more websites': 'Како додати још вебсајтова'
 
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition'
@@ -263,7 +263,7 @@ Help: Help   # FIXME
 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter'
 
 # Desc: Incorrect password
-'Incorrect password': 'Incorrect password'
+'Incorrect password': 'Нетачна лозинка'
 
 # Desc: Invalid user
 'Invalid user': 'Invalid user'
@@ -275,13 +275,13 @@ Help: Help   # FIXME
 'Kindly open it and follow the instructions in it to change your password': 'Kindly open it and follow the instructions in it to change your password'
 
 # Desc: Last Name
-'Last Name': 'Last Name'
+'Last Name': 'Презиме'
 
 # Desc: Like on Facebook
-'Like on Facebook': 'Like on Facebook'
+'Like on Facebook': 'Свиђа ми се на Фејсбуку'
 
 # Desc: Log Out
-'Log Out': 'Log Out'
+'Log Out': 'Одјави се'
 
 # Desc: Looks like the old password
 'Looks like the old password': 'Looks like the old password'
@@ -296,16 +296,16 @@ Help: Help   # FIXME
 'Maximum number of allowed hosts has been reached': 'Maximum number of allowed hosts has been reached'
 
 # Desc: Message successfully sent
-'Message successfully sent': 'Message successfully sent'
+'Message successfully sent': 'Порука успешно послата'
 
 # Desc: Metrics
 Metrics: Metrics
 
 # Desc: Monthly newsletter?
-'Monthly newsletter?': 'Monthly newsletter?'
+'Monthly newsletter?': 'Месечни њузлетер?'
 
 # Desc: Must be at least 6 characters long, no spaces
-'Must be at least 6 characters long, no spaces': 'Must be at least 6 characters long, no spaces'
+'Must be at least 6 characters long, no spaces': 'Мора бити бар 6 карактера, без размака'
 
 # Desc: My compositions are close to exceeding 50k views/month
 'My compositions are close to exceeding 50k views/month': 'My compositions are close to exceeding 50k views/month'
@@ -314,7 +314,7 @@ Metrics: Metrics
 'My website is': 'My website is'
 
 # Desc: Name
-Name: Name
+Name: Име
 
 # Desc: Need to try a different email address
 'Need to try a different email address': 'Need to try a different email address'
@@ -323,22 +323,22 @@ Name: Name
 'New Composition': 'New Composition'
 
 # Desc: New Password
-'New Password': 'New Password'
+'New Password': 'Нова лозинка'
 
 # Desc: Next Step
-'Next Step': 'Next Step'
+'Next Step': 'Следећи корак'
 
 # Desc: No compositions published
 'No compositions published': 'No compositions published'
 
 # Desc: No spam - ever
-'No spam - ever': 'No spam - ever'
+'No spam - ever': 'Без спама - икада'
 
 # Desc: Note
 Note: Note
 
 # Desc: Notifications
-Notifications: Notifications
+Notifications: Обавештења
 
 # Desc: On your way
 'On your way': 'On your way'
@@ -356,7 +356,7 @@ Notifications: Notifications
 'Other platform': 'Other platform'
 
 # Desc: Our Team
-'Our Team': 'Our Team'
+'Our Team': 'Наш тим'
 
 # Desc: Our detailed analytics shows you how your content is doing on any platform
 'Our detailed analytics shows you how your content is doing on any platform': 'Our detailed analytics shows you how your content is doing on any platform'
@@ -371,25 +371,25 @@ Notifications: Notifications
 Overview: Overview
 
 # Desc: Password
-Password: Password
+Password: Лозинка
 
 # Desc: Password must be at least 6 characters
-'Password must be at least 6 characters': 'Password must be at least 6 characters'
+'Password must be at least 6 characters': 'Лозинка мора да буде најмање 6 карактера'
 
 # Desc: Password must match
 'Password must match': 'Password must match'
 
 # Desc: Photo
-Photo: Photo
+Photo: Фотографија
 
 # Desc: Photo Widgets
 'Photo Widgets': 'Photo Widgets'
 
 # Desc: Pick a new password
-'Pick a new password': 'Pick a new password'
+'Pick a new password': 'Изабери нову лозинку'
 
 # Desc: Please enter the new password again
-'Please enter the new password again': 'Please enter the new password again'
+'Please enter the new password again': 'Молимо Вас поново унесите лозинку'
 
 # Desc: Please let us know your feedback
 'Please let us know your feedback': 'Please let us know your feedback'
@@ -398,10 +398,10 @@ Photo: Photo
 'Please select another one': 'Please select another one'
 
 # Desc: Please specify your old password
-'Please specify your old password': 'Please specify your old password'
+'Please specify your old password': 'Молимо Вас унесите стару лозинку'
 
 # Desc: Please type a password
-'Please type a password': 'Please type a password'
+'Please type a password': 'Молимо Вас укуцајте шифру'
 
 # Desc: Plugin Installation
 'Plugin Installation': 'Plugin Installation'
@@ -419,13 +419,13 @@ Plugins: Plugins
 Press: Press
 
 # Desc: Privacy Policy
-'Privacy Policy': 'Privacy Policy'
+'Privacy Policy': 'Политика приватности'
 
 # Desc: Re-type New Password
-'Re-type New Password': 'Re-type New Password'
+'Re-type New Password': 'Поново укуцајте нову лозинку'
 
 # Desc: Read Full Description
-'Read Full Description': 'Read Full Description'
+'Read Full Description': 'Прочитајте цео опис'
 
 # Desc: Ready?
 'Ready?': 'Ready?'
@@ -434,10 +434,10 @@ Press: Press
 'Remind me when': 'Remind me when'
 
 # Desc: Resend
-Resend: Resend
+Resend: Пошаљи поново
 
 # Desc: Reset Password
-'Reset Password': 'Reset Password'
+'Reset Password': 'Ресетуј шифру'
 
 # Desc: Reset my password
 'Reset my password': 'Reset my password'
