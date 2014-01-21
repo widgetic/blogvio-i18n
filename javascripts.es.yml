@@ -257,7 +257,7 @@ Video: Video
 'We''ll see you at the finish line!': 'Nos vemos en la línea de meta!'
 
 # Desc: What's on your mind?
-'What''s on your mind?': '¿Qué tienes en la cabeza?'
+'What''s on your mind?': '¿Cómo podemos mejorar?'
 
 # Desc: Widget Categories
 'Widget Categories': 'Categorías de widgets'
@@ -368,7 +368,7 @@ you:
     can:
         embed:
             # Desc: {0}Embed Your Compositions In These Websites|{1}You Can Embed Compositions In One More Website|]1,Inf]You Can Embed Compositions In %count% More Websites 
-            hosts: '{0} Inserta tus composiciones en estas páginas Web {1} Puedes insertar las composiciones en más de una página Web |]1,Inf] Puedes insertar las composiciones en los dominios de %count% páginas Web'
+            hosts: '{0} Inserta tus composiciones en estas páginas Web |{1} Puedes insertar las composiciones en más de una página Web |]1,Inf] Puedes insertar las composiciones en los dominios de %count% páginas Web'
 
             # Desc: [0,Inf]You Can Embed Compositions In %count% Websites 
             hosts.max: '[0,Inf]Puedes insertar las composiciones en %count% páginas Web como máximo'

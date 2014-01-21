@@ -32,7 +32,7 @@ Account: Cuenta
 Actions: acciones
 
 # Desc: Activationkey not found
-'Activation key not found': 'La clave de activación no se encuentra'
+'Activationkey not found': 'Activationkey not found'   # FIXME
 
 # Desc: Add Content
 'Add Content': 'Añadir contenido'
@@ -119,7 +119,7 @@ Careers: Carreras
 'Close description': 'Cerrar descripción'
 
 # Desc: Coming soon
-'Coming soon': 'Próximamente'
+'Coming soon': Próximamente
 
 # Desc: Comments
 Comments: Comentarios
@@ -143,7 +143,7 @@ Compositions: Composiciones
 Contact: Contacto
 
 # Desc: Contact Us
-'Contact Us': 'Contáctenos'
+'Contact Us': Contáctenos
 
 # Desc: Create Composition
 'Create Composition': 'Crear Composición'
@@ -176,7 +176,7 @@ Delete: Eliminar
 Done: hecho
 
 # Desc: Done Editing
-'Done Editing': 'Finalizar'
+'Done Editing': Finalizar
 
 # Desc: Download press kit
 'Download press kit': 'Descargue nuestro press kit'
@@ -203,19 +203,19 @@ Duplicate: Duplicar
 'Email successfully subscribed': 'Email suscrito correctamente'
 
 # Desc: Embed Code
-'Embed Code': 'Insertar'
+'Embed Code': Insertar
 
 # Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Explora nuestra galería de widgets'
 
 # Desc: FEEDBACK
-FEEDBACK: FEEDBACK
+FEEDBACK: COMENTARIOS
 
 # Desc: Find the widget you need
 'Find the widget you need': 'Encuentra el widget que necesita'
 
 # Desc: First Name
-'First Name': 'Nombre'
+'First Name': Nombre
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Siga en Twitter'
@@ -245,7 +245,7 @@ FEEDBACK: FEEDBACK
 'HOW TO EMBED ON ANY WEBSITE': 'Cómo insertar en cualquier sitio web'
 
 # Desc: Help
-Help: Ayuda   # FIXME
+Help: Ayuda
 
 # Desc: Here’s an example
 'Here’s an example': 'Aquí tiene un ejemplo'
@@ -253,6 +253,8 @@ Help: Ayuda   # FIXME
 # Desc: How Blogvio works
 'How Blogvio works': 'Cómo funciona Blogvio'
 
+# Desc: How to add more websites
+'How to add more websites': 'How to add more websites'   # FIXME
 
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'Si su pagina web no se basa en alguna de estas plataformas (WordPress, Blogger, Tumblr), sólo tiene que copiar / pegar el código de inserción por cada composición'
@@ -273,19 +275,19 @@ Help: Ayuda   # FIXME
 'Kindly open it and follow the instructions in it to change your password': 'Por favor ábralo y siga las instrucciones para cambiar su contraseña'
 
 # Desc: Last Name
-'Last Name': 'Apellido'
+'Last Name': Apellido
 
 # Desc: Like on Facebook
 'Like on Facebook': 'Me gusta en Facebook'
 
 # Desc: Log Out
-'Log Out': 'Salir'
+'Log Out': Salir
 
 # Desc: Looks like the old password
 'Looks like the old password': 'Parece igual a la contraseña antigua'
 
 # Desc: Main Features
-'Main Features': 'Características principales'
+'Main Features': Características
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Sacar el máximo de Blogvio'
@@ -297,7 +299,7 @@ Help: Ayuda   # FIXME
 'Message successfully sent': 'Mensaje enviado con éxito'
 
 # Desc: Metrics
-Metrics: métrica
+Metrics: Métrica
 
 # Desc: Monthly newsletter?
 'Monthly newsletter?': 'Newsletter mensual?'
@@ -329,9 +331,6 @@ Name: Nombre
 # Desc: No compositions published
 'No compositions published': 'No hay composiciones publicadas'
 
-# Desc: No spam - ever
-'No spam - ever': 'No spam - ​​nunca'
-
 # Desc: Note
 Note: Nota
 
@@ -339,7 +338,7 @@ Note: Nota
 Notifications: Notificaciones
 
 # Desc: On your way
-'On your way': '¡Empieza!'
+'On your way': ¡Empieza!
 
 # Desc: Once you have an embed code generated for a composition, this won't change
 'Once you have an embed code generated for a composition, this won''t change': 'Una vez que tenga un código de inserción generado para una composición, esto no va a cambiar'
@@ -354,7 +353,7 @@ Notifications: Notificaciones
 'Other platform': 'Otra plataforma'
 
 # Desc: Our Team
-'Our Team': 'Nuestro Equipo'
+'Our Team': Equipo
 
 # Desc: Our detailed analytics shows you how your content is doing on any platform
 'Our detailed analytics shows you how your content is doing on any platform': 'Nuestros análisis detallados te muestran cómo su contenido está haciendo en cualquier plataforma'
@@ -363,10 +362,10 @@ Notifications: Notificaciones
 'Our mission is to make content distribution easy and fun': 'Nuestra misión es hacer que la distribución de contenidos sea fácil y divertido'
 
 # Desc: Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices
-'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Nuestra visión es proporcionar a los propietarios de sitios web con una plataforma para ayudar a distribuir su contenido utilizando widgets personalizados, que funciona a través de dispositivos'
+'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Nuestra visión es ofrecer a los propietarios de sitios web con una plataforma para ayudar a distribuir su contenido utilizando widgets personalizados, que funciona a través de dispositivos'
 
 # Desc: Overview
-Overview: Vista general
+Overview: 'Vista general'
 
 # Desc: Password
 Password: Contraseña
@@ -423,7 +422,7 @@ Press: Prensa
 'Re-type New Password': 'Reescribe la contraseña nueva'
 
 # Desc: Read Full Description
-'Read Full Description': 'Lee la descripción completa'
+'Read Full Description': 'Descripción Completa'
 
 # Desc: Ready?
 'Ready?': 'Listo?'
@@ -432,7 +431,7 @@ Press: Prensa
 'Remind me when': 'Avisarme cuando'
 
 # Desc: Resend
-Resend: Vuelva a enviar
+Resend: 'Vuelva a enviar'
 
 # Desc: Reset Password
 'Reset Password': 'Restablecer contraseña'
@@ -498,7 +497,7 @@ Team: Equipo
 'Terms of Service': 'Condiciones del servicio'
 
 # Desc: Thank you
-'Thank you': 'Gracias'
+'Thank you': Gracias
 
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'Eso es todo lo que necesita para crear un'
@@ -617,9 +616,6 @@ Welcome: Bienvenido
 # Desc: Why is this important
 'Why is this important': '¿Por qué es importante'
 
-# Desc: Why?
-'Why?': '¿Por qué?'
-
 # Desc: Widgets
 Widgets: Widgets
 
@@ -663,7 +659,7 @@ Widgets: Widgets
 'change email': 'cambiar el correo electrónico'
 
 # Desc: coming soon
-'coming soon': 'próximamente'
+'coming soon': próximamente
 
 # Desc: delete your blogvio account
 'delete your blogvio account': 'elimina su cuenta blogvio'

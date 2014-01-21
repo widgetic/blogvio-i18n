@@ -245,7 +245,7 @@ FEEDBACK: SUGESTII
 'HOW TO EMBED ON ANY WEBSITE': 'CUM SĂ ÎNCORPOREZI WIDGET-UL PE ORICE SITE'
 
 # Desc: Help
-Help: Help   # FIXME
+Help: Help
 
 # Desc: Here’s an example
 'Here’s an example': 'Aici aveţi un exemplu'
@@ -330,9 +330,6 @@ Name: Nume
 
 # Desc: No compositions published
 'No compositions published': 'Nici o compoziţie publicată'
-
-# Desc: No spam - ever
-'No spam - ever': 'Fără spam. Deloc'
 
 # Desc: Note
 Note: Notă

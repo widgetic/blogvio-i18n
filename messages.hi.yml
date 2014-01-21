@@ -245,7 +245,7 @@ FEEDBACK: FEEDBACK
 'HOW TO EMBED ON ANY WEBSITE': 'HOW TO EMBED ON ANY WEBSITE'
 
 # Desc: Help
-Help: Help   # FIXME
+Help: Help
 
 # Desc: Here’s an example
 'Here’s an example': 'Here’s an example'
@@ -330,9 +330,6 @@ Name: Name
 
 # Desc: No compositions published
 'No compositions published': 'No compositions published'
-
-# Desc: No spam - ever
-'No spam - ever': 'No spam - ever'
 
 # Desc: Note
 Note: Note

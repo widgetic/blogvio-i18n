@@ -26,7 +26,7 @@ Account: Налог
 'Account info': 'Информације о налогу'
 
 # Desc: Account password
-'Account password': 'Лозинка'
+'Account password': Лозинка
 
 # Desc: Actions
 Actions: Actions
@@ -119,7 +119,7 @@ Careers: Посао
 'Close description': 'Затвори опис'
 
 # Desc: Coming soon
-'Coming soon': 'Ускоро'
+'Coming soon': Ускоро
 
 # Desc: Comments
 Comments: Коментари
@@ -215,7 +215,7 @@ FEEDBACK: FEEDBACK
 'Find the widget you need': 'Пронађите виџет који Вам је потребан'
 
 # Desc: First Name
-'First Name': 'Име'
+'First Name': Име
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Прати на Твитеру'
@@ -245,7 +245,7 @@ FEEDBACK: FEEDBACK
 'HOW TO EMBED ON ANY WEBSITE': 'HOW TO EMBED ON ANY WEBSITE'
 
 # Desc: Help
-Help: Help   # FIXME
+Help: Help
 
 # Desc: Here’s an example
 'Here’s an example': 'Here’s an example'
@@ -275,7 +275,7 @@ Help: Help   # FIXME
 'Kindly open it and follow the instructions in it to change your password': 'Kindly open it and follow the instructions in it to change your password'
 
 # Desc: Last Name
-'Last Name': 'Презиме'
+'Last Name': Презиме
 
 # Desc: Like on Facebook
 'Like on Facebook': 'Свиђа ми се на Фејсбуку'
@@ -330,9 +330,6 @@ Name: Име
 
 # Desc: No compositions published
 'No compositions published': 'No compositions published'
-
-# Desc: No spam - ever
-'No spam - ever': 'Без спама - икада'
 
 # Desc: Note
 Note: Note
@@ -434,7 +431,7 @@ Press: Press
 'Remind me when': 'Remind me when'
 
 # Desc: Resend
-Resend: Пошаљи поново
+Resend: 'Пошаљи поново'
 
 # Desc: Reset Password
 'Reset Password': 'Ресетуј шифру'
