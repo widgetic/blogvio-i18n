@@ -11,31 +11,31 @@
 About: Насчет
 
 # Desc: Account
-Account: Account
+Account: Аккаунт
 
 # Desc: Account Registration
-'Account Registration': 'Регистрация аккаунта'
+'Account Registration': 'Регистрация Аккаунта'
 
 # Desc: Account Settings
-'Account Settings': 'Настройки аккаунта'
+'Account Settings': 'Настройки Аккаунта'
 
 # Desc: Account deleted
-'Account deleted': 'Account deleted'
+'Account deleted': 'Аккаунт удален'
 
 # Desc: Account info
 'Account info': 'Информация аккаунта'
 
 # Desc: Account password
-'Account password': 'Пароль учетной записи'
+'Account password': 'Пароль аккаунта'
 
 # Desc: Actions
-Actions: Actions
+Actions: Действия
 
 # Desc: Activationkey not found
 'Activationkey not found': 'Ключ активации не найден'
 
 # Desc: Add Content
-'Add Content': 'Добавить содержимое'
+'Add Content': 'Добавить Содержимое'
 
 # Desc: Add beautiful %widgets% to your website
 'Add beautiful %widgets% to your website': 'Добавить красивые %widgets% на ваш сайт'
@@ -44,10 +44,10 @@ Actions: Actions
 'Add your website': 'Добавить свой сайт'
 
 # Desc: All your compositions
-'All your compositions': 'All your compositions'
+'All your compositions': 'Все ваши композиции'
 
 # Desc: Already have your content online? We can grab it for you from across the social web
-'Already have your content online? We can grab it for you from across the social web': 'У вас уже есть свой контент в Интернете? Мы можем схватить его для вас со всей социальной сети'
+'Already have your content online? We can grab it for you from across the social web': 'У вас уже есть свой контент в интернете? Мы можем схватить его для вас со всей социальной сети'
 
 # Desc: Also, it's free!
 'Also, it''s free!': 'Кроме того, это бесплатно!'
@@ -65,7 +65,7 @@ Actions: Actions
 Audio: Aудио
 
 # Desc: Audio Widgets
-'Audio Widgets': 'Aудио виджеты'
+'Audio Widgets': 'Aудио Виджеты'
 
 # Desc: Awesome! Get started by exploring our widgets
 'Awesome! Get started by exploring our widgets': 'Потрясающе! Начните исследовать наши виджеты'
@@ -83,25 +83,25 @@ Back: Назад
 'Bring your<br />content in': 'Принесите<br />свой контент в'
 
 # Desc: Browse
-Browse: Просмотр
+'Browse': 'Просмотр'
 
 # Desc: Browse Our Widgets
-'Browse Our Widgets': 'Смотреть наши виджеты'
+'Browse Our Widgets': 'Смотреть Наши Виджеты'
 
 # Desc: Browse Widgets
-'Browse Widgets': 'Смотреть виджеты'
+'Browse Widgets': 'Смотреть Виджеты'
 
 # Desc: Browse all widgets
 'Browse all widgets': 'Вы можете просмотреть все виджеты'
 
 # Desc: But we have some interesting stuff going on %link% our blog
-'But we have some interesting stuff going on %link% our blog': 'Но у нас есть некоторые интересные вещи,действующие %link% на нашем блоге'
+'But we have some interesting stuff going on %link% our blog': 'Но у нас есть некоторые интересные вещи, действующие %link% на нашем блоге'
 
 # Desc: COPY CODE
-'COPY CODE': 'Скопируйте код'
+'COPY CODE': 'СКОПИРУЙТЕ КОД'
 
 # Desc: Careers
-Careers: Careers
+Careers: Карьера
 
 # Desc: Change password
 'Change password': 'Измененить пароль'
@@ -158,13 +158,13 @@ Contact: Kонтакт
 Created: Созданный
 
 # Desc: Customize your widget using one of our beautiful Presets or create your own Skin
-'Customize your widget using one of our beautiful Presets or create your own Skin': 'Настройте свой виджет, используя один из наших прекрасных пресетов или создать свой собственный скин'
+'Customize your widget using one of our beautiful Presets or create your own Skin': 'Настройте свой виджет, используя один из наших прекрасных пресетов или создать свой собственный Skin'
 
 # Desc: Delete
-Delete: Удалять
+Delete: Удалить
 
 # Desc: Delete Account
-'Delete Account': 'Удалить аккаунт'
+'Delete Account': 'Удалить Аккаунт'
 
 # Desc: Delete my account
 'Delete my account': 'Удалить мой аккаунт'
@@ -176,7 +176,7 @@ Delete: Удалять
 Done: Готовa
 
 # Desc: Done Editing
-'Done Editing': 'Редактирование завершено'
+'Done Editing': 'Редактирование Завершено'
 
 # Desc: Download press kit
 'Download press kit': 'Скачать пресс-кит'
@@ -185,10 +185,10 @@ Done: Готовa
 Duplicate: Дублировать
 
 # Desc: Edit Composition
-'Edit Composition': 'Редактировать состав'
+'Edit Composition': 'Редактировать Состав'
 
 # Desc: Edit Details
-'Edit Details': 'Изменить сведения'
+'Edit Details': 'Изменить Сведения'
 
 # Desc: Email address
 'Email address': 'Адрес электронной почты'
@@ -197,25 +197,25 @@ Duplicate: Дублировать
 'Email address is verified': 'Адрес электронной почты проверяется'
 
 # Desc: Email already used
-'Email already used': 'Email уже используется'
+'Email already used': 'Email уже использен'
 
 # Desc: Email successfully subscribed
 'Email successfully subscribed': 'E-mail успешно подписан'
 
 # Desc: Embed Code
-'Embed Code': 'Вставить код'
+'Embed Code': 'Вставить Код'
 
 # Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Изучите наши виджеты галереи'
 
 # Desc: FEEDBACK
-FEEDBACK: FEEDBACK
+FEEDBACK: СВЯЗЬ
 
 # Desc: Find the widget you need
 'Find the widget you need': 'Наидите виджет вам нужен'
 
 # Desc: First Name
-'First Name': Имя
+'First Name': 'Имя'
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Следуйте на Twitter'
@@ -224,28 +224,28 @@ FEEDBACK: FEEDBACK
 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio': 'Для наиболее популярных платформ мы предоставляем модуль, который интегрирует этот редактор в CMS, так что вы можете построить композиции без посещения Blogvio'
 
 # Desc: Forgot Password
-'Forgot Password': 'Забыли пароль'
+'Forgot Password': 'Забыли Пароль'
 
 # Desc: Form successfully submited
 'Form successfully submited': 'Форма успешно записена'
 
 # Desc: Frequently Asked Questions
-'Frequently Asked Questions': 'Часто задаваемые вопросы'
+'Frequently Asked Questions': 'Часто Задаваемые Вопросы'
 
 # Desc: Get started by creating your first Composition
 'Get started by creating your first Composition': 'Начните с создания первого состава'
 
 # Desc: Get started with Blogvio now
-'Get started with Blogvio now': 'Начало работы с Blogvio сейчас'
+'Get started with Blogvio now': 'Начинайте работать с Blogvio сейчас'
 
 # Desc: Get started with a free account
-'Get started with a free account': 'Начало работы с бесплатного аккаунта'
+'Get started with a free account': 'Начинайте работать с бесплатного аккаунта'
 
 # Desc: HOW TO EMBED ON ANY WEBSITE
 'HOW TO EMBED ON ANY WEBSITE': 'КАК ВСТРОИТЬ ЛЮБОЙ ВЕБСАЙТ'
 
 # Desc: Help
-Help: Help
+Help: На помощь  # FIXME
 
 # Desc: Here’s an example
 'Here’s an example': 'Вот пример'
@@ -275,19 +275,19 @@ Help: Help
 'Kindly open it and follow the instructions in it to change your password': 'Пожалуйста, откройте его и следуйте инструкциям, чтобы изменить свой пароль'
 
 # Desc: Last Name
-'Last Name': Фамилия
+'Last Name': 'Фамилия'
 
 # Desc: Like on Facebook
 'Like on Facebook': 'Like on Facebook'
 
 # Desc: Log Out
-'Log Out': 'Log Out'
+'Log Out': 'Выход'
 
 # Desc: Looks like the old password
 'Looks like the old password': 'Выглядит как старый пароль'
 
 # Desc: Main Features
-'Main Features': 'Основные особенности'
+'Main Features': 'Основные Особенности'
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Создание большинства Blogvio'
@@ -299,7 +299,7 @@ Help: Help
 'Message successfully sent': 'Сообщение отправлено успешно'
 
 # Desc: Metrics
-Metrics: Metrics
+Metrics: Метрика
 
 # Desc: Monthly newsletter?
 'Monthly newsletter?': 'Ежемесячный бюллетень?'
@@ -332,361 +332,361 @@ Name: Имя
 'No compositions published': 'Hет композиции опубликованные'
 
 # Desc: Note
-Note: Note
+Note: Записка
 
 # Desc: Notifications
-Notifications: Notifications
+Notifications: Оповещение
 
 # Desc: On your way
-'On your way': 'On your way'
+'On your way': 'На вашем пути'
 
 # Desc: Once you have an embed code generated for a composition, this won't change
-'Once you have an embed code generated for a composition, this won''t change': 'Once you have an embed code generated for a composition, this won''t change'
+'Once you have an embed code generated for a composition, this won''t change': 'Как только у вас есть код сгенерированный для композиции, это не изменится'
 
 # Desc: Or use your social media account
-'Or use your social media account': 'Or use your social media account'
+'Or use your social media account': 'Или используйте свой аккаунт в социальных сетях'
 
 # Desc: Or visit us
-'Or visit us': 'Or visit us'
+'Or visit us': 'Или посетите нас'
 
 # Desc: Other platform
-'Other platform': 'Other platform'
+'Other platform': 'Другая платформа'
 
 # Desc: Our Team
-'Our Team': 'Our Team'
+'Our Team': 'Наша Команда'
 
 # Desc: Our detailed analytics shows you how your content is doing on any platform
-'Our detailed analytics shows you how your content is doing on any platform': 'Our detailed analytics shows you how your content is doing on any platform'
+'Our detailed analytics shows you how your content is doing on any platform': 'Наши подробные аналитика показывает, как ваш контент делает на любой платформе'
 
 # Desc: Our mission is to make content distribution easy and fun
-'Our mission is to make content distribution easy and fun': 'Our mission is to make content distribution easy and fun'
+'Our mission is to make content distribution easy and fun': 'Наша миссия заключается чтобы сделать распространение контента легко и весело'
 
 # Desc: Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices
-'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices'
+'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Наше видение заключается в предоставлении владельцам веб-сайтов с платформой чтобы помочь им распространять их содержание с помощью персонализированных виджеты, что работaет различных устройств'
 
 # Desc: Overview
-Overview: Overview
+Overview: Обзор
 
 # Desc: Password
-Password: Password
+Password: Пароль
 
 # Desc: Password must be at least 6 characters
-'Password must be at least 6 characters': 'Password must be at least 6 characters'
+'Password must be at least 6 characters': 'Пароль должен содержать не менее 6 символов'
 
 # Desc: Password must match
-'Password must match': 'Password must match'
+'Password must match': 'Пароль должен соответствовать'
 
 # Desc: Photo
-Photo: Photo
+Photo: Фото
 
 # Desc: Photo Widgets
-'Photo Widgets': 'Photo Widgets'
+'Photo Widgets': 'Фото Виджеты'
 
 # Desc: Pick a new password
-'Pick a new password': 'Pick a new password'
+'Pick a new password': 'Выберите новый пароль'
 
 # Desc: Please enter the new password again
-'Please enter the new password again': 'Please enter the new password again'
+'Please enter the new password again': 'Пожалуйста, введите новый пароль еще раз'
 
 # Desc: Please let us know your feedback
-'Please let us know your feedback': 'Please let us know your feedback'
+'Please let us know your feedback': 'Пожалуйста, дайте нам знать ваше мнение'
 
 # Desc: Please select another one
-'Please select another one': 'Please select another one'
+'Please select another one': 'Пожалуйста, выберите другой'
 
 # Desc: Please specify your old password
-'Please specify your old password': 'Please specify your old password'
+'Please specify your old password': 'Пожалуйста, сформулируйте свой старый пароль'
 
 # Desc: Please type a password
-'Please type a password': 'Please type a password'
+'Please type a password': 'Пожалуйста, введите пароль'
 
 # Desc: Plugin Installation
-'Plugin Installation': 'Plugin Installation'
+'Plugin Installation': 'Плагин Установка'
 
 # Desc: Plugins
-Plugins: Plugins
+Plugins: Плагины
 
 # Desc: Popular Widgets
-'Popular Widgets': 'Popular Widgets'
+'Popular Widgets': 'Популярные Виджеты'
 
 # Desc: Preset Skin
-'Preset Skin': 'Preset Skin'
+'Preset Skin': 'Предустановленная Skin'
 
 # Desc: Press
-Press: Press
+Press: Пресс
 
 # Desc: Privacy Policy
-'Privacy Policy': 'Privacy Policy'
+'Privacy Policy': 'Политика Конфиденциальности'
 
 # Desc: Re-type New Password
-'Re-type New Password': 'Re-type New Password'
+'Re-type New Password': 'Повторно Введите Новый Пароль'
 
 # Desc: Read Full Description
-'Read Full Description': 'Read Full Description'
+'Read Full Description': 'Прочитать Полное Описание'
 
 # Desc: Ready?
-'Ready?': 'Ready?'
+'Ready?': 'Готовa?'
 
 # Desc: Remind me when
-'Remind me when': 'Remind me when'
+'Remind me when': 'Напомните мне когда'
 
 # Desc: Resend
-Resend: Resend
+Resend: Повторить
 
 # Desc: Reset Password
-'Reset Password': 'Reset Password'
+'Reset Password': 'Сброс Пароля'
 
 # Desc: Reset my password
-'Reset my password': 'Reset my password'
+'Reset my password': 'Сброс мою пароль'
 
 # Desc: SEARCH
-SEARCH: SEARCH
+SEARCH: НАЙТИ
 
 # Desc: SEND
-SEND: SEND
+SEND: ОТПРАВИТЬ
 
 # Desc: Save password
-'Save password': 'Save password'
+'Save password': 'Сохранить пароль'
 
 # Desc: Search
-Search: Search
+Search: Поиск
 
 # Desc: Select a %thing%
-'Select a %thing%': 'Select a %thing%'
+'Select a %thing%': 'Выберите %thing%'
 
 # Desc: Send us an email
-'Send us an email': 'Send us an email'
+'Send us an email': 'Отправить нам письмо'
 
 # Desc: Set up your shiny new account
-'Set up your shiny new account': 'Set up your shiny new account'
+'Set up your shiny new account': 'Настройте свой блестящий новый аккаунт'
 
 # Desc: Set your password
-'Set your password': 'Set your password'
+'Set your password': 'Установите пароль'
 
 # Desc: Settings
-Settings: Settings
+Settings: Настройки
 
 # Desc: Show password text
-'Show password text': 'Show password text'
+'Show password text': 'Показать текст пароля'
 
 # Desc: Sign Up
-'Sign Up': 'Sign Up'
+'Sign Up': 'Зарегистрироваться'
 
 # Desc: Sign up to experience just how much Blogvio can help you &amp; your website
-'Sign up to experience just how much Blogvio can help you &amp; your website': 'Sign up to experience just how much Blogvio can help you &amp; your website'
+'Sign up to experience just how much Blogvio can help you &amp; your website': 'Зарегистрироваться испытать насколько Blogvio может помочь ваш сайт'
 
 # Desc: Sign up with
-'Sign up with': 'Sign up with'
+'Sign up with': 'Зарегистрируйтесь в'
 
 # Desc: Skin
 Skin: Skin
 
 # Desc: Statistics
-Statistics: Statistics
+Statistics: Статистика
 
 # Desc: Subscribe to the newsletter as well if you'd be interested to know what we're working on - we'll keep it short, promise!
-'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!'
+'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Подписаться на рассылку новостей если вы заинтересованы знать на что мы работаем - мы будем коротким, обещаем!'
 
 # Desc: Tags
-Tags: Tags
+Tags: Метки
 
 # Desc: Team
-Team: Team
+Team: Команда
 
 # Desc: Terms of Service
-'Terms of Service': 'Terms of Service'
+'Terms of Service': 'Условия предоставления услуг'
 
 # Desc: Thank you
-'Thank you': 'Thank you'
+'Thank you': 'Спасибо'
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'That''s all you need to create a'
+'That''s all you need to create a': 'Это все что нужно для создания'
 
 # Desc: The password is too obvious
-'The password is too obvious': 'The password is too obvious'
+'The password is too obvious': 'Пароль слишком очевидно'
 
 # Desc: The provided key wasn't found
-'The provided key wasn''t found': 'The provided key wasn''t found'
+'The provided key wasn''t found': 'При условии ключ не был найден'
 
 # Desc: This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website
-'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website': 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website'
+'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website': 'Этот код генерируется после того как ваша композиция сохраняется,  и вы должны вставить его в нужное место, чтобы композиция будет видно в свой веб-сайт'
 
 # Desc: This email is already registered
-'This email is already registered': 'This email is already registered'
+'This email is already registered': 'Этот адрес уже зарегистрирован'
 
 # Desc: This is helpful because you won't need to edit this code after you've used it
-'This is helpful because you won''t need to edit this code after you''ve used it': 'This is helpful because you won''t need to edit this code after you''ve used it'
+'This is helpful because you won''t need to edit this code after you''ve used it': 'Это полезнo потому что вы не должны будете редактировать этот код после того как вы использовали его'
 
 # Desc: Tour
-Tour: Tour
+Tour: Тур
 
 # Desc: Try again
-'Try again': 'Try again'
+'Try again': 'Попробуйте еще раз'
 
 # Desc: Try one of our most popular widgets to get started
-'Try one of our most popular widgets to get started': 'Try one of our most popular widgets to get started'
+'Try one of our most popular widgets to get started': 'Попробуйте один из наших самых популярных виджетов чтобы начать работу'
 
 # Desc: Type your e-mail address
-'Type your e-mail address': 'Type your e-mail address'
+'Type your e-mail address': 'Введите свой адрес электронной почты'
 
 # Desc: Type your email address below
-'Type your email address below': 'Type your email address below'
+'Type your email address below': 'Введите ваш адрес электронной почты ниже'
 
 # Desc: Type your first name
-'Type your first name': 'Type your first name'
+'Type your first name': 'Укажите свое имя'
 
 # Desc: Type your last name
-'Type your last name': 'Type your last name'
+'Type your last name': 'Укажите свое фамилия'
 
 # Desc: Type your message
-'Type your message': 'Type your message'
+'Type your message': 'Напишите свое сообщение'
 
 # Desc: Type your name
-'Type your name': 'Type your name'
+'Type your name': 'Введите имя'
 
 # Desc: Untitled Composition
-'Untitled Composition': 'Untitled Composition'
+'Untitled Composition': 'Без названия состав'
 
 # Desc: Use iFrame
-'Use iFrame': 'Use iFrame'
+'Use iFrame': 'Использовать iFrame'
 
 # Desc: User account is disabled
-'User account is disabled': 'User account is disabled'
+'User account is disabled': 'Учетная запись пользователя отключена'
 
 # Desc: Users
-Users: Users
+Users: Пользователи
 
 # Desc: Utilities
-Utilities: Utilities
+Utilities: Бытовые помещения
 
 # Desc: Utilities Widgets
-'Utilities Widgets': 'Utilities Widgets'
+'Utilities Widgets': 'Коммунальные виджеты'
 
 # Desc: Video
-Video: Video
+Video: Видео
 
 # Desc: Video Widgets
-'Video Widgets': 'Video Widgets'
+'Video Widgets': 'Видео виджеты'
 
 # Desc: View statistics<br />for your content
-'View statistics<br />for your content': 'View statistics<br />for your content'
+'View statistics<br />for your content': 'Просмотр статистики <br /> для вашего контента'
 
 # Desc: Want to %link% sign up %end%?
-'Want to %link% sign up %end%?': 'Want to %link% sign up %end%?'
+'Want to %link% sign up %end%?': 'Хотите %link% зарегистрироваться %end%?'
 
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
-'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?'
+'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Хотите %link_one% войти %end_tag% или %link_two% восстанавливать %end_tag_two% ваш пароль?'
 
 # Desc: We are a group of technologists, part of digital agency
-'We are a group of technologists, part of digital agency': 'We are a group of technologists, part of digital agency'
+'We are a group of technologists, part of digital agency': 'Мы группа технологов, часть цифрового агентства'
 
 # Desc: We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content
-'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content'
+'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'Мы строим широкий спектр услуг на вершине Blogvio, чтобы помочь нашим пользователям идентифицировать и усилить их лучший контент'
 
 # Desc: We did a little welcome video for you
-'We did a little welcome video for you': 'We did a little welcome video for you'
+'We did a little welcome video for you': 'Мы сделали немного приветственный видео для вас'
 
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
-'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'We''d love to find out why you left Blogvio, and if there''s anything we can improve'
+'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Мы хотели бы узнать, почему вы оставили Blogvio, и если есть что-нибудь, что мы можем улучшить'
 
 # Desc: We'll be in touch!
-'We''ll be in touch!': 'We''ll be in touch!'
+'We''ll be in touch!': 'Мы будем на связи!'
 
 # Desc: We're big believers in the &quot;learn by doing&quot; aproach
-'We''re big believers in the &quot;learn by doing&quot; aproach': 'We''re big believers in the &quot;learn by doing&quot; aproach'
+'We''re big believers in the &quot;learn by doing&quot; aproach': 'Мы большие верующих в &quot;учиться на практике подход&quot;'
 
 # Desc: We've sent an email to
-'We''ve sent an email to': 'We''ve sent an email to'
+'We''ve sent an email to': 'Мы отправили письмо на'
 
 # Desc: Welcome
-Welcome: Welcome
+Welcome: Добро пожаловать
 
 # Desc: What can we help you with?
-'What can we help you with?': 'What can we help you with?'
+'What can we help you with?': 'С чево мы можем помочь вам?'
 
 # Desc: What type of widget do you need?
-'What type of widget do you need?': 'What type of widget do you need?'
+'What type of widget do you need?': 'Какие виджета вам нужны?'
 
 # Desc: What's the next step?
-'What''s the next step?': 'What''s the next step?'
+'What''s the next step?': 'Какой следующий шаг?'
 
 # Desc: Where do you want to embed your Compositions?
-'Where do you want to embed your Compositions?': 'Where do you want to embed your Compositions?'
+'Where do you want to embed your Compositions?': 'Где вы хотите вставлять свои Композиции?'
 
 # Desc: Why is this important
-'Why is this important': 'Why is this important'
+'Why is this important': 'Почему это важно'
 
 # Desc: Widgets
-Widgets: Widgets
+Widgets: Виджеты
 
-# Desc: Wrong email adress
-'Wrong email adress': 'Wrong email adress'
+# Desc: Wrong email address
+'Wrong email address': 'Неправильный адрес электронной почты'
 
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
-'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time'
+'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Вы можете изменять значения данных ширины и данных высоты, чтобы изменить ширину и высоту композиции, и она будет обновляться в реальном времени'
 
 # Desc: You haven't used this widget yet
-'You haven''t used this widget yet': 'You haven''t used this widget yet'
+'You haven''t used this widget yet': 'Вы еще не использовали этот виджет'
 
 # Desc: Your Blogvio Account is more than just widgets
-'Your Blogvio Account is more than just widgets': 'Your Blogvio Account is more than just widgets'
+'Your Blogvio Account is more than just widgets': 'Ваша учетная запись Blogvio больше чем просто информеры'
 
 # Desc: Your Compositions
-'Your Compositions': 'Your Compositions'
+'Your Compositions': 'Ваши Композиции'
 
 # Desc: Your Email
-'Your Email': 'Your Email'
+'Your Email': 'Ваш E-mail'
 
 # Desc: Your account
-'Your account': 'Your account'
+'Your account': 'Ваша учетная запись'
 
 # Desc: Your account has been deleted
-'Your account has been deleted': 'Your account has been deleted'
+'Your account has been deleted': 'Ваш аккаунт удален'
 
 # Desc: Your changes have been successfully saved
-'Your changes have been successfully saved': 'Your changes have been successfully saved'
+'Your changes have been successfully saved': 'Ваши изменения были успешно сохранены'
 
 # Desc: Your email address
-'Your email address': 'Your email address'
+'Your email address': 'Ваш электронный адрес'
 
 # Desc: Your name
-'Your name': 'Your name'
+'Your name': 'Ваша имя'
 
 # Desc: You’ve been logged out!
-'You’ve been logged out!': 'You’ve been logged out!'
+'You’ve been logged out!': 'Вы вышели из системы!'
 
 # Desc: change email
-'change email': 'change email'
+'change email': 'изменить электронную почту'
 
 # Desc: coming soon
-'coming soon': 'coming soon'
+'coming soon': 'скоро'
 
 # Desc: delete your blogvio account
-'delete your blogvio account': 'delete your blogvio account'
+'delete your blogvio account': 'удалить свой blogvio аккаунт'
 
 # Desc: email changed
-'email changed': 'email changed'
+'email changed': 'электронная почта изменилась'
 
 # Desc: galleries
-galleries: galleries
+galleries: галереи
 
 # Desc: is disabled or deleted
-'is disabled or deleted': 'is disabled or deleted'
+'is disabled or deleted': 'отключен или удален'
 
 # Desc: is not registered
-'is not registered': 'is not registered'
+'is not registered': 'не зарегистрирован'
 
 # Desc: log in
-'log in': 'log in'
+'log in': 'войти'
 
 # Desc: or
-or: or
+or: или
 
 # Desc: other
-other: other
+other: другой
 
 # Desc: sign up
-'sign up': 'sign up'
+'sign up': 'зарегистрируйтесь'
 
 # Desc: widgets
 widgets: виджеты
