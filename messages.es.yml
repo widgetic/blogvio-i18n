@@ -5,7 +5,7 @@
 'A new widget is available': 'Un nuevo widget está disponible'
 
 # Desc: A widget I use gets a big update
-'A widget I use gets a big update': 'Un widget que utilizo se actualizo'
+'A widget I use gets a big update': 'Un widget que utilizo se actualiza'
 
 # Desc: About
 About: Sobre
@@ -17,28 +17,28 @@ Account: Cuenta
 'Account Registration': 'Registro de Cuenta'
 
 # Desc: Account Settings
-'Account Settings': 'Configuración de la cuenta'
+'Account Settings': 'Configuración de cuenta'
 
 # Desc: Account deleted
 'Account deleted': 'Cuenta eliminada'
 
 # Desc: Account info
-'Account info': 'Información de la cuenta'
+'Account info': 'Información de cuenta'
 
 # Desc: Account password
 'Account password': 'Contraseña de la cuenta'
 
 # Desc: Actions
-Actions: acciones
+Actions: Acciones
 
 # Desc: Activationkey not found
-'Activationkey not found': 'Activationkey not found'   # FIXME
+'Activationkey not found': 'No se encuentra la clave de activación'   # FIXME
 
 # Desc: Add Content
 'Add Content': 'Añadir contenido'
 
 # Desc: Add beautiful %widgets% to your website
-'Add beautiful %widgets% to your website': 'Añadir preciosos %widgets% para tu sitio web'
+'Add beautiful %widgets% to your website': 'Diseña tus propios %widgets% para tu sitio web'
 
 # Desc: Add your website
 'Add your website': 'Añade tu página web'
@@ -47,19 +47,19 @@ Actions: acciones
 'All your compositions': 'Todas sus composiciones'
 
 # Desc: Already have your content online? We can grab it for you from across the social web
-'Already have your content online? We can grab it for you from across the social web': '¿Ya tiene su contenido online? Podemos cogerlo para ti de todas las redes sociales'
+'Already have your content online? We can grab it for you from across the social web': '¿Ya tiene su contenido online? Podemos cogerlo para ti de las redes sociales'
 
 # Desc: Also, it's free!
 'Also, it''s free!': 'Además, es gratis!'
 
 # Desc: Analyze, create and share your best content yet
-'Analyze, create and share your best content yet': 'Analizar, crear y compartir su mejores contenidos de hasta ahora'
+'Analyze, create and share your best content yet': 'Analizar, crear y compartir sus mejores contenidos hasta ahora'
 
 # Desc: And it is based on
 'And it is based on': 'Y se basa en'
 
 # Desc: Any updates you make will use the same embed code
-'Any updates you make will use the same embed code': 'Cualquier actualización que realice va utilisar el mismo código de inserción'
+'Any updates you make will use the same embed code': 'Cualquier actualización que realice va utilizar el mismo código de inserción'
 
 # Desc: Audio
 Audio: Audio
@@ -83,16 +83,16 @@ Back: atrás
 'Bring your<br />content in': 'Traiga su<br />contenido en'
 
 # Desc: Browse
-Browse: Navegar
+Browse: Explorar
 
 # Desc: Browse Our Widgets
-'Browse Our Widgets': 'Navegar nuestra Widgets'
+'Browse Our Widgets': 'Explorar nuestros Widgets'
 
 # Desc: Browse Widgets
-'Browse Widgets': 'Navegar Widgets'
+'Browse Widgets': 'Explorar Widgets'
 
 # Desc: Browse all widgets
-'Browse all widgets': 'Navegar todos los Widgets'
+'Browse all widgets': 'Explorar todos los Widgets'
 
 # Desc: But we have some interesting stuff going on %link% our blog
 'But we have some interesting stuff going on %link% our blog': 'Pero tenemos algunas cosas interesantes pasando en %link% nuestro blog'
@@ -113,7 +113,7 @@ Careers: Carreras
 'Choose a password': 'Elija una contraseña'
 
 # Desc: Choose your website's platform
-'Choose your website''s platform': 'Elige la plataforma de su sitio web'
+'Choose your website''s platform': 'Elija la plataforma de su sitio web'
 
 # Desc: Close description
 'Close description': 'Cerrar descripción'
@@ -212,7 +212,7 @@ Duplicate: Duplicar
 FEEDBACK: COMENTARIOS
 
 # Desc: Find the widget you need
-'Find the widget you need': 'Encuentra el widget que necesita'
+'Find the widget you need': 'Encuentre el widget que necesita'
 
 # Desc: First Name
 'First Name': Nombre
@@ -344,7 +344,7 @@ Notifications: Notificaciones
 'Once you have an embed code generated for a composition, this won''t change': 'Una vez que tenga un código de inserción generado para una composición, esto no va a cambiar'
 
 # Desc: Or use your social media account
-'Or use your social media account': 'O usa tu cuenta de medios sociales'
+'Or use your social media account': 'O usa tu cuenta social'
 
 # Desc: Or visit us
 'Or visit us': 'O visítenos'
@@ -389,7 +389,7 @@ Photo: Foto
 'Please enter the new password again': 'Por favor, introduzca la nueva contraseña de nuevo'
 
 # Desc: Please let us know your feedback
-'Please let us know your feedback': 'Por favor, mandanos sus comentarios'
+'Please let us know your feedback': 'Por favor, mándenos sus comentarios'
 
 # Desc: Please select another one
 'Please select another one': 'Por favor seleccione otro'
@@ -485,7 +485,7 @@ Skin: Skin
 Statistics: Estadística
 
 # Desc: Subscribe to the newsletter as well if you'd be interested to know what we're working on - we'll keep it short, promise!
-'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Suscríbete al boletín si usted estaría interesado en saber lo que estamos trabajando - vamos a hacerlo breve, prometo!'
+'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Suscríbase al boletín si está interesado en saber en lo que estamos trabajando - vamos a hacerlo breve, asegurado!'
 
 # Desc: Tags
 Tags: Etiquetas
@@ -503,7 +503,7 @@ Team: Equipo
 'That''s all you need to create a': 'Eso es todo lo que necesita para crear un'
 
 # Desc: The password is too obvious
-'The password is too obvious': 'La contraseña es demasiado obvio'
+'The password is too obvious': 'La contraseña es demasiado obvia'
 
 # Desc: The provided key wasn't found
 'The provided key wasn''t found': 'No se encontró la clave proporcionada'
@@ -515,7 +515,7 @@ Team: Equipo
 'This email is already registered': 'Este correo electrónico ya está registrado'
 
 # Desc: This is helpful because you won't need to edit this code after you've used it
-'This is helpful because you won''t need to edit this code after you''ve used it': 'Esto es útil, ya que no tendrá que editar el código después de que usted la ha utilizado'
+'This is helpful because you won''t need to edit this code after you''ve used it': 'Esto es útil, ya que no tendrá que editar el código después de que lo haya utilizado'
 
 # Desc: Tour
 Tour: Guía
@@ -551,7 +551,7 @@ Tour: Guía
 'Use iFrame': 'Utiliza iFrame'
 
 # Desc: User account is disabled
-'User account is disabled': 'Cuenta de usuario está desactivada'
+'User account is disabled': 'La cuenta de usuario está desactivada'
 
 # Desc: Users
 Users: Usuarios
@@ -578,22 +578,22 @@ Video: vídeo
 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': '¿Quiere %link_one% iniciar sesión %end_tag% o %link_two% recuperar %end_tag_two% su contraseña?'
 
 # Desc: We are a group of technologists, part of digital agency
-'We are a group of technologists, part of digital agency': 'Somos un grupo de tecnólogos, parte de la agencia digital'
+'We are a group of technologists, part of digital agency': 'Somos un grupo de técnicos especializados, parte de la agencia digital'
 
 # Desc: We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content
-'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'Estamos construyendo una amplia gama de servicios en Blogvio, para ayudar a nuestros usuarios a identificar y amplificar su mejor contenido'
+'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'Estamos realizando una amplia gama de servicios en Blogvio, para ayudar a nuestros usuarios a identificar y amplificar su mejor contenido'
 
 # Desc: We did a little welcome video for you
 'We did a little welcome video for you': 'Hicimos un video de bienvenida para usted'
 
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
-'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Nos encantaría saber por qué te fuiste Blogvio, y si hay algo que podamos mejorar'
+'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Nos encantaría saber por qué te fuiste de Blogvio, y si hay algo que podamos mejorar'
 
 # Desc: We'll be in touch!
-'We''ll be in touch!': 'We''ll be in touch!'
+'We''ll be in touch!': 'Seguimos en contacto!'
 
 # Desc: We're big believers in the &quot;learn by doing&quot; aproach
-'We''re big believers in the &quot;learn by doing&quot; aproach': 'Somos grandes creyentes en el aprender haciendo'
+'We''re big believers in the &quot;learn by doing&quot; aproach': 'Creemos firmemente en el aprender haciendo'
 
 # Desc: We've sent an email to
 'We''ve sent an email to': 'Te hemos enviado un correo electrónico a'
@@ -602,16 +602,16 @@ Video: vídeo
 Welcome: Bienvenido
 
 # Desc: What can we help you with?
-'What can we help you with?': '¿En qué podemos ayudarte?'
+'What can we help you with?': '¿En qué podemos ayudarle?'
 
 # Desc: What type of widget do you need?
-'What type of widget do you need?': '¿Qué tipo de widget necesitas?'
+'What type of widget do you need?': '¿Qué tipo de widget necesita?'
 
 # Desc: What's the next step?
 'What''s the next step?': '¿Cuál es el siguiente paso?'
 
 # Desc: Where do you want to embed your Compositions?
-'Where do you want to embed your Compositions?': '¿Dónde desea insertar tus composiciones?'
+'Where do you want to embed your Compositions?': '¿Dónde desea insertar sus composiciones?'
 
 # Desc: Why is this important
 'Why is this important': '¿Por qué es importante'
@@ -626,7 +626,7 @@ Widgets: Widgets
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Puede cambiar los valores de data-width y data-height para cambiar el ancho y el alto de la composición, y se actualizará en tiempo real'
 
 # Desc: You haven't used this widget yet
-'You haven''t used this widget yet': 'No ha utilizado este widget aún'
+'You haven''t used this widget yet': 'Todavia no ha utilizado este widget'
 
 # Desc: Your Blogvio Account is more than just widgets
 'Your Blogvio Account is more than just widgets': 'Su cuenta Blogvio es más que solo widgets'
@@ -653,7 +653,7 @@ Widgets: Widgets
 'Your name': 'Su nombre'
 
 # Desc: You’ve been logged out!
-'You’ve been logged out!': 'Te han cerrado la sesión!'
+'You’ve been logged out!': 'Le han cerrado la sesión!'
 
 # Desc: change email
 'change email': 'cambiar el correo electrónico'
@@ -662,10 +662,10 @@ Widgets: Widgets
 'coming soon': próximamente
 
 # Desc: delete your blogvio account
-'delete your blogvio account': 'elimina su cuenta blogvio'
+'delete your blogvio account': 'elimine su cuenta blogvio'
 
 # Desc: email changed
-'email changed': 'correo electrónico cambió'
+'email changed': 'su correo electrónico cambió'
 
 # Desc: galleries
 galleries: galerías
