@@ -83,7 +83,7 @@ Back: Назад
 'Bring your<br />content in': 'Принесите<br />свой контент в'
 
 # Desc: Browse
-'Browse': 'Просмотр'
+Browse: Просмотр
 
 # Desc: Browse Our Widgets
 'Browse Our Widgets': 'Смотреть Наши Виджеты'
@@ -215,7 +215,7 @@ FEEDBACK: СВЯЗЬ
 'Find the widget you need': 'Наидите виджет вам нужен'
 
 # Desc: First Name
-'First Name': 'Имя'
+'First Name': Имя
 
 # Desc: Follow on Twitter
 'Follow on Twitter': 'Следуйте на Twitter'
@@ -245,7 +245,7 @@ FEEDBACK: СВЯЗЬ
 'HOW TO EMBED ON ANY WEBSITE': 'КАК ВСТРОИТЬ ЛЮБОЙ ВЕБСАЙТ'
 
 # Desc: Help
-Help: На помощь  # FIXME
+Help: 'На помощь'
 
 # Desc: Here’s an example
 'Here’s an example': 'Вот пример'
@@ -275,13 +275,13 @@ Help: На помощь  # FIXME
 'Kindly open it and follow the instructions in it to change your password': 'Пожалуйста, откройте его и следуйте инструкциям, чтобы изменить свой пароль'
 
 # Desc: Last Name
-'Last Name': 'Фамилия'
+'Last Name': Фамилия
 
 # Desc: Like on Facebook
 'Like on Facebook': 'Like on Facebook'
 
 # Desc: Log Out
-'Log Out': 'Выход'
+'Log Out': Выход
 
 # Desc: Looks like the old password
 'Looks like the old password': 'Выглядит как старый пароль'
@@ -470,7 +470,7 @@ Settings: Настройки
 'Show password text': 'Показать текст пароля'
 
 # Desc: Sign Up
-'Sign Up': 'Зарегистрироваться'
+'Sign Up': Зарегистрироваться
 
 # Desc: Sign up to experience just how much Blogvio can help you &amp; your website
 'Sign up to experience just how much Blogvio can help you &amp; your website': 'Зарегистрироваться испытать насколько Blogvio может помочь ваш сайт'
@@ -497,7 +497,7 @@ Team: Команда
 'Terms of Service': 'Условия предоставления услуг'
 
 # Desc: Thank you
-'Thank you': 'Спасибо'
+'Thank you': Спасибо
 
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'Это все что нужно для создания'
@@ -557,7 +557,7 @@ Tour: Тур
 Users: Пользователи
 
 # Desc: Utilities
-Utilities: Бытовые помещения
+Utilities: 'Бытовые помещения'
 
 # Desc: Utilities Widgets
 'Utilities Widgets': 'Коммунальные виджеты'
@@ -592,14 +592,14 @@ Video: Видео
 # Desc: We'll be in touch!
 'We''ll be in touch!': 'Мы будем на связи!'
 
-# Desc: We're big believers in the &quot;learn by doing&quot; aproach
-'We''re big believers in the &quot;learn by doing&quot; aproach': 'Мы большие верующих в &quot;учиться на практике подход&quot;'
+# Desc: We're big believers in the &quot;learn by doing&quot; approach
+'We''re big believers in the &quot;learn by doing&quot; approach': 'Мы большие верующих в &quot;учиться на практике подход&quot;'
 
 # Desc: We've sent an email to
 'We''ve sent an email to': 'Мы отправили письмо на'
 
 # Desc: Welcome
-Welcome: Добро пожаловать
+Welcome: 'Добро пожаловать'
 
 # Desc: What can we help you with?
 'What can we help you with?': 'С чево мы можем помочь вам?'
@@ -659,7 +659,7 @@ Widgets: Виджеты
 'change email': 'изменить электронную почту'
 
 # Desc: coming soon
-'coming soon': 'скоро'
+'coming soon': скоро
 
 # Desc: delete your blogvio account
 'delete your blogvio account': 'удалить свой blogvio аккаунт'
@@ -677,7 +677,7 @@ galleries: галереи
 'is not registered': 'не зарегистрирован'
 
 # Desc: log in
-'log in': 'войти'
+'log in': войти
 
 # Desc: or
 or: или
@@ -686,7 +686,7 @@ or: или
 other: другой
 
 # Desc: sign up
-'sign up': 'зарегистрируйтесь'
+'sign up': зарегистрируйтесь
 
 # Desc: widgets
 widgets: виджеты

@@ -32,7 +32,7 @@ Account: Cuenta
 Actions: Acciones
 
 # Desc: Activationkey not found
-'Activationkey not found': 'No se encuentra la clave de activación'   # FIXME
+'Activationkey not found': 'No se encuentra la clave de activación'
 
 # Desc: Add Content
 'Add Content': 'Añadir contenido'
@@ -254,7 +254,7 @@ Help: Ayuda
 'How Blogvio works': 'Cómo funciona Blogvio'
 
 # Desc: How to add more websites
-'How to add more websites': 'How to add more websites'   # FIXME
+'How to add more websites': 'How to add more websites'
 
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'Si su pagina web no se basa en alguna de estas plataformas (WordPress, Blogger, Tumblr), sólo tiene que copiar / pegar el código de inserción por cada composición'
@@ -592,8 +592,8 @@ Video: vídeo
 # Desc: We'll be in touch!
 'We''ll be in touch!': 'Seguimos en contacto!'
 
-# Desc: We're big believers in the &quot;learn by doing&quot; aproach
-'We''re big believers in the &quot;learn by doing&quot; aproach': 'Creemos firmemente en el aprender haciendo'
+# Desc: We're big believers in the &quot;learn by doing&quot; approach
+'We''re big believers in the &quot;learn by doing&quot; approach': 'Creemos firmemente en el aprender haciendo'
 
 # Desc: We've sent an email to
 'We''ve sent an email to': 'Te hemos enviado un correo electrónico a'

@@ -370,9 +370,6 @@ Overview: Overview
 # Desc: Password
 Password: Лозинка
 
-# Desc: Password must be at least 6 characters
-'Password must be at least 6 characters': 'Лозинка мора да буде најмање 6 карактера'
-
 # Desc: Password must match
 'Password must match': 'Password must match'
 
@@ -502,9 +499,6 @@ Team: Team
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'That''s all you need to create a'
 
-# Desc: The password is too obvious
-'The password is too obvious': 'The password is too obvious'
-
 # Desc: The provided key wasn't found
 'The provided key wasn''t found': 'The provided key wasn''t found'
 
@@ -592,8 +586,8 @@ Video: Video
 # Desc: We'll be in touch!
 'We''ll be in touch!': 'We''ll be in touch!'
 
-# Desc: We're big believers in the &quot;learn by doing&quot; aproach
-'We''re big believers in the &quot;learn by doing&quot; aproach': 'We''re big believers in the &quot;learn by doing&quot; aproach'
+# Desc: We're big believers in the &quot;learn by doing&quot; approach
+'We''re big believers in the &quot;learn by doing&quot; approach': 'We''re big believers in the &quot;learn by doing&quot; approach'   # FIXME
 
 # Desc: We've sent an email to
 'We''ve sent an email to': 'We''ve sent an email to'
