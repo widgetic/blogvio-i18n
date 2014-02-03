@@ -1,374 +1,373 @@
 # Desc: Add a Composition to your website first and check back tomorrow
-'Add a Composition to your website first and check back tomorrow': 'Add a Composition to your website first and check back tomorrow'
+'Add a Composition to your website first and check back tomorrow': 'Fügen Sie eine Komposition auf Ihre Website ersten und überprüfen Sie morgen'
 
 # Desc: Add content
-'Add content': 'Add content'
+'Add content': 'Fügen Sie Inhalt'
 
 # Desc: Add website
-'Add website': 'Add website'
+'Add website': 'Fügen Sie eine Website'
 
 # Desc: Add your first host now
-'Add your first host now': 'Add your first host now'
+'Add your first host now': 'Fügen Sie Ihre ersten Domänen'
 
 # Desc: All
-All: All
+All: Alle
 
 # Desc: Any compositions embedded in it will stop working
-'Any compositions embedded in it will stop working': 'Any compositions embedded in it will stop working'
+'Any compositions embedded in it will stop working': 'Alle Kompositionen, die in sie eingebettet sind, wird nicht mehr funktionieren'
 
 # Desc: Are you sure you want to delete this composition?
-'Are you sure you want to delete this composition?': 'Are you sure you want to delete this composition?'
+'Are you sure you want to delete this composition?': 'Sind Sie sicher, dass Sie dieser Komposition löschen möchten?'
 
 # Desc: Are you sure you want to remove this host?
-'Are you sure you want to remove this host?': 'Are you sure you want to remove this host?'
+'Are you sure you want to remove this host?': 'Sind Sie sicher, dass Sie diese Domäne entfernen möchten?'
 
 # Desc: Audio
 Audio: Audio
 
 # Desc: Back
-Back: Back
+Back: Zurück
 
 # Desc: Based on %platform%
-'Based on %platform%': 'Based on %platform%'
+'Based on %platform%': 'Gestützt auf %platform%'
 
 # Desc: Changes saved successfully!
-'Changes saved successfully!': 'Changes saved successfully!'
+'Changes saved successfully!': 'Änderungen wurden erfolgreich gespeichert!'
 
 # Desc: Close
-Close: Close
+Close: Schließen
 
 # Desc: Coming soon
-'Coming soon': 'Coming soon'
+'Coming soon': 'In Kürze'
 
 # Desc: Composition
-Composition: Composition
+Composition: Komposition
 
 # Desc: Compositions
-Compositions: Compositions
+Compositions: Kompositionen
 
 # Desc: Congratulations!
-Congratulations!: Congratulations!
+Congratulations!: 'Herzlichen Glückwunsch!'
 
 # Desc: Created
-Created: Created
+Created: Erstellt
 
 # Desc: Delete
-Delete: Delete
+Delete: Löschen
 
 # Desc: Doesn't look like a valid %thing%
-'Doesn''t look like a valid %thing%': 'Doesn''t look like a valid %thing%'
+'Doesn''t look like a valid %thing%': 'Scheint es nicht um ein gültig %thing% sein'
 
 # Desc: Duplicate
-Duplicate: Duplicate
+Duplicate: Doppel
 
 # Desc: Edit details
-'Edit details': 'Edit details'
+'Edit details': 'Details bearbeiten'
 
 # Desc: Embeds
-Embeds: Embeds
+Embeds: Einbettungen
 
 # Desc: Forgot it?
-'Forgot it?': 'Forgot it?'
+'Forgot it?': 'Passwort vergessen?'
 
 # Desc: Got it! What's next?
-'Got it! What''s next?': 'Got it! What''s next?'
+'Got it! What''s next?': 'Verstanden! Was als nächstes?'
 
 # Desc: Great, you have created your first composition, where do you plan to embed it?
-'Great, you have created your first composition, where do you plan to embed it?': 'Great, you have created your first composition, where do you plan to embed it?'
+'Great, you have created your first composition, where do you plan to embed it?': 'Toll, Sie haben Ihre erste Zusammensetzung erstellt, wo wollen Sie es einbetten?'
 
 # Desc: Impressions
-Impressions: Impressions
+Impressions: Aufrufe
 
 # Desc: Impressions by category
-'Impressions by category': 'Impressions by category'
+'Impressions by category': 'Aufrufe nach Kategorien'
 
 # Desc: Impressions is the number of times a composition is seen by visitors to your site
-'Impressions is the number of times a composition is seen by visitors to your site': 'Impressions is the number of times a composition is seen by visitors to your site'
+'Impressions is the number of times a composition is seen by visitors to your site': 'Aufrufe ist die Nummer wie oft eine Komposition wird durch die Besucher Ihrer Website zu sehen'
 
 # Desc: Keep following %link% our blog %end_link% for updates
-'Keep following %link% our blog %end_link% for updates': 'Keep following %link% our blog %end_link% for updates'
+'Keep following %link% our blog %end_link% for updates': 'Folgen Sie %link% unserem Blog %end_link% für Updates'
 
 # Desc: Log in
-'Log in': 'Log in'
+'Log in': 'Anmelden'
 
 # Desc: Message sent
-'Message sent': 'Message sent'
+'Message sent': 'Nachricht wurde gesendet'
 
 # Desc: Most Viewed Compositions
-'Most Viewed Compositions': 'Most Viewed Compositions'
+'Most Viewed Compositions': 'Am meisten angesehen Kompositionen'
 
 # Desc: Name
 Name: Name
 
 # Desc: New Skin
-'New Skin': 'New Skin'
+'New Skin': 'Neues Skin'
 
 # Desc: Next tip
-'Next tip': 'Next tip'
+'Next tip': 'Nächster Tipp'
 
 # Desc: No data available
-'No data available': 'No data available'
+'No data available': 'Keine Daten verfügbar'
 
 # Desc: No data recorded for this graph
-'No data recorded for this graph': 'No data recorded for this graph'
+'No data recorded for this graph': 'Keine Daten für diese Grafik aufgezeichnet'
 
 # Desc: No impressions for this timespan
-'No impressions for this timespan': 'No impressions for this timespan'
+'No impressions for this timespan': 'Keine Aufrufe für diese Zeitspanne'
 
 # Desc: No special characters allowed
-'No special characters allowed': 'No special characters allowed'
+'No special characters allowed': 'Keine Sonderzeichen erlaubt'
 
 # Desc: Not available yet
-'Not available yet': 'Not available yet'
+'Not available yet': 'Noch nicht verfügbar'
 
 # Desc: Now copy this embed code and add it to one of your websites in the %settings% page
-'Now copy this embed code and add it to one of your websites in the %settings% page': 'Now copy this embed code and add it to one of your websites in the %settings% page'
+'Now copy this embed code and add it to one of your websites in the %settings% page': 'Jetzt kopieren Sie diesen einbetten Code und hinzufügen Sie er zu einem Ihrer Websites in der Seite %settings%'
 
 # Desc: Other platform
-'Other platform': 'Other platform'
+'Other platform': 'Andere Plattform'
 
 # Desc: Page
-Page: Page
+Page: Seite
 
 # Desc: Password must be at least 6 characters
-'Password must be at least 6 characters': 'Password must be at least 6 characters'
+'Password must be at least 6 characters': 'Das Passwort muss mindestens 6 Zeichen lang sein'
 
 # Desc: Password too long
-'Password too long': 'Password too long'
+'Password too long': 'Passwort zu lang'
 
 # Desc: Photo
-Photo: Photo
+Photo: Foto
 
 # Desc: Please %link% log in %end_link%
-'Please %link% log in %end_link%': 'Please %link% log in %end_link%'
+'Please %link% log in %end_link%': 'Bitte %link% melden Sie sich an %end_link%'
 
 # Desc: Please check for errors
-'Please check for errors': 'Please check for errors'
+'Please check for errors': 'Bitte überprüfen Sie die Fehler'
 
 # Desc: Please check your email to activate your account
-'Please check your email to activate your account': 'Please check your email to activate your account'
+'Please check your email to activate your account': 'Bitte Überprüfen Sie  Ihren E-Mail an Ihren Account zu aktivieren'
 
 # Desc: Preset
-Preset: Preset
+Preset: Voreinstellung
 
 # Desc: Preview the widget
-'Preview the widget': 'Preview the widget'
+'Preview the widget': 'Vorschau des Widget'
 
 # Desc: Remove
-Remove: Remove
+Remove: Entfernen
 
 # Desc: Resend
-Resend: Resend
+Resend: Erneut senden
 
 # Desc: Save changes
-'Save changes': 'Save changes'
-
+'Save changes': 'Änderungen speichern'
 # Desc: Saving changes
-'Saving changes': 'Saving changes'
+'Saving changes': 'Änderungen werden gespeichert'
 
 # Desc: Select a Skin
-'Select a Skin': 'Select a Skin'
+'Select a Skin': 'Wählen Sie ein Skin'
 
 # Desc: Send
-Send: Send
+Send: Senden
 
 # Desc: Sending
-Sending: Sending
+Sending: 'Senden'
 
 # Desc: Settings
-Settings: Settings
+Settings: Einstellungen
 
 # Desc: Skin name has been successfully changed
-'Skin name has been successfully changed': 'Skin name has been successfully changed'
+'Skin name has been successfully changed': 'Skin name wurde erfolgreich geändert'
 
 # Desc: Skins
 Skins: Skins
 
 # Desc: Sort results by
-'Sort results by': 'Sort results by'
+'Sort results by': 'Ergebnisse sortieren nach'
 
 # Desc: Statistics
-Statistics: Statistics
+Statistics: Statistiken
 
 # Desc: Success save
-'Success save': 'Success save'
+'Success save': 'Erfolg speichern'
 
 # Desc: Thank you
-'Thank you': 'Thank you'
+'Thank you': Danke
 
 # Desc: That's it
-'That''s it': 'That''s it'
+'That''s it': 'Das ist alles'
 
 # Desc: The friendly Editor is as easy as pie
-'The friendly Editor is as easy as pie': 'The friendly Editor is as easy as pie'
+'The friendly Editor is as easy as pie': 'Der Editor ist bedienungsfreundlich'
 
 # Desc: The password is too obvious
-'The password is too obvious': 'The password is too obvious'
+'The password is too obvious': 'Das Passwort ist zu offensichtlich'
 
 # Desc: These metrics will become available soon
-'These metrics will become available soon': 'These metrics will become available soon'
+'These metrics will become available soon': 'Diese Daten werden in Kürze verfügbar'
 
 # Desc: This button will take you every step of the way
-'This button will take you every step of the way': 'This button will take you every step of the way'
+'This button will take you every step of the way': 'Dieser Button wird Sie bei jedem Schritt des Weges zu nehmen'
 
 # Desc: This website is already in your list
-'This website is already in your list': 'This website is already in your list'
+'This website is already in your list': 'Diese Website ist schon in Ihrer Liste'
 
 # Desc: Tip
-Tip: Tip
+Tip: Tipp
 
 # Desc: Try again later
-'Try again later': 'Try again later'
+'Try again later': 'Versuchen Sie später noch einmal'
 
 # Desc: Type your current password
-'Type your current password': 'Type your current password'
+'Type your current password': 'Geben Sie Ihr aktuelle Passwort'
 
 # Desc: Type your e-mail address
-'Type your e-mail address': 'Type your e-mail address'
+'Type your e-mail address': 'Geben Sie Ihre Email-Adresse'
 
 # Desc: Untitled Composition
-'Untitled Composition': 'Untitled Composition'   # FIXME
+'Untitled Composition': 'Unbetitelte Komposition'
 
 # Desc: Use the %editor_plugin% if the website is based on a popular platform
-'Use the %editor_plugin% if the website is based on a popular platform': 'Use the %editor_plugin% if the website is based on a popular platform'
+'Use the %editor_plugin% if the website is based on a popular platform': ' Benutzen Sie %editor_plugin% wenn die Website auf einem populären Plattform basiert ist'
 
 # Desc: Use the Editor to create your Compositions
-'Use the Editor to create your Compositions': 'Use the Editor to create your Compositions'
+'Use the Editor to create your Compositions': 'Benutzen Sie die Editor um Ihren Kompositionen zu erstellen'
 
 # Desc: User
-User: User
+User: Benutzer
 
 # Desc: Users
-Users: Users
+Users: Benutzern
 
 # Desc: Utilities
-Utilities: Utilities
+Utilities: Dienstleistungen
 
 # Desc: Video
 Video: Video
 
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
-'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?'
+'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Sie möchten %link_one% sich anmelden %end_tag% oder %link_two% Ihr Passwort %end_tag_two% zu erholen?'
 
 # Desc: We sent an activation link to your email, please confirm it by clicking the link
-'We sent an activation link to your email, please confirm it by clicking the link': 'We sent an activation link to your email, please confirm it by clicking the link'
+'We sent an activation link to your email, please confirm it by clicking the link': 'Wir schickten einen Aktivierungslink an Ihre E-Mail, bitte bestätigen Sie es durch Klicken auf den link'
 
 # Desc: We'll see you at the finish line!
-'We''ll see you at the finish line!': 'We''ll see you at the finish line!'
+'We''ll see you at the finish line!': 'Werden wir uns auf der Ziellinie sehen!'
 
 # Desc: What's on your mind?
-'What''s on your mind?': 'What''s on your mind?'
+'What''s on your mind?': 'Wie können wir die Website verbessern?'
 
 # Desc: Widget Categories
-'Widget Categories': 'Widget Categories'
+'Widget Categories': 'Widget Kategorien'
 
 # Desc: You've already created an account
-'You''ve already created an account': 'You''ve already created an account'
+'You''ve already created an account': 'Sie haben schon einen Account erstellt'
 
 # Desc: Your Most popular widgets
-'Your Most popular widgets': 'Your Most popular widgets'
+'Your Most popular widgets': 'Ihre Populärste Widgets'
 
 # Desc: Your composition has been successfully created
-'Your composition has been successfully created': 'Your composition has been successfully created'
+'Your composition has been successfully created': 'Ihre Komposition wurde erfolgreich erstellt'
 
 # Desc: Your composition has been successfully deleted
-'Your composition has been successfully deleted': 'Your composition has been successfully deleted'
+'Your composition has been successfully deleted': 'Ihre Komposition wurde erfolgreich gelöscht'
 
 # Desc: Your composition has been successfully duplicated
-'Your composition has been successfully duplicated': 'Your composition has been successfully duplicated'
+'Your composition has been successfully duplicated': 'Ihre Komposition wurde erfolgreich repliziert'
 
 # Desc: Your composition has been successfully updated
-'Your composition has been successfully updated': 'Your composition has been successfully updated'
+'Your composition has been successfully updated': 'Ihre Komposition wurde erfolgreich aktualisiert'
 
 # Desc: Your first Composition, so exciting! Any changes you do will appear here, in this preview area
-'Your first Composition, so exciting! Any changes you do will appear here, in this preview area': 'Your first Composition, so exciting! Any changes you do will appear here, in this preview area'
+'Your first Composition, so exciting! Any changes you do will appear here, in this preview area': 'Herzlichen Glückwunsch, Sie haben Ihre erste Komposition erstellt! Alle Änderungen die Sie vornehmen werden hier in diesem Vorschaubereich erscheinen'
 
 # Desc: Your first composition is ready
-'Your first composition is ready': 'Your first composition is ready'
+'Your first composition is ready': 'Ihre erste Komposition ist fertig'
 
 # Desc: Your graph will show up here soon
-'Your graph will show up here soon': 'Your graph will show up here soon'
+'Your graph will show up here soon': ' Ihre Grafik wird bald hier angezeigt werden'
 
 # Desc: Your website couldn't be added
-'Your website couldn''t be added': 'Your website couldn''t be added'
+'Your website couldn''t be added': 'Ihre Website konnte nicht hinzugefügt werden'
 
 # Desc: Your website has been successfully added
-'Your website has been successfully added': 'Your website has been successfully added'
+'Your website has been successfully added': 'Ihre Website wurde erfolgreich hinzugefügt'
 
 # Desc: Your website has been successfully removed
-'Your website has been successfully removed': 'Your website has been successfully removed'
+'Your website has been successfully removed': 'Ihre Website wurde erfolgreich entfernt'
 
 # Desc: Your website has been successfully saved
-'Your website has been successfully saved': 'Your website has been successfully saved'
+'Your website has been successfully saved': 'Ihre Website wurde erfolgreich gespeichert'
 
 # Desc: Your website has been successfully updated
-'Your website has been successfully updated': 'Your website has been successfully updated'
+'Your website has been successfully updated': 'Ihre Webseite wurde erfolgreich aktualisiert'
 
 # Desc: all time
-'all time': 'all time'
+'all time': 'alle Zeit'
 
 # Desc: code copied
-'code copied': 'code copied'
+'code copied': 'Code kopiert'
 
 # Desc: copy code
-'copy code': 'copy code'
+'copy code': 'Code kopieren'
 
 # Desc: current password
-'current password': 'current password'
+'current password': 'aktuelle Passwort'
 
 # Desc: date
-date: date
+date: datum
 
 # Desc: galleries
-galleries: galleries
+galleries: galerien
 
 # Desc: height
-height: height
+height: Höhe
 
 # Desc: impressions
-impressions: impressions
+impressions: Aufrufe
 
 # Desc: last 30 days
-'last 30 days': 'last 30 days'
+'last 30 days': 'letzten 30 Tagen'
 
 # Desc: last 7 days
-'last 7 days': 'last 7 days'
+'last 7 days': 'letzten 7 Tagen'
 
 # Desc: or use
-'or use': 'or use'
+'or use': 'oder benutzen'
 
 # Desc: password
-password: password
+password: passwort
 
 # Desc: players
 players: players
 
 # Desc: popularity
-popularity: popularity
+popularity: popularität
 
 # Desc: skin
 skin: skin
 
 # Desc: username
-username: username
+username: benutzername
 
 # Desc: utilities
-utilities: utilities
+utilities: dienstleistungen
 
 # Desc: widgets
 widgets: widgets
 
 # Desc: width
-width: width
+width: Breite
 
 # Desc: yesterday
-yesterday: yesterday
+yesterday: gestern
 
 you:
     can:
         embed:
             # Desc: {0}Embed Your Compositions In These Websites|{1}You Can Embed Compositions In One More Website|]1,Inf]You Can Embed Compositions In %count% More Websites
-            hosts: '{0}Embed Your Compositions In These Websites|{1}You Can Embed Compositions In One More Website|]1,Inf]You Can Embed Compositions In %count% More Websites'
+            hosts: '{0} Betten Sie Ihre Kompositionen In dieser Websites|{1}Sie können die Kompositionen einbinden in ein mehr Website |]1,Inf]Sie können die Kompositionen einbinden in %count% mehr Websites'
 
             # Desc: [0,Inf]You Can Embed Compositions In %count% Websites
-            hosts.max: '[0,Inf]You Can Embed Compositions In %count% Websites'
+            hosts.max: '[0,Inf]Sie können die Kompositionen einbinden in %count% Websites'
