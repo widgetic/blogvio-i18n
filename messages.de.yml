@@ -248,7 +248,7 @@ FEEDBACK: VORSCHLÄGE
 Help: Hilfe
 
 # Desc: Here's an example
-'Here's an example': 'Hier ist ein Beispiel'
+'Here’s an example': 'Hier ist ein Beispiel'
 
 # Desc: How Blogvio works
 'How Blogvio works': 'Wie Blogvio funktioniert'
@@ -260,7 +260,7 @@ Help: Hilfe
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'Wenn Ihre Website ist nicht auf eine dieser Plattformen basiert (WordPress, Blogger, Tumblr), können Sie einfach kopieren/einfügen die einzigartige einbetten Code für jede Komposition vorgesehen'
 
 # Desc: If you'd like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
-'If you'd like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'Wenn Sie möchten, um Hallo zu sagen, schreiben Sie uns an %contact% oder %at_blogvio% auf Twitter'
+'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'Wenn Sie möchten, um Hallo zu sagen, schreiben Sie uns an %contact% oder %at_blogvio% auf Twitter'
 
 # Desc: Incorrect password
 'Incorrect password': 'Falsches Passwort'
@@ -501,7 +501,7 @@ Team: Team
 'Thank you': 'Danke'
 
 # Desc: That's all you need to create a
-'That's all you need to create a': 'Das ist alles, was Sie brauchen zu erstellen ein'
+'That’s all you need to create a': 'Das ist alles, was Sie brauchen zu erstellen ein'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Das Passwort ist zu offensichtlich'
