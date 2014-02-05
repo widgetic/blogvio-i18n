@@ -73,6 +73,9 @@ Audio: Audio
 # Desc: Back
 Back: Back
 
+# Desc: Blog
+Blog: Blog   # FIXME
+
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets'
 
@@ -370,6 +373,9 @@ Overview: Overview
 # Desc: Password
 Password: Password
 
+# Desc: Password must be at least 6 characters
+'Password must be at least 6 characters': 'Password must be at least 6 characters'
+
 # Desc: Password must match
 'Password must match': 'Password must match'
 
@@ -478,6 +484,9 @@ Settings: Settings
 # Desc: Skin
 Skin: Skin
 
+# Desc: Social
+Social: Social
+
 # Desc: Statistics
 Statistics: Statistics
 
@@ -498,6 +507,9 @@ Team: Team
 
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'That''s all you need to create a'
+
+# Desc: The password is too obvious
+'The password is too obvious': 'The password is too obvious'
 
 # Desc: The provided key wasn't found
 'The provided key wasn''t found': 'The provided key wasn''t found'
@@ -587,7 +599,7 @@ Video: Video
 'We''ll be in touch!': 'We''ll be in touch!'
 
 # Desc: We're big believers in the &quot;learn by doing&quot; approach
-'We''re big believers in the &quot;learn by doing&quot; approach': 'We''re big believers in the &quot;learn by doing&quot; approach'   # FIXME
+'We''re big believers in the &quot;learn by doing&quot; approach': 'We''re big believers in the &quot;learn by doing&quot; approach'
 
 # Desc: We've sent an email to
 'We''ve sent an email to': 'We''ve sent an email to'

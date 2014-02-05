@@ -73,6 +73,9 @@ Audio: Audio
 # Desc: Back
 Back: Arrière
 
+# Desc: Blog
+Blog: Blog
+
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio dispose d''un éditeur innovant qui vous permet de créer rapidement vos propres skins, ou choisissez parmi nos skins'
 
@@ -119,7 +122,7 @@ Careers: Cariere
 'Close description': 'Fermer Description'
 
 # Desc: Coming soon
-'Coming soon': 'Bientôt'
+'Coming soon': Bientôt
 
 # Desc: Comments
 Comments: Commentaires
@@ -143,7 +146,7 @@ Compositions: Compositions
 Contact: Contact
 
 # Desc: Contact Us
-'Contact Us': 'Contactez-nous'
+'Contact Us': Contactez-nous
 
 # Desc: Create Composition
 'Create Composition': 'Création d''une composition'
@@ -191,7 +194,7 @@ Duplicate: Doubler
 'Edit Details': 'Modifier les détails'
 
 # Desc: Email address
-'Email address': 'E-mail'
+'Email address': E-mail
 
 # Desc: Email address is verified
 'Email address is verified': 'L''e-mail est confirmée'
@@ -470,7 +473,7 @@ Settings: Paramètres
 'Show password text': 'Afficher le texte du mot de passe'
 
 # Desc: Sign Up
-'Sign Up': 'Inscrivez-vous'
+'Sign Up': Inscrivez-vous
 
 # Desc: Sign up to experience just how much Blogvio can help you &amp; your website
 'Sign up to experience just how much Blogvio can help you &amp; your website': 'Inscrivez-vous pour découvrir combien Blogvio peut vous aider et également votre site web'
@@ -480,6 +483,9 @@ Settings: Paramètres
 
 # Desc: Skin
 Skin: Skin
+
+# Desc: Social
+Social: Social
 
 # Desc: Statistics
 Statistics: Statistiques
@@ -497,7 +503,7 @@ Team: Équipe
 'Terms of Service': 'Conditions d''utilisation'
 
 # Desc: Thank you
-'Thank you': 'Merci'
+'Thank you': Merci
 
 # Desc: That's all you need to create a
 'That''s all you need to create a': 'C''est tout que vous avez besoin pour créer un'
@@ -599,7 +605,7 @@ Video: Video
 'We''ve sent an email to': 'Nous avons envoyé un email à'
 
 # Desc: Welcome
-Welcome: 'Bienvenue'
+Welcome: Bienvenue
 
 # Desc: What can we help you with?
 'What can we help you with?': 'Que pouvons-nous vous aider?'
@@ -677,7 +683,7 @@ galleries: galeries
 'is not registered': 'n''est pas enregistré'
 
 # Desc: log in
-'log in': 'connexion'
+'log in': connexion
 
 # Desc: or
 or: ou
@@ -686,7 +692,7 @@ or: ou
 other: autre
 
 # Desc: sign up
-'sign up': 'inscrivez-vous'
+'sign up': inscrivez-vous
 
 # Desc: widgets
 widgets: widgets

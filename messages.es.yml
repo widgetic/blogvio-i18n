@@ -73,6 +73,9 @@ Audio: Audio
 # Desc: Back
 Back: atrás
 
+# Desc: Blog
+Blog: Blog
+
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio tiene un editor innovador que le permite crear rápidamente sus propias Skins o elegir entre nuestros Preset Skins existentes'
 
@@ -480,6 +483,9 @@ Settings: Configuración
 
 # Desc: Skin
 Skin: Skin
+
+# Desc: Social
+Social: Social
 
 # Desc: Statistics
 Statistics: Estadística

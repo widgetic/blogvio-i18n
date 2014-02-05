@@ -73,6 +73,9 @@ Audio: Audio
 # Desc: Back
 Back: Înapoi
 
+# Desc: Blog
+Blog: Blog
+
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio dispune de un editor inovator care vă permite să construiţi rapid skin-uri proprii sau să alegeţi dintre skin-urile noastre predefinite'
 
@@ -245,7 +248,7 @@ FEEDBACK: SUGESTII
 'HOW TO EMBED ON ANY WEBSITE': 'CUM SĂ ÎNCORPOREZI WIDGET-UL PE ORICE SITE'
 
 # Desc: Help
-Help: Help
+Help: AJUTOR
 
 # Desc: Here’s an example
 'Here’s an example': 'Aici aveţi un exemplu'
@@ -480,6 +483,9 @@ Settings: Setări
 
 # Desc: Skin
 Skin: Skin
+
+# Desc: Social
+Social: Social
 
 # Desc: Statistics
 Statistics: Statistici

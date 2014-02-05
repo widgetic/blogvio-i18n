@@ -73,6 +73,9 @@ Audio: Aудио
 # Desc: Back
 Back: Назад
 
+# Desc: Blog
+Blog: Blog
+
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio имеет инновационный редактор, который позволяет быстро создавать свои собственные скины или выбрать один из наших существующих пресетов'
 
@@ -260,7 +263,7 @@ Help: 'На помощь'
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'Если ваш сайт не основывается на любой из этих платформ (WordPress, Blogger, Tumblr), вы можете просто копировать / вставить уникальный код, предоставляемый для каждого состава'
 
 # Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
-'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'Если вы хотите поздороваться, напишите нам на %contact% или% at_blogvio% на Twitter'
+'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'Если вы хотите поздороваться, напишите нам на %contact% или %at_blogvio% на Twitter'
 
 # Desc: Incorrect password
 'Incorrect password': 'Неверный пароль'
@@ -419,7 +422,7 @@ Press: Пресс
 'Privacy Policy': 'Политика Конфиденциальности'
 
 # Desc: Re-type New Password
-'Re-type New Password': 'Повторно Введите Новый Пароль'
+'Re-type New Password': 'Повторите Пароль'
 
 # Desc: Read Full Description
 'Read Full Description': 'Прочитать Полное Описание'
@@ -480,6 +483,9 @@ Settings: Настройки
 
 # Desc: Skin
 Skin: Skin
+
+# Desc: Social
+Social: Social
 
 # Desc: Statistics
 Statistics: Статистика

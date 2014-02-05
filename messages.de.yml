@@ -14,19 +14,19 @@ About: Über
 Account: Konto
 
 # Desc: Account Registration
-'Account Registration': 'Konto-Anmeldung'
+'Account Registration': Konto-Anmeldung
 
 # Desc: Account Settings
-'Account Settings': 'Konto-Einstellungen'
+'Account Settings': Konto-Einstellungen
 
 # Desc: Account deleted
 'Account deleted': 'Konto Gelöscht'
 
 # Desc: Account info
-'Account info': 'Kontoinformationen'
+'Account info': Kontoinformationen
 
 # Desc: Account password
-'Account password': 'Konto-Passwort'
+'Account password': Konto-Passwort
 
 # Desc: Actions
 Actions: Aktionen
@@ -72,6 +72,9 @@ Audio: Audio
 
 # Desc: Back
 Back: Zurück
+
+# Desc: Blog
+Blog: Blog   # FIXME
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio verfügt über eine innovative Editor, mit dem Sie Ihre eigenen Skins schnell bauen oder von unserem Voreinstellung Skins wählen'
@@ -152,7 +155,7 @@ Contact: Kontakt
 'Create a Composition': 'Erstellen Sie eine Komposition'
 
 # Desc: Create an account with your email
-'Create an account with your email': 'Erstellen Sie ein kostenloses Konto'
+'Create an account with your email': 'Erstellen Sie ein Konto mit Ihrer E-Mail Adresse'
 
 # Desc: Created
 Created: Erstellt
@@ -226,8 +229,8 @@ FEEDBACK: VORSCHLÄGE
 # Desc: Forgot Password
 'Forgot Password': 'Passwort vergessen'
 
-# Desc: Form successfully submitted
-'Form successfully submitted': 'Formular wurde erfolgreich abgegeben'
+# Desc: Form successfully submited
+'Form successfully submited': 'Formular wurde erfolgreich abgegeben'
 
 # Desc: Frequently Asked Questions
 'Frequently Asked Questions': 'Häufig Gestellten Fragen'
@@ -239,7 +242,7 @@ FEEDBACK: VORSCHLÄGE
 'Get started with Blogvio now': 'Fangen Sie mit Blogvio jetzt'
 
 # Desc: Get started with a free account
-'Get started with a free account': 'Beginnen Sie mit einem kostenlosen Account'
+'Get started with a free account': 'Erstellen Sie ein kostenloses Konto'
 
 # Desc: HOW TO EMBED ON ANY WEBSITE
 'HOW TO EMBED ON ANY WEBSITE': 'WIE EIN WIDGET AUF EINER WEBSITE INTEGRIEREN'
@@ -287,7 +290,7 @@ Help: Hilfe
 'Looks like the old password': 'Sieht aus wie das alte Passwort'
 
 # Desc: Main Features
-'Main Features': 'Hauptcharakteristiken'
+'Main Features': Hauptcharakteristiken
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Profitieren Sie von Blogvio'
@@ -338,7 +341,7 @@ Note: Note
 Notifications: Benachrichtigungen
 
 # Desc: On your way
-'On your way': 'Weiter'
+'On your way': Weiter
 
 # Desc: Once you have an embed code generated for a composition, this won't change
 'Once you have an embed code generated for a composition, this won''t change': 'Sobald haben Sie ein einbetten Code für eine Komposition generiert, wird dies nicht ändern'
@@ -365,7 +368,7 @@ Notifications: Benachrichtigungen
 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Unsere Vision ist es, Website Inhaber eine Plattform zu bieten, ihnen zu helfen verteilen ihre Inhalte mit personalisierten Widgets, dass die Arbeiten auf allen Geräten'
 
 # Desc: Overview
-Overview: 'Überblick'
+Overview: Überblick
 
 # Desc: Password
 Password: Passwort
@@ -380,7 +383,6 @@ Password: Passwort
 Photo: Foto
 
 # Desc: Photo Widgets
-
 'Photo Widgets': 'Foto Widgets'
 
 # Desc: Pick a new password
@@ -417,7 +419,7 @@ Plugins: Plugins
 Press: Presse
 
 # Desc: Privacy Policy
-'Privacy Policy': 'Datenschutzrichtlinie'
+'Privacy Policy': Datenschutzrichtlinie
 
 # Desc: Re-type New Password
 'Re-type New Password': 'Neues Passwort wiederholen'
@@ -432,7 +434,7 @@ Press: Presse
 'Remind me when': 'Benachrichtige mich wenn'
 
 # Desc: Resend
-Resend: Erneut senden
+Resend: 'Erneut senden'
 
 # Desc: Reset Password
 'Reset Password': 'Passwort zurücksetzen'
@@ -471,7 +473,7 @@ Settings: Einstellungen
 'Show password text': 'Zeigen die Passwort Text'
 
 # Desc: Sign Up
-'Sign Up': 'Registrierung'
+'Sign Up': Registrierung
 
 # Desc: Sign up to experience just how much Blogvio can help you &amp; your website
 'Sign up to experience just how much Blogvio can help you &amp; your website': 'Registrieren Sie sich zu erleben, wie viel Blogvio kann Ihnen helfen, Ihre Website zu &amp;'
@@ -481,6 +483,9 @@ Settings: Einstellungen
 
 # Desc: Skin
 Skin: Skin
+
+# Desc: Social
+Social: Social
 
 # Desc: Statistics
 Statistics: Statistiken
@@ -495,16 +500,16 @@ Tags: Tags
 Team: Team
 
 # Desc: Terms of Service
-'Terms of Service': 'Nutzungsbedingungen'
+'Terms of Service': Nutzungsbedingungen
 
 # Desc: Thank you
-'Thank you': 'Danke'
+'Thank you': Danke
 
 # Desc: That's all you need to create a
-'That’s all you need to create a': 'Das ist alles, was Sie brauchen zu erstellen ein'
+'That''s all you need to create a': 'That''s all you need to create a'
 
 # Desc: The password is too obvious
-'The password is too obvious': 'Das Passwort ist zu offensichtlich'
+'The password is too obvious': 'The password is too obvious'
 
 # Desc: The provided key wasn't found
 'The provided key wasn''t found': 'Der Schlüssel die Sie vorgesehen wurde nicht gefunden'
@@ -600,7 +605,7 @@ Video: Video
 'We''ve sent an email to': 'Wir haben eine E-Mail verschickt zu'
 
 # Desc: Welcome
-Welcome: 'Willkommen'
+Welcome: Willkommen
 
 # Desc: What can we help you with?
 'What can we help you with?': 'Wie können wir helfen?'
@@ -620,8 +625,8 @@ Welcome: 'Willkommen'
 # Desc: Widgets
 Widgets: Widgets
 
-# Desc: Wrong email address
-'Wrong email address': 'Falsche E-Mail Adresse'
+# Desc: Wrong email adress
+'Wrong email adress': 'Falsche E-Mail Adresse'
 
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Sie können die Werte der Daten-Breite und Daten-Höhe zu ändern, um die Breite und Höhe der Komposition zu ändern, und es wird in Echtzeit aktualisiert werden'
@@ -653,7 +658,7 @@ Widgets: Widgets
 # Desc: Your name
 'Your name': Name
 
-# Desc: You've been logged out!
+# Desc: You’ve been logged out!
 'You’ve been logged out!': 'Sie wurden abgemeldet!'
 
 # Desc: change email
@@ -678,7 +683,7 @@ galleries: Galerien
 'is not registered': 'ist nicht registriert'
 
 # Desc: log in
-'log in': 'Anmelden'
+'log in': Anmelden
 
 # Desc: or
 or: oder
@@ -687,7 +692,7 @@ or: oder
 other: andere
 
 # Desc: sign up
-'sign up': 'Registrierung'
+'sign up': Registrierung
 
 # Desc: widgets
 widgets: widgets
