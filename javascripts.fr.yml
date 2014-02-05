@@ -14,7 +14,7 @@
 All: Tout
 
 # Desc: Any compositions embedded in it will stop working
-'Any compositions embedded in it will stop working': 'N''importe quelle est la composition intégrée, elle cessera de fonctionner'
+'Any compositions embedded in it will stop working': 'Toutes les compositions de ce domaine cesseront de fonctionner'
 
 # Desc: Are you sure you want to delete this composition?
 'Are you sure you want to delete this composition?': 'Etes-vous sûr de vouloir supprimer cette composition?'
@@ -68,7 +68,7 @@ Duplicate: Doubler
 Embeds: intégrations
 
 # Desc: Forgot it?
-'Forgot it?': 'Vous avez oublié votre mot de passe??'
+'Forgot it?': 'L’avez oublié?'
 
 # Desc: Got it! What's next?
 'Got it! What''s next?': 'C''est bon! Et maintenant?'
@@ -89,7 +89,7 @@ Impressions: Vues
 'Keep following %link% our blog %end_link% for updates': 'Suivez-nous sur %link% notre blog %end_link% pour les notifications'
 
 # Desc: Log in
-'Log in': 'Connectez-vous à votre compte'
+'Log in': 'Entrer'
 
 # Desc: Message sent
 'Message sent': 'Message envoyé'
@@ -278,7 +278,7 @@ Video: Video
 'Your composition has been successfully duplicated': 'Composition a été reproduite avec succès'
 
 # Desc: Your composition has been successfully updated
-'Your composition has been successfully updated': 'La composition a été mis à jour avec succès'
+'Your composition has been successfully updated': 'La composition a été modifié avec succès'
 
 # Desc: Your first Composition, so exciting! Any changes you do will appear here, in this preview area
 'Your first Composition, so exciting! Any changes you do will appear here, in this preview area': 'Félicitations, vous avez créé votre première composition! Toutes les modifications apportées apparaissent dans cette zone de prévisualisation'
@@ -338,7 +338,7 @@ impressions: vues
 'or use': ou
 
 # Desc: password
-password: mot de passe
+password: Mot de passe
 
 # Desc: players
 players: players

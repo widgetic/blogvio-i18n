@@ -26,7 +26,7 @@ Account: Compte
 'Account info': 'Informations du compte'
 
 # Desc: Account password
-'Account password': 'mot de passe de compte'
+'Account password': 'Mot de passe de compte'
 
 # Desc: Actions
 Actions: Actes
@@ -47,7 +47,7 @@ Actions: Actes
 'All your compositions': 'Toutes mes compositions'
 
 # Desc: Already have your content online? We can grab it for you from across the social web
-'Already have your content online? We can grab it for you from across the social web': 'Votre contenu est déjà en ligne? Nous collectons pour vous dans votre réseau social'
+'Already have your content online? We can grab it for you from across the social web': 'Vous avez déjà votre contenu en ligne? Nous les pouvons recueillir pour vous de votre web social'
 
 # Desc: Also, it's free!
 'Also, it''s free!': 'Aussi, il est libre!'
@@ -149,7 +149,7 @@ Contact: Contact
 'Contact Us': Contactez-nous
 
 # Desc: Create Composition
-'Create Composition': 'Création d''une composition'
+'Create Composition': 'Créer une nouvelle composition'
 
 # Desc: Create a Composition
 'Create a Composition': 'Création d''une composition'
@@ -278,7 +278,7 @@ Help: Aider
 'Kindly open it and follow the instructions in it to change your password': 'Veuillez ouvrir et suivez les instructions pour changer votre mot de passe'
 
 # Desc: Last Name
-'Last Name': Nom
+'Last Name': Prénom
 
 # Desc: Like on Facebook
 'Like on Facebook': 'Suivez-nous sur Facebook'
@@ -362,7 +362,7 @@ Notifications: Notifications
 'Our detailed analytics shows you how your content is doing on any platform': 'Nos analyses détaillées vous montre comment le contenu s''affiche sur n''importe quelle plateforme'
 
 # Desc: Our mission is to make content distribution easy and fun
-'Our mission is to make content distribution easy and fun': 'Notre mission est de faire la distribution de contenu facile et amusant'
+'Our mission is to make content distribution easy and fun': 'Notre mission est de faire la distribution de contenu facile'
 
 # Desc: Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices
 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Notre vision est de fournir aux propriétaires de sites Web avec une plate-forme pour les aider à distribuer leur contenu en utilisant les widgets personnalisés, qui marche sur tous les dispositifs'
@@ -389,7 +389,7 @@ Photo: Photo
 'Pick a new password': 'Choisissez un nouveau mot de passe'
 
 # Desc: Please enter the new password again
-'Please enter the new password again': 'S''il vous plaît entrer le nouveau mot de passe encore fois'
+'Please enter the new password again': 'Entrer le nouveau mot de passe encore une fois'
 
 # Desc: Please let us know your feedback
 'Please let us know your feedback': 'S''il vous plaît laissez-nous savoir vos commentaires'
@@ -422,10 +422,10 @@ Press: Presse
 'Privacy Policy': 'Politique de confidentialité'
 
 # Desc: Re-type New Password
-'Re-type New Password': 'Tapez encore votre mot de passe'
+'Re-type New Password': 'Répéter le mot de passe'
 
 # Desc: Read Full Description
-'Read Full Description': 'Lire la description complète'
+'Read Full Description': 'Caractéristiques'
 
 # Desc: Ready?
 'Ready?': 'Vous êtes prêt?'
@@ -506,7 +506,7 @@ Team: Équipe
 'Thank you': Merci
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'C''est tout que vous avez besoin pour créer un'
+'That''s all you need to create a': 'Votre composition est prête'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Le mot de passe est trop simple et évident'
@@ -542,7 +542,7 @@ Tour: Tour
 'Type your first name': 'Entrez votre nom'
 
 # Desc: Type your last name
-'Type your last name': 'Entrez votre prenom'
+'Type your last name': 'Entrez votre prénom'
 
 # Desc: Type your message
 'Type your message': 'Entrez votre message'
@@ -584,7 +584,7 @@ Video: Video
 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Voulez vous %link_one% connecter à votre compte %end_tag% ou %link_two% récupérer %end_tag_two% votre mot de passe?'
 
 # Desc: We are a group of technologists, part of digital agency
-'We are a group of technologists, part of digital agency': 'Nous sommes un groupe de techniciens, partie d''une agence numérique'
+'We are a group of technologists, part of digital agency': 'Nous sommes un groupe de techniciens, partie de l''agence'
 
 # Desc: We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content
 'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'Nous construisons une large gamme de services sur le dessus de Blogvio, pour aider nos utilisateurs à identifier et amplifient leur meilleur contenu'
@@ -593,7 +593,7 @@ Video: Video
 'We did a little welcome video for you': 'Nous avons fait une petite vidéo de bienvenue pour vous'
 
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
-'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Nous aimerions savoir pourquoi vous avez quitté Blogvio et s''il ya quelque chose que nous pouvons améliorer'
+'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Nous aimerions savoir pourquoi vous avez quitté Blogvio et s''il y a quelque chose que nous pouvons améliorer'
 
 # Desc: We'll be in touch!
 'We''ll be in touch!': 'Nous serons en contact!'
