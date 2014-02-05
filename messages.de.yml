@@ -152,7 +152,7 @@ Contact: Kontakt
 'Create a Composition': 'Erstellen Sie eine Komposition'
 
 # Desc: Create an account with your email
-'Create an account with your email': 'Erstellen Sie ein Konto mit Ihrer E-Mail Adresse'
+'Create an account with your email': 'Erstellen Sie ein kostenloses Konto'
 
 # Desc: Created
 Created: Erstellt
@@ -308,7 +308,7 @@ Metrics: Statistiken
 'Must be at least 6 characters long, no spaces': 'Muss mindestens 6 Zeichen lang sein, keine Leerzeichen'
 
 # Desc: My compositions are close to exceeding 50k views/month
-'My compositions are close to exceeding 50k views/month': 'My compositions are in the vicinity of more than 50k hits / month'
+'My compositions are close to exceeding 50k views/month': 'Meine Kompositionen sind in der Nähe von mehr als 50k views/Monat'
 
 # Desc: My website is
 'My website is': 'Meine Website ist'
@@ -420,7 +420,7 @@ Press: Presse
 'Privacy Policy': 'Datenschutzrichtlinie'
 
 # Desc: Re-type New Password
-'Re-type New Password': 'Nochmals eingeben Neues Passwort'
+'Re-type New Password': 'Neues Passwort wiederholen'
 
 # Desc: Read Full Description
 'Read Full Description': 'Lesen Sie die komplette Beschreibung'
