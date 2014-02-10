@@ -14,14 +14,14 @@ Simply open a pull request to contribute a new translation or fix. English is th
 3. You don’t need to translate word by word as it may not make sense in your language. Use your best judgement. What is important is that the length of the words is somewhat similar, to > fit properly in the site layout.
 4. Try to keep CAPS as it is written, either lower case or camel case, if in your language some words don’t need to be spelled with CAPSLOCK on by default.
 5. Translate on top of the Spanish phrase, and keep the english phrase on the left.
-6. In the examples below, you’d only replace the green part.
+6. In the examples below, you’d only replace the bold part.
 
 
 ####Example:
 
 > \# Desc: Based on %platform%
 
-> 'Based on %platform%': **'Bazat pe %platform%'**
+> 'Based on %platform%': **'Basado en %platform%'**
 
 
 In German would be:
