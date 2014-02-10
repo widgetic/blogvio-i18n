@@ -74,7 +74,7 @@ Audio: Audio
 Back: Back
 
 # Desc: Blog
-Blog: Blog   # FIXME
+Blog: Blog
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets'
@@ -505,8 +505,8 @@ Team: Team
 # Desc: Thank you
 'Thank you': 'Thank you'
 
-# Desc: That's all you need to create a
-'That''s all you need to create a': 'That''s all you need to create a'
+# Desc: That's all you need to create a %composition%
+'That''s all you need to create a %composition%': 'That''s all you need to create a %composition%'   # FIXME
 
 # Desc: The password is too obvious
 'The password is too obvious': 'The password is too obvious'

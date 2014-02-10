@@ -506,7 +506,7 @@ Team: Equipo
 'Thank you': Gracias
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'Eso es todo lo que necesita para crear un'
+'That''s all you need to create a %composition%': 'Eso es todo lo que necesita para crear un %composition%'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'La contraseña es demasiado obvia'

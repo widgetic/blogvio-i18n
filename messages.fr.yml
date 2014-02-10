@@ -68,7 +68,7 @@ Audio: Audio
 'Audio Widgets': 'Audio Widgets'
 
 # Desc: Awesome! Get started by exploring our widgets
-'Awesome! Get started by exploring our widgets': 'Super! Commencez par explorer notre widget'
+'Awesome! Get started by exploring our widgets': 'Super! Commencez par explorer notre widgets'
 
 # Desc: Back
 Back: Arrière
@@ -149,10 +149,10 @@ Contact: Contact
 'Contact Us': Contactez-nous
 
 # Desc: Create Composition
-'Create Composition': 'Créer une nouvelle composition'
+'Create Composition': 'Créer composition'
 
 # Desc: Create a Composition
-'Create a Composition': 'Création d''une composition'
+'Create a Composition': 'Créer une nouvelle composition'
 
 # Desc: Create an account with your email
 'Create an account with your email': 'Créer un compte en utilisant votre adresse e-mail'
@@ -425,7 +425,7 @@ Press: Presse
 'Re-type New Password': 'Répéter le mot de passe'
 
 # Desc: Read Full Description
-'Read Full Description': 'Caractéristiques'
+'Read Full Description': Caractéristiques
 
 # Desc: Ready?
 'Ready?': 'Vous êtes prêt?'
@@ -506,7 +506,7 @@ Team: Équipe
 'Thank you': Merci
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'Votre composition est prête'
+'That''s all you need to create a %composition%': 'Votre %composition% est prête'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Le mot de passe est trop simple et évident'

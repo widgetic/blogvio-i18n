@@ -506,7 +506,7 @@ Team: Команда
 'Thank you': Спасибо
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'Это все что нужно для создания'
+'That''s all you need to create a %composition%': 'Это все что нужно для создания %composition%'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Пароль слишком очевидно'
@@ -625,8 +625,8 @@ Welcome: 'Добро пожаловать'
 # Desc: Widgets
 Widgets: Виджеты
 
-# Desc: Wrong email address
-'Wrong email address': 'Неправильный адрес электронной почты'
+# Desc: Wrong email adress
+'Wrong email adress': 'Wrong email adress'   # FIXME
 
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Вы можете изменять значения данных ширины и данных высоты, чтобы изменить ширину и высоту композиции, и она будет обновляться в реальном времени'

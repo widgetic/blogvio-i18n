@@ -74,7 +74,7 @@ Audio: Audio
 Back: Zurück
 
 # Desc: Blog
-Blog: Blog   # FIXME
+Blog: Blog
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio verfügt über eine innovative Editor, mit dem Sie Ihre eigenen Skins schnell bauen oder von unserem Voreinstellung Skins wählen'
@@ -179,7 +179,7 @@ Delete: Löschen
 Done: Fertig
 
 # Desc: Done Editing
-'Done Editing': 'Fertig'
+'Done Editing': Fertig
 
 # Desc: Download press kit
 'Download press kit': 'Das Pressekit herunterladen'
@@ -188,7 +188,7 @@ Done: Fertig
 Duplicate: Doppel
 
 # Desc: Edit Composition
-'Edit Composition': 'Bearbeiten'
+'Edit Composition': Bearbeiten
 
 # Desc: Edit Details
 'Edit Details': 'Details Bearbeiten'
@@ -250,7 +250,7 @@ FEEDBACK: VORSCHLÄGE
 # Desc: Help
 Help: Hilfe
 
-# Desc: Here's an example
+# Desc: Here’s an example
 'Here’s an example': 'Hier ist ein Beispiel'
 
 # Desc: How Blogvio works
@@ -262,7 +262,7 @@ Help: Hilfe
 # Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'Wenn Ihre Website ist nicht auf eine dieser Plattformen basiert (WordPress, Blogger, Tumblr), können Sie einfach kopieren/einfügen die einzigartige einbetten Code für jede Komposition vorgesehen'
 
-# Desc: If you'd like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
+# Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'Wenn Sie möchten, um Hallo zu sagen, schreiben Sie uns an %contact% oder %at_blogvio% auf Twitter'
 
 # Desc: Incorrect password
@@ -505,8 +505,8 @@ Team: Team
 # Desc: Thank you
 'Thank you': Danke
 
-# Desc: That's all you need to create a
-'That''s all you need to create a': 'That''s all you need to create a'
+# Desc: That's all you need to create a %composition%
+'That''s all you need to create a %composition%': 'That''s all you need to create a %composition%'   # FIXME
 
 # Desc: The password is too obvious
 'The password is too obvious': 'The password is too obvious'

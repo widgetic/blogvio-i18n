@@ -73,6 +73,9 @@ Audio: Audio
 # Desc: Back
 Back: Indietro
 
+# Desc: Blog
+Blog: Blog   # FIXME
+
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio disporre di un editore innovativo che consente di creare rapidamente skin personalizzate, o scegliere tra le nostre skin predefiniti'
 
@@ -376,7 +379,7 @@ Password: Password
 # Desc: Password must match
 'Password must match': 'Le password devono corrispondere'
 
-# Desc: Photo 
+# Desc: Photo
 Photo: Foto
 
 # Desc: Photo Widgets
@@ -414,7 +417,6 @@ Plugins: Plugins
 
 # Desc: Press
 Press: Pressa
-
 
 # Desc: Privacy Policy
 'Privacy Policy': 'Politica di Riservatezza'
@@ -482,6 +484,9 @@ Settings: Impostazioni
 # Desc: Skin
 Skin: Skin
 
+# Desc: Social
+Social: Social   # FIXME
+
 # Desc: Statistics
 Statistics: Statistica
 
@@ -501,7 +506,7 @@ Team: Gruppo
 'Thank you': Grazie
 
 # Desc: That's all you need to create a
-'That''s all you need to create a': 'Questi sono i passi necessari per creare un'
+'That''s all you need to create a %composition%': 'Questi sono i passi necessari per creare un %composition%'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Password è troppo evidente'
@@ -587,21 +592,20 @@ Video: Video
 # Desc: We did a little welcome video for you
 'We did a little welcome video for you': 'Abbiamo fatto una breve introduzione video per voi'
 
-
 # Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
 'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'Sarebbe utile sapere perché hai rinunciato al  Blogvio e se possiamo migliorare qualcosa'
 
 # Desc: We'll be in touch!
 'We''ll be in touch!': 'Saremo in contatto!'
 
-# Desc: We're big believers in the &quot;learn by doing&quot; aproach
-'We''re big believers in the &quot;learn by doing&quot; aproach': 'Noi crediamo nella tecnica di apprendimento attraverso la pratica'
+# Desc: We're big believers in the &quot;learn by doing&quot; approach
+'We''re big believers in the &quot;learn by doing&quot; approach': 'We''re big believers in the &quot;learn by doing&quot; approach'   # FIXME
 
 # Desc: We've sent an email to
 'We''ve sent an email to': 'Ho mandato una mail verso'
 
 # Desc: Welcome
-Welcome: 'Benvenuto'
+Welcome: Benvenuto
 
 # Desc: What can we help you with?
 'What can we help you with?': 'Come possiamo aiutare?'
@@ -653,7 +657,6 @@ Widgets: Widgets
 
 # Desc: Your name
 'Your name': Nome
-
 
 # Desc: You’ve been logged out!
 'You’ve been logged out!': 'Sei stato disconnesso!'
