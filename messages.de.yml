@@ -506,7 +506,7 @@ Team: Team
 'Thank you': Danke
 
 # Desc: That's all you need to create a %composition%
-'That''s all you need to create a %composition%': 'That''s all you need to create a %composition%'   # FIXME
+'That''s all you need to create a composition': 'That''s all you need to create a composition'   # FIXME
 
 # Desc: The password is too obvious
 'The password is too obvious': 'The password is too obvious'

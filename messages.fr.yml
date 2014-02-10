@@ -506,7 +506,7 @@ Team: Équipe
 'Thank you': Merci
 
 # Desc: That's all you need to create a
-'That''s all you need to create a %composition%': 'Votre %composition% est prête'
+'That''s all you need to create a composition': 'Votre composition est prête'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Le mot de passe est trop simple et évident'
