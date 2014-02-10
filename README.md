@@ -7,17 +7,35 @@ This repository contains all of the internationalization files.
 
 Simply open a pull request to contribute a new translation or fix. English is the reference translation. 
 
-> Note that the names between % are variables, this means that you aren't supposed to translate them.
->
-> eg. 'Add beautiful `%widgets%` to your website' becomes: 'Добавить красивые `%widgets%` на ваш сайт'
+## Some basic instructions:
 
+1. Where you see signs such as %thing%, you can keep thing inside, it’s just a variable.
+2. The sentences with #Description don’t need to be translated.
+3. You don’t need to translate word by word as it may not make sense in your language. Use your best judgement. What is important is that the length of the words is somewhat similar, to > fit properly in the site layout.
+4. Try to keep CAPS as it is written, either lower case or camel case, if in your language some words don’t need to be spelled with CAPSLOCK on by default.
+5. Translate on top of the Spanish phrase, and keep the english phrase on the left.
+6. In the examples below, you’d only replace the bold part.
+
+
+####Example:
+
+> \# Desc: Based on %platform%
+
+> 'Based on %platform%': **'Basado en %platform%'**
+
+
+In German would be:
+
+> \# Desc: Based on %platform%
+
+> 'Based on %platform%': **'Gestützt auf %platform% '**
+
+---
 
 If you are changing a previous translation, please explain why.
 Don't forget to add yourself to the Contributors too! :smile:
 
 If you need help with anything, please email <support@blogvio.com>. Thanks!
-
-It's easy to contribute!
 
 
 ## Current Support
