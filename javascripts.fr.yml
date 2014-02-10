@@ -338,7 +338,7 @@ impressions: vues
 'or use': ou
 
 # Desc: password
-password: Mot de passe
+password: mot de passe
 
 # Desc: players
 players: players
@@ -350,7 +350,7 @@ popularity: popularité
 skin: skin
 
 # Desc: username
-username: Utilisateur
+username: utilisateur
 
 # Desc: utilities
 utilities: utilities
