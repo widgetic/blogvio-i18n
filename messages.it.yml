@@ -35,7 +35,7 @@ Actions: Azioni
 'Activationkey not found': 'La chiave di attivazione non è stata trovata'
 
 # Desc: Add Content
-'Add Content': 'Aggiungi contenuto'
+'Add Content': 'Aggiungi Contenuto'
 
 # Desc: Add beautiful %widgets% to your website
 'Add beautiful %widgets% to your website': 'Aggiungi belli %widgets% sul tuo sito '
@@ -74,7 +74,7 @@ Audio: Audio
 Back: Indietro
 
 # Desc: Blog
-Blog: Blog   # FIXME
+Blog: Blog
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio disporre di un editore innovativo che consente di creare rapidamente skin personalizzate, o scegliere tra le nostre skin predefiniti'
@@ -173,7 +173,7 @@ Delete: Cancella
 'Delete my account': 'Elimina il mio conto'
 
 # Desc: Doesn't look like a valid email
-'Doesn''t look like a valid email': 'Ci sembra essere un email valido'
+'Doesn''t look like a valid email': 'Non sembra un indirizzo email valido'
 
 # Desc: Done
 Done: Pronto
@@ -209,7 +209,7 @@ Duplicate: Duplica
 'Embed Code': 'Codice incorporato'
 
 # Desc: Explore our widgets gallery
-'Explore our widgets gallery': 'Esplora la nostra galleria di widget'
+'Explore our widgets gallery': 'Esplora la nostra galleria di widgets'
 
 # Desc: FEEDBACK
 FEEDBACK: Retroazione
@@ -293,7 +293,7 @@ Help: Help
 'Main Features': 'Caratteristiche principali'
 
 # Desc: Making the most of Blogvio
-'Making the most of Blogvio': 'Vantaggi massimo di Blogvio'
+'Making the most of Blogvio': 'Sfruttate al massimo di Blogvio'
 
 # Desc: Maximum number of allowed hosts has been reached
 'Maximum number of allowed hosts has been reached': 'È stato raggiunto il limite di host'
@@ -455,7 +455,7 @@ SEND: MANDA
 Search: Cerca
 
 # Desc: Select a %thing%
-'Select a %thing%': 'Scegli  una %thing%'
+'Select a %thing%': 'Scegli  uno %thing%'
 
 # Desc: Send us an email
 'Send us an email': 'Inviaci una email'
@@ -479,13 +479,16 @@ Settings: Impostazioni
 'Sign up to experience just how much Blogvio can help you &amp; your website': 'Crea un conto su Blogvio per capire quanto può aiutare te stesso e il tuo sito'
 
 # Desc: Sign up with
-'Sign up with': 'Crea un conto con'
+'Sign up with': 'Registrati con'
 
 # Desc: Skin
 Skin: Skin
 
+# Desc: Skip this step
+'Skip this step': 'Skip this step'   # FIXME
+
 # Desc: Social
-Social: Social   # FIXME
+Social: Social
 
 # Desc: Statistics
 Statistics: Statistica
@@ -506,7 +509,7 @@ Team: Gruppo
 'Thank you': Grazie
 
 # Desc: That's all you need to create a
-'That''s all you need to create a composition': 'Questi sono i passi necessari per creare un composizione'
+'That''s all you need to create a composition': 'Questi sono i passi necessari per creare un Composizione'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Password è troppo evidente'
@@ -581,7 +584,7 @@ Video: Video
 'Want to %link% sign up %end%?': 'Volete %link% accedere %end%?'
 
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
-'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Volete %link_one% accedere nel conto %end_tag% o di %link_two% recuperare %end_tag_two% la vostra password?'
+'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Vuoi %link_one% accedere al conto %end_tag% o %link_two% recuperare %end_tag_two% la tua password?'
 
 # Desc: We are a group of technologists, part of digital agency
 'We are a group of technologists, part of digital agency': 'Siamo un gruppo di tecnici, una parte dell''agenzia digitale'
@@ -599,7 +602,7 @@ Video: Video
 'We''ll be in touch!': 'Saremo in contatto!'
 
 # Desc: We're big believers in the &quot;learn by doing&quot; approach
-'We''re big believers in the &quot;learn by doing&quot; approach': 'We''re big believers in the &quot;learn by doing&quot; approach'   # FIXME
+'We''re big believers in the &quot;learn by doing&quot; approach': 'Noi crediamo nella tecnica di apprendimento attraverso la pratica'
 
 # Desc: We've sent an email to
 'We''ve sent an email to': 'Ho mandato una mail verso'
@@ -683,7 +686,7 @@ galleries: gallerie
 'is not registered': 'Non è registrato'
 
 # Desc: log in
-'log in': 'Entra nel conto'
+'log in': 'accedi conto'
 
 # Desc: or
 or: o
