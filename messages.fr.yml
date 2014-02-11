@@ -290,7 +290,7 @@ Help: Aider
 'Looks like the old password': 'C''est le même mot de passe'
 
 # Desc: Main Features
-'Main Features': 'Caractéristiques'
+'Main Features': Caractéristiques
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Tirer le meilleur parti de Blogvio'
@@ -484,6 +484,9 @@ Settings: Paramètres
 # Desc: Skin
 Skin: Skin
 
+# Desc: Skip this step
+'Skip this step': 'Skip this step'
+
 # Desc: Social
 Social: Social
 
@@ -505,7 +508,7 @@ Team: Équipe
 # Desc: Thank you
 'Thank you': Merci
 
-# Desc: That's all you need to create a
+# Desc: That's all you need to create a composition
 'That''s all you need to create a composition': 'Votre composition est prête'
 
 # Desc: The password is too obvious

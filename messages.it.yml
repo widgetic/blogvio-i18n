@@ -485,7 +485,7 @@ Settings: Impostazioni
 Skin: Skin
 
 # Desc: Skip this step
-'Skip this step': 'Skip this step'   # FIXME
+'Skip this step': 'Skip this step'
 
 # Desc: Social
 Social: Social
@@ -508,7 +508,7 @@ Team: Gruppo
 # Desc: Thank you
 'Thank you': Grazie
 
-# Desc: That's all you need to create a
+# Desc: That's all you need to create a composition
 'That''s all you need to create a composition': 'Questi sono i passi necessari per creare un Composizione'
 
 # Desc: The password is too obvious

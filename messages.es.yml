@@ -484,6 +484,9 @@ Settings: Configuración
 # Desc: Skin
 Skin: Skin
 
+# Desc: Skip this step
+'Skip this step': 'Skip this step'
+
 # Desc: Social
 Social: Social
 
@@ -505,7 +508,7 @@ Team: Equipo
 # Desc: Thank you
 'Thank you': Gracias
 
-# Desc: That's all you need to create a
+# Desc: That's all you need to create a composition
 'That''s all you need to create a composition': 'Eso es todo lo que necesita para crear un composición'
 
 # Desc: The password is too obvious

@@ -484,6 +484,9 @@ Settings: Setări
 # Desc: Skin
 Skin: Skin
 
+# Desc: Skip this step
+'Skip this step': 'Skip this step'
+
 # Desc: Social
 Social: Social
 
@@ -505,7 +508,7 @@ Team: Echipă
 # Desc: Thank you
 'Thank you': Mulţumesc
 
-# Desc: That's all you need to create a
+# Desc: That's all you need to create a composition
 'That''s all you need to create a composition': 'Aceștia sunt pașii necesari pentru a crea o compoziţie'
 
 # Desc: The password is too obvious

@@ -248,7 +248,7 @@ FEEDBACK: СВЯЗЬ
 'HOW TO EMBED ON ANY WEBSITE': 'КАК ВСТРОИТЬ ЛЮБОЙ ВЕБСАЙТ'
 
 # Desc: Help
-Help: 'Помощь'
+Help: Помощь
 
 # Desc: Here’s an example
 'Here’s an example': 'Вот пример'
@@ -290,7 +290,7 @@ Help: 'Помощь'
 'Looks like the old password': 'Выглядит как старый пароль'
 
 # Desc: Main Features
-'Main Features': 'Особенности'
+'Main Features': Особенности
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Создание большинства Blogvio'
@@ -484,6 +484,9 @@ Settings: Настройки
 # Desc: Skin
 Skin: Тема
 
+# Desc: Skip this step
+'Skip this step': 'Skip this step'
+
 # Desc: Social
 Social: Social
 
@@ -505,7 +508,7 @@ Team: Команда
 # Desc: Thank you
 'Thank you': Спасибо
 
-# Desc: That's all you need to create a
+# Desc: That's all you need to create a composition
 'That''s all you need to create a composition': 'Это все что нужно для создания cостав'
 
 # Desc: The password is too obvious
@@ -563,7 +566,7 @@ Tour: Тур
 Users: Пользователи
 
 # Desc: Utilities
-Utilities: 'Полезности'
+Utilities: Полезности
 
 # Desc: Utilities Widgets
 'Utilities Widgets': 'Полезности Виджеты'

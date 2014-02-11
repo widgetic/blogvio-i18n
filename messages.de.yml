@@ -484,6 +484,9 @@ Settings: Einstellungen
 # Desc: Skin
 Skin: Skin
 
+# Desc: Skip this step
+'Skip this step': 'Skip this step'
+
 # Desc: Social
 Social: Social
 
@@ -505,8 +508,8 @@ Team: Team
 # Desc: Thank you
 'Thank you': Danke
 
-# Desc: That's all you need to create a %composition%
-'That''s all you need to create a composition': 'That''s all you need to create a composition'   # FIXME
+# Desc: That's all you need to create a composition
+'That''s all you need to create a composition': 'That''s all you need to create a composition'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'The password is too obvious'
