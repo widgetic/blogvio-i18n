@@ -11,7 +11,7 @@
 'Add your first host now': 'Добавьте свой первый host сейчас'
 
 # Desc: All
-All: Все
+All: Весь
 
 # Desc: Any compositions embedded in it will stop working
 'Any compositions embedded in it will stop working': 'Любые композиции, встроенные в него'
@@ -95,13 +95,13 @@ Impressions: Впечатления
 'Message sent': 'Сообщение отправлено'
 
 # Desc: Most Viewed Compositions
-'Most Viewed Compositions': 'Самые просматриваемые Составы'
+'Most Viewed Compositions': 'Самые Популярные Compositions'
 
 # Desc: Name
 Name: Имя
 
 # Desc: New Skin
-'New Skin': 'Новий Skin'
+'New Skin': 'Новая Тема'
 
 # Desc: Next tip
 'Next tip': 'Следующий совет'
@@ -167,19 +167,19 @@ Resend: Повторная отправка
 'Saving changes': 'Сохраненные изменения'
 
 # Desc: Select a Skin
-'Select a Skin': 'Выбрать Skin'
+'Select a Skin': 'Выбрать Тему'
 
 # Desc: Send
-Send: Отправить
+Send: Посылать
 
 # Desc: Sending
-Sending: Отправление
+Sending: Посылает
 
 # Desc: Settings
 Settings: Настройки
 
 # Desc: Skin name has been successfully changed
-'Skin name has been successfully changed': 'Название темы было успешно изменено'
+'Skin name has been successfully changed': 'Название Темы было успешно изменено'
 
 # Desc: Skins
 Skins: Темы
@@ -314,7 +314,7 @@ Video: Видео
 'copy code': 'копировать код'
 
 # Desc: current password
-'current password': 'действующий пароль'
+'current password': 'текущий пароль'
 
 # Desc: date
 date: дата
@@ -335,7 +335,7 @@ impressions: впечатления
 'last 7 days': 'последние 7 дней'
 
 # Desc: or use
-'or use': 'или используйте'
+'or use': 'или'
 
 # Desc: password
 password: пароль
@@ -350,7 +350,7 @@ popularity: популярность
 skin: тема
 
 # Desc: username
-username: имя пользователя
+username: имя
 
 # Desc: utilities
 utilities: полезности
@@ -368,7 +368,7 @@ you:
     can:
         embed:
             # Desc: {0}Embed Your Compositions In These Websites|{1}You Can Embed Compositions In One More Website|]1,Inf]You Can Embed Compositions In %count% More Websites
-            hosts: '{0}Embed Your Compositions In These Websites|{1}You Can Embed Compositions In One More Website|]1,Inf]You Can Embed Compositions In %count% More Websites'
+            hosts: '{0}Вставить свои композиции в этих сайтах|{1}Вы можете вставлять композиции в более одного веб-сайта|]1,Inf]Вы можете вставлять композиции в более %count% веб-сайта'
 
             # Desc: [0,Inf]You Can Embed Compositions In %count% Websites
-            hosts.max: '[0,Inf]You Can Embed Compositions In %count% Websites'
+            hosts.max: '[0,Inf]Вы можете вставлять композиции в более %count% веб-сайта'

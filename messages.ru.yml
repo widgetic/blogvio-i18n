@@ -74,7 +74,7 @@ Audio: Aудио
 Back: Назад
 
 # Desc: Blog
-Blog: Blog
+Blog: Блог
 
 # Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio имеет инновационный редактор, который позволяет быстро создавать свои собственные скины или выбрать один из наших существующих пресетов'
@@ -98,7 +98,7 @@ Browse: Просмотр
 'Browse all widgets': 'Вы можете просмотреть все виджеты'
 
 # Desc: But we have some interesting stuff going on %link% our blog
-'But we have some interesting stuff going on %link% our blog': 'Но у нас есть некоторые интересные вещи, действующие %link% на нашем блоге'
+'But we have some interesting stuff going on %link% our blog': 'Некоторые интересные вещи, действующие %link% на нашем блоге'
 
 # Desc: COPY CODE
 'COPY CODE': 'СКОПИРУЙТЕ КОД'
@@ -161,7 +161,7 @@ Contact: Kонтакт
 Created: Созданный
 
 # Desc: Customize your widget using one of our beautiful Presets or create your own Skin
-'Customize your widget using one of our beautiful Presets or create your own Skin': 'Настройте свой виджет, используя один из наших прекрасных пресетов или создать свой собственный Skin'
+'Customize your widget using one of our beautiful Presets or create your own Skin': 'Настройте свой виджет, используя один из наших прекрасных пресетов или создать свою собственную Тему'
 
 # Desc: Delete
 Delete: Удалить
@@ -248,7 +248,7 @@ FEEDBACK: СВЯЗЬ
 'HOW TO EMBED ON ANY WEBSITE': 'КАК ВСТРОИТЬ ЛЮБОЙ ВЕБСАЙТ'
 
 # Desc: Help
-Help: 'На помощь'
+Help: 'Помощь'
 
 # Desc: Here’s an example
 'Here’s an example': 'Вот пример'
@@ -290,7 +290,7 @@ Help: 'На помощь'
 'Looks like the old password': 'Выглядит как старый пароль'
 
 # Desc: Main Features
-'Main Features': 'Основные Особенности'
+'Main Features': 'Особенности'
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Создание большинства Blogvio'
@@ -338,7 +338,7 @@ Name: Имя
 Note: Записка
 
 # Desc: Notifications
-Notifications: Оповещение
+Notifications: Сообщение
 
 # Desc: On your way
 'On your way': 'На вашем пути'
@@ -413,13 +413,13 @@ Plugins: Плагины
 'Popular Widgets': 'Популярные Виджеты'
 
 # Desc: Preset Skin
-'Preset Skin': 'Предустановленная Skin'
+'Preset Skin': 'Предустановленная Тема'
 
 # Desc: Press
 Press: Пресс
 
 # Desc: Privacy Policy
-'Privacy Policy': 'Политика Конфиденциальности'
+'Privacy Policy': 'Политика публичности'
 
 # Desc: Re-type New Password
 'Re-type New Password': 'Повторите Пароль'
@@ -443,7 +443,7 @@ Resend: Повторить
 'Reset my password': 'Сброс мою пароль'
 
 # Desc: SEARCH
-SEARCH: НАЙТИ
+SEARCH: ПОИСК
 
 # Desc: SEND
 SEND: ОТПРАВИТЬ
@@ -473,16 +473,16 @@ Settings: Настройки
 'Show password text': 'Показать текст пароля'
 
 # Desc: Sign Up
-'Sign Up': Зарегистрироваться
+'Sign Up': Регистратыя
 
 # Desc: Sign up to experience just how much Blogvio can help you &amp; your website
-'Sign up to experience just how much Blogvio can help you &amp; your website': 'Зарегистрироваться испытать насколько Blogvio может помочь ваш сайт'
+'Sign up to experience just how much Blogvio can help you &amp; your website': 'Зарегистрируйтесь испытать насколько Blogvio может помочь ваш сайт'
 
 # Desc: Sign up with
 'Sign up with': 'Зарегистрируйтесь в'
 
 # Desc: Skin
-Skin: Skin
+Skin: Тема
 
 # Desc: Social
 Social: Social
@@ -563,10 +563,10 @@ Tour: Тур
 Users: Пользователи
 
 # Desc: Utilities
-Utilities: 'Бытовые помещения'
+Utilities: 'Полезности'
 
 # Desc: Utilities Widgets
-'Utilities Widgets': 'Коммунальные виджеты'
+'Utilities Widgets': 'Полезности Виджеты'
 
 # Desc: Video
 Video: Видео
@@ -614,7 +614,7 @@ Welcome: 'Добро пожаловать'
 'What type of widget do you need?': 'Какие виджета вам нужны?'
 
 # Desc: What's the next step?
-'What''s the next step?': 'Какой следующий шаг?'
+'What''s the next step?': 'Следующий шаг?'
 
 # Desc: Where do you want to embed your Compositions?
 'Where do you want to embed your Compositions?': 'Где вы хотите вставлять свои Композиции?'
@@ -626,7 +626,7 @@ Welcome: 'Добро пожаловать'
 Widgets: Виджеты
 
 # Desc: Wrong email adress
-'Wrong email adress': 'Wrong email adress'   # FIXME
+'Wrong email adress': 'Неправильный адрес электронной почты'
 
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Вы можете изменять значения данных ширины и данных высоты, чтобы изменить ширину и высоту композиции, и она будет обновляться в реальном времени'
@@ -683,7 +683,7 @@ galleries: галереи
 'is not registered': 'не зарегистрирован'
 
 # Desc: log in
-'log in': войти
+'log in': вход
 
 # Desc: or
 or: или
