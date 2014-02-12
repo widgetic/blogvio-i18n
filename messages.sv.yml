@@ -1,234 +1,704 @@
+# Desc: 6 characters or more, a-Z 0-9
 '6 characters or more, a-Z 0-9': '6 characters or more, a-Z 0-9'
+
+# Desc: A new widget is available
 'A new widget is available': 'A new widget is available'
+
+# Desc: A widget I use gets a big update
 'A widget I use gets a big update': 'A widget I use gets a big update'
+
+# Desc: About
 About: About
+
+# Desc: Account
 Account: Account
+
+# Desc: Account Registration
 'Account Registration': 'Account Registration'
+
+# Desc: Account Settings
 'Account Settings': 'Account Settings'
+
+# Desc: Account deleted
 'Account deleted': 'Account deleted'
+
+# Desc: Account info
 'Account info': 'Account info'
+
+# Desc: Account password
 'Account password': 'Account password'
+
+# Desc: Actions
 Actions: Actions
+
+# Desc: Activationkey not found
 'Activationkey not found': 'Activationkey not found'
+
+# Desc: Add Content
 'Add Content': 'Add Content'
+
+# Desc: Add beautiful %widgets% to your website
 'Add beautiful %widgets% to your website': 'Add beautiful %widgets% to your website'
+
+# Desc: Add your website
 'Add your website': 'Add your website'
+
+# Desc: All your compositions
 'All your compositions': 'All your compositions'
+
+# Desc: Already have your content online? We can grab it for you from across the social web
 'Already have your content online? We can grab it for you from across the social web': 'Already have your content online? We can grab it for you from across the social web'
+
+# Desc: Also, it's free!
 'Also, it''s free!': 'Also, it''s free!'
+
+# Desc: Analyze, create and share your best content yet
 'Analyze, create and share your best content yet': 'Analyze, create and share your best content yet'
+
+# Desc: And it is based on
 'And it is based on': 'And it is based on'
+
+# Desc: Any updates you make will use the same embed code
 'Any updates you make will use the same embed code': 'Any updates you make will use the same embed code'
+
+# Desc: Audio
 Audio: Audio
+
+# Desc: Audio Widgets
 'Audio Widgets': 'Audio Widgets'
+
+# Desc: Awesome! Get started by exploring our widgets
 'Awesome! Get started by exploring our widgets': 'Awesome! Get started by exploring our widgets'
+
+# Desc: Back
 Back: Back
+
+# Desc: Blog
 Blog: Blog
+
+# Desc: Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets
 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets': 'Blogvio features an innovative editor that allows you to quickly build your own skins or choose from our existing presets'
+
+# Desc: Blogvio publishes a newsletter
 'Blogvio publishes a newsletter': 'Blogvio publishes a newsletter'
+
+# Desc: Bring your<br />content in
 'Bring your<br />content in': 'Bring your<br />content in'
+
+# Desc: Browse
 Browse: Browse
+
+# Desc: Browse Our Widgets
 'Browse Our Widgets': 'Browse Our Widgets'
+
+# Desc: Browse Widgets
 'Browse Widgets': 'Browse Widgets'
+
+# Desc: Browse all widgets
 'Browse all widgets': 'Browse all widgets'
+
+# Desc: But we have some interesting stuff going on %link% our blog
 'But we have some interesting stuff going on %link% our blog': 'But we have some interesting stuff going on %link% our blog'
+
+# Desc: COPY CODE
 'COPY CODE': 'COPY CODE'
+
+# Desc: Careers
 Careers: Careers
+
+# Desc: Change password
 'Change password': 'Change password'
+
+# Desc: Changes saved
 'Changes saved': 'Changes saved'
+
+# Desc: Choose a password
 'Choose a password': 'Choose a password'
+
+# Desc: Choose your website's platform
 'Choose your website''s platform': 'Choose your website''s platform'
+
+# Desc: Close description
 'Close description': 'Close description'
+
+# Desc: Coming soon
 'Coming soon': 'Coming soon'
+
+# Desc: Comments
 Comments: Comments
+
+# Desc: Composition
 Composition: Composition
+
+# Desc: Compositions
 Compositions: Compositions
+
+# Desc: Compositions using this widget
 'Compositions using this widget': 'Compositions using this widget'
+
+# Desc: Connect with Facebook
 'Connect with Facebook': 'Connect with Facebook'
+
+# Desc: Connect with Google
 'Connect with Google': 'Connect with Google'
+
+# Desc: Contact
 Contact: Contact
+
+# Desc: Contact Us
 'Contact Us': 'Contact Us'
+
+# Desc: Create Composition
 'Create Composition': 'Create Composition'
+
+# Desc: Create a Composition
 'Create a Composition': 'Create a Composition'
+
+# Desc: Create an account with your email
 'Create an account with your email': 'Create an account with your email'
+
+# Desc: Created
 Created: Created
+
+# Desc: Customize your widget using one of our beautiful Presets or create your own Skin
 'Customize your widget using one of our beautiful Presets or create your own Skin': 'Customize your widget using one of our beautiful Presets or create your own Skin'
+
+# Desc: Delete
 Delete: Delete
+
+# Desc: Delete Account
 'Delete Account': 'Delete Account'
+
+# Desc: Delete my account
 'Delete my account': 'Delete my account'
+
+# Desc: Doesn't look like a valid email
 'Doesn''t look like a valid email': 'Doesn''t look like a valid email'
+
+# Desc: Done
 Done: Done
+
+# Desc: Done Editing
 'Done Editing': 'Done Editing'
+
+# Desc: Download press kit
 'Download press kit': 'Download press kit'
+
+# Desc: Duplicate
 Duplicate: Duplicate
+
+# Desc: Edit Composition
 'Edit Composition': 'Edit Composition'
+
+# Desc: Edit Details
 'Edit Details': 'Edit Details'
+
+# Desc: Email address
 'Email address': 'Email address'
+
+# Desc: Email address is verified
 'Email address is verified': 'Email address is verified'
+
+# Desc: Email already used
 'Email already used': 'Email already used'
+
+# Desc: Email successfully subscribed
 'Email successfully subscribed': 'Email successfully subscribed'
+
+# Desc: Embed Code
 'Embed Code': 'Embed Code'
+
+# Desc: Explore our widgets gallery
 'Explore our widgets gallery': 'Explore our widgets gallery'
+
+# Desc: FEEDBACK
 FEEDBACK: FEEDBACK
+
+# Desc: Find the widget you need
 'Find the widget you need': 'Find the widget you need'
+
+# Desc: First Name
 'First Name': 'First Name'
+
+# Desc: Follow on Twitter
 'Follow on Twitter': 'Follow on Twitter'
+
+# Desc: For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio
 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio': 'For the most popular platforms we provide a plugin that integrates this editor in your CMS, so you can build compositions without visiting Blogvio'
+
+# Desc: Forgot Password
 'Forgot Password': 'Forgot Password'
+
+# Desc: Form successfully submited
 'Form successfully submited': 'Form successfully submited'
+
+# Desc: Frequently Asked Questions
 'Frequently Asked Questions': 'Frequently Asked Questions'
+
+# Desc: Get started by creating your first Composition
 'Get started by creating your first Composition': 'Get started by creating your first Composition'
+
+# Desc: Get started with Blogvio now
 'Get started with Blogvio now': 'Get started with Blogvio now'
+
+# Desc: Get started with a free account
 'Get started with a free account': 'Get started with a free account'
+
+# Desc: HOW TO EMBED ON ANY WEBSITE
 'HOW TO EMBED ON ANY WEBSITE': 'HOW TO EMBED ON ANY WEBSITE'
+
+# Desc: Help
 Help: Help
+
+# Desc: Here’s an example
 'Here’s an example': 'Here’s an example'
+
+# Desc: How Blogvio works
 'How Blogvio works': 'How Blogvio works'
+
+# Desc: How to add more websites
 'How to add more websites': 'How to add more websites'
+
+# Desc: If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition
 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition': 'If your website is not based on any of these platforms (WordPress, Blogger, Tumblr), you can simply copy/paste the unique embed code provided for every composition'
+
+# Desc: If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter
 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter': 'If you’d like to say hello, drop us a line at %contact% or %at_blogvio% on Twitter'
+
+# Desc: Incorrect password
 'Incorrect password': 'Incorrect password'
+
+# Desc: Invalid user
 'Invalid user': 'Invalid user'
+
+# Desc: It will appear in this area
 'It will appear in this area': 'It will appear in this area'
+
+# Desc: Kindly open it and follow the instructions in it to change your password
 'Kindly open it and follow the instructions in it to change your password': 'Kindly open it and follow the instructions in it to change your password'
+
+# Desc: Last Name
 'Last Name': 'Last Name'
+
+# Desc: Like on Facebook
 'Like on Facebook': 'Like on Facebook'
+
+# Desc: Log Out
 'Log Out': 'Log Out'
+
+# Desc: Looks like the old password
 'Looks like the old password': 'Looks like the old password'
+
+# Desc: Main Features
 'Main Features': 'Main Features'
+
+# Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Making the most of Blogvio'
+
+# Desc: Maximum number of allowed hosts has been reached
 'Maximum number of allowed hosts has been reached': 'Maximum number of allowed hosts has been reached'
+
+# Desc: Message successfully sent
 'Message successfully sent': 'Message successfully sent'
+
+# Desc: Metrics
 Metrics: Metrics
+
+# Desc: Monthly newsletter?
 'Monthly newsletter?': 'Monthly newsletter?'
+
+# Desc: Must be at least 6 characters long, no spaces
 'Must be at least 6 characters long, no spaces': 'Must be at least 6 characters long, no spaces'
+
+# Desc: My compositions are close to exceeding 50k views/month
 'My compositions are close to exceeding 50k views/month': 'My compositions are close to exceeding 50k views/month'
+
+# Desc: My website is
 'My website is': 'My website is'
+
+# Desc: Name
 Name: Name
+
+# Desc: Need to try a different email address
 'Need to try a different email address': 'Need to try a different email address'
+
+# Desc: New Composition
 'New Composition': 'New Composition'
+
+# Desc: New Password
 'New Password': 'New Password'
+
+# Desc: Next Step
 'Next Step': 'Next Step'
+
+# Desc: No compositions published
 'No compositions published': 'No compositions published'
+
+# Desc: Note
 Note: Note
+
+# Desc: Notifications
 Notifications: Notifications
+
+# Desc: On your way
 'On your way': 'On your way'
+
+# Desc: Once you have an embed code generated for a composition, this won't change
 'Once you have an embed code generated for a composition, this won''t change': 'Once you have an embed code generated for a composition, this won''t change'
+
+# Desc: Or use your social media account
 'Or use your social media account': 'Or use your social media account'
+
+# Desc: Or visit us
 'Or visit us': 'Or visit us'
+
+# Desc: Other platform
 'Other platform': 'Other platform'
+
+# Desc: Our Team
 'Our Team': 'Our Team'
+
+# Desc: Our detailed analytics shows you how your content is doing on any platform
 'Our detailed analytics shows you how your content is doing on any platform': 'Our detailed analytics shows you how your content is doing on any platform'
+
+# Desc: Our mission is to make content distribution easy and fun
 'Our mission is to make content distribution easy and fun': 'Our mission is to make content distribution easy and fun'
+
+# Desc: Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices
 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices': 'Our vision is to provide website owners with a platform to help them distribute their content using personalised widgets, that work across devices'
+
+# Desc: Overview
 Overview: Overview
+
+# Desc: Password
 Password: Password
+
+# Desc: Password must be at least 6 characters
 'Password must be at least 6 characters': 'Password must be at least 6 characters'
+
+# Desc: Password must match
 'Password must match': 'Password must match'
+
+# Desc: Photo
 Photo: Photo
+
+# Desc: Photo Widgets
 'Photo Widgets': 'Photo Widgets'
+
+# Desc: Pick a new password
 'Pick a new password': 'Pick a new password'
+
+# Desc: Please enter the new password again
 'Please enter the new password again': 'Please enter the new password again'
+
+# Desc: Please let us know your feedback
 'Please let us know your feedback': 'Please let us know your feedback'
+
+# Desc: Please select another one
 'Please select another one': 'Please select another one'
+
+# Desc: Please specify your old password
 'Please specify your old password': 'Please specify your old password'
+
+# Desc: Please type a password
 'Please type a password': 'Please type a password'
+
+# Desc: Plugin Installation
 'Plugin Installation': 'Plugin Installation'
+
+# Desc: Plugins
 Plugins: Plugins
+
+# Desc: Popular Widgets
 'Popular Widgets': 'Popular Widgets'
+
+# Desc: Preset Skin
 'Preset Skin': 'Preset Skin'
+
+# Desc: Press
 Press: Press
+
+# Desc: Privacy Policy
 'Privacy Policy': 'Privacy Policy'
+
+# Desc: Re-type New Password
 'Re-type New Password': 'Re-type New Password'
+
+# Desc: Read Full Description
 'Read Full Description': 'Read Full Description'
+
+# Desc: Ready?
 'Ready?': 'Ready?'
+
+# Desc: Remind me when
 'Remind me when': 'Remind me when'
+
+# Desc: Resend
 Resend: Resend
+
+# Desc: Reset Password
 'Reset Password': 'Reset Password'
+
+# Desc: Reset my password
 'Reset my password': 'Reset my password'
+
+# Desc: SEARCH
 SEARCH: SEARCH
+
+# Desc: SEND
 SEND: SEND
+
+# Desc: Save password
 'Save password': 'Save password'
+
+# Desc: Search
 Search: Search
+
+# Desc: Select a %thing%
 'Select a %thing%': 'Select a %thing%'
+
+# Desc: Select a password
+'Select a password': 'Select a password'   # FIXME
+
+# Desc: Send us an email
 'Send us an email': 'Send us an email'
+
+# Desc: Set up your shiny new account
 'Set up your shiny new account': 'Set up your shiny new account'
+
+# Desc: Set your password
 'Set your password': 'Set your password'
+
+# Desc: Settings
 Settings: Settings
+
+# Desc: Show password text
 'Show password text': 'Show password text'
+
+# Desc: Sign Up
 'Sign Up': 'Sign Up'
+
+# Desc: Sign up to experience just how much Blogvio can help you &amp; your website
 'Sign up to experience just how much Blogvio can help you &amp; your website': 'Sign up to experience just how much Blogvio can help you &amp; your website'
+
+# Desc: Sign up with
 'Sign up with': 'Sign up with'
+
+# Desc: Skin
 Skin: Skin
+
+# Desc: Skip this step
 'Skip this step': 'Skip this step'
+
+# Desc: Social
 Social: Social
+
+# Desc: Statistics
 Statistics: Statistics
+
+# Desc: Subscribe to the newsletter as well if you'd be interested to know what we're working on - we'll keep it short, promise!
 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!': 'Subscribe to the newsletter as well if you''d be interested to know what we''re working on - we''ll keep it short, promise!'
+
+# Desc: Tags
 Tags: Tags
+
+# Desc: Team
 Team: Team
+
+# Desc: Terms of Service
 'Terms of Service': 'Terms of Service'
+
+# Desc: Thank you
 'Thank you': 'Thank you'
+
+# Desc: That's all you need to create a composition
 'That''s all you need to create a composition': 'That''s all you need to create a composition'
+
+# Desc: The password is too obvious
 'The password is too obvious': 'The password is too obvious'
+
+# Desc: The provided key wasn't found
 'The provided key wasn''t found': 'The provided key wasn''t found'
+
+# Desc: This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website
 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website': 'This code is generated after your composition is saved, and you should paste it where you want the composition to be visible in your website'
+
+# Desc: This email is already registered
 'This email is already registered': 'This email is already registered'
+
+# Desc: This is helpful because you won't need to edit this code after you've used it
 'This is helpful because you won''t need to edit this code after you''ve used it': 'This is helpful because you won''t need to edit this code after you''ve used it'
+
+# Desc: Tour
 Tour: Tour
+
+# Desc: Try again
 'Try again': 'Try again'
+
+# Desc: Try one of our most popular widgets to get started
 'Try one of our most popular widgets to get started': 'Try one of our most popular widgets to get started'
+
+# Desc: Type your e-mail address
 'Type your e-mail address': 'Type your e-mail address'
+
+# Desc: Type your email address below
 'Type your email address below': 'Type your email address below'
+
+# Desc: Type your first name
 'Type your first name': 'Type your first name'
+
+# Desc: Type your last name
 'Type your last name': 'Type your last name'
+
+# Desc: Type your message
 'Type your message': 'Type your message'
+
+# Desc: Type your name
 'Type your name': 'Type your name'
+
+# Desc: Untitled Composition
 'Untitled Composition': 'Untitled Composition'
+
+# Desc: Use iFrame
 'Use iFrame': 'Use iFrame'
+
+# Desc: User account is disabled
 'User account is disabled': 'User account is disabled'
+
+# Desc: Users
 Users: Users
+
+# Desc: Utilities
 Utilities: Utilities
+
+# Desc: Utilities Widgets
 'Utilities Widgets': 'Utilities Widgets'
+
+# Desc: Video
 Video: Video
+
+# Desc: Video Widgets
 'Video Widgets': 'Video Widgets'
+
+# Desc: View statistics<br />for your content
 'View statistics<br />for your content': 'View statistics<br />for your content'
+
+# Desc: Want to %link% sign up %end%?
 'Want to %link% sign up %end%?': 'Want to %link% sign up %end%?'
+
+# Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?'
+
+# Desc: We are a group of technologists, part of digital agency
 'We are a group of technologists, part of digital agency': 'We are a group of technologists, part of digital agency'
+
+# Desc: We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content
 'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content': 'We are building a wide range of services on top of Blogvio, to help our users identify and amplify their best content'
+
+# Desc: We did a little welcome video for you
 'We did a little welcome video for you': 'We did a little welcome video for you'
+
+# Desc: We'd love to find out why you left Blogvio, and if there's anything we can improve
 'We''d love to find out why you left Blogvio, and if there''s anything we can improve': 'We''d love to find out why you left Blogvio, and if there''s anything we can improve'
+
+# Desc: We'll be in touch!
 'We''ll be in touch!': 'We''ll be in touch!'
+
+# Desc: We're big believers in the &quot;learn by doing&quot; approach
 'We''re big believers in the &quot;learn by doing&quot; approach': 'We''re big believers in the &quot;learn by doing&quot; approach'
+
+# Desc: We've sent an email to
 'We''ve sent an email to': 'We''ve sent an email to'
+
+# Desc: Welcome
 Welcome: Welcome
+
+# Desc: What can we help you with?
 'What can we help you with?': 'What can we help you with?'
+
+# Desc: What type of widget do you need?
 'What type of widget do you need?': 'What type of widget do you need?'
+
+# Desc: What's the next step?
 'What''s the next step?': 'What''s the next step?'
+
+# Desc: Where do you want to embed your Compositions?
 'Where do you want to embed your Compositions?': 'Where do you want to embed your Compositions?'
+
+# Desc: Why is this important
 'Why is this important': 'Why is this important'
+
+# Desc: Widgets
 Widgets: Widgets
+
+# Desc: Wrong email adress
 'Wrong email adress': 'Wrong email adress'
+
+# Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time'
+
+# Desc: You haven't used this widget yet
 'You haven''t used this widget yet': 'You haven''t used this widget yet'
+
+# Desc: Your Blogvio Account is more than just widgets
 'Your Blogvio Account is more than just widgets': 'Your Blogvio Account is more than just widgets'
+
+# Desc: Your Compositions
 'Your Compositions': 'Your Compositions'
+
+# Desc: Your Email
 'Your Email': 'Your Email'
+
+# Desc: Your account
 'Your account': 'Your account'
+
+# Desc: Your account has been deleted
 'Your account has been deleted': 'Your account has been deleted'
+
+# Desc: Your changes have been successfully saved
 'Your changes have been successfully saved': 'Your changes have been successfully saved'
+
+# Desc: Your email address
 'Your email address': 'Your email address'
+
+# Desc: Your name
 'Your name': 'Your name'
+
+# Desc: You’ve been logged out!
 'You’ve been logged out!': 'You’ve been logged out!'
+
+# Desc: change email
 'change email': 'change email'
+
+# Desc: coming soon
 'coming soon': 'coming soon'
+
+# Desc: delete your blogvio account
 'delete your blogvio account': 'delete your blogvio account'
+
+# Desc: email changed
 'email changed': 'email changed'
+
+# Desc: galleries
 galleries: galleries
+
+# Desc: is disabled or deleted
 'is disabled or deleted': 'is disabled or deleted'
+
+# Desc: is not registered
 'is not registered': 'is not registered'
+
+# Desc: log in
 'log in': 'log in'
+
+# Desc: or
 or: or
+
+# Desc: other
 other: other
+
+# Desc: sign up
 'sign up': 'sign up'
+
+# Desc: widgets
 widgets: widgets

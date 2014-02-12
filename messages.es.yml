@@ -457,6 +457,9 @@ Search: BUSCA
 # Desc: Select a %thing%
 'Select a %thing%': 'Seleccione una %thing%'
 
+# Desc: Select a password
+'Select a password': 'Seleccione una contraseña'
+
 # Desc: Send us an email
 'Send us an email': 'Envíenos un correo electrónico'
 

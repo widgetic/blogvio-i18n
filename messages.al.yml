@@ -457,6 +457,9 @@ Search: Search
 # Desc: Select a %thing%
 'Select a %thing%': 'Select a %thing%'
 
+# Desc: Select a password
+'Select a password': 'Select a password'   # FIXME
+
 # Desc: Send us an email
 'Send us an email': 'Send us an email'
 
