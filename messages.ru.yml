@@ -248,7 +248,7 @@ FEEDBACK: СВЯЗЬ
 'HOW TO EMBED ON ANY WEBSITE': 'КАК ВСТРОИТЬ ЛЮБОЙ ВЕБСАЙТ'
 
 # Desc: Help
-Help: Помощь
+Help: 'Помощь'
 
 # Desc: Here’s an example
 'Here’s an example': 'Вот пример'
@@ -290,7 +290,7 @@ Help: Помощь
 'Looks like the old password': 'Выглядит как старый пароль'
 
 # Desc: Main Features
-'Main Features': Особенности
+'Main Features': 'Особенности'
 
 # Desc: Making the most of Blogvio
 'Making the most of Blogvio': 'Создание большинства Blogvio'
@@ -457,9 +457,6 @@ Search: Поиск
 # Desc: Select a %thing%
 'Select a %thing%': 'Выберите %thing%'
 
-# Desc: Select a password
-'Select a password': 'Выберите пароль'   # FIXME
-
 # Desc: Send us an email
 'Send us an email': 'Отправить нам письмо'
 
@@ -487,11 +484,8 @@ Settings: Настройки
 # Desc: Skin
 Skin: Тема
 
-# Desc: Skip this step
-'Skip this step': 'Пропустите этот шаг'
-
 # Desc: Social
-Social: Social
+Social: В СОЦСЕТЯХ
 
 # Desc: Statistics
 Statistics: Статистика
@@ -506,13 +500,13 @@ Tags: Метки
 Team: Команда
 
 # Desc: Terms of Service
-'Terms of Service': 'Условия предоставления услуг'
+'Terms of Service': 'Термины Услуг'
 
 # Desc: Thank you
 'Thank you': Спасибо
 
-# Desc: That's all you need to create a composition
-'That''s all you need to create a composition': 'Это все что нужно для создания cостав'
+# Desc: That's all you need to create a
+'That''s all you need to create a': 'Это все что нужно для создания'
 
 # Desc: The password is too obvious
 'The password is too obvious': 'Пароль слишком очевидно'
@@ -557,7 +551,7 @@ Tour: Тур
 'Type your name': 'Введите имя'
 
 # Desc: Untitled Composition
-'Untitled Composition': 'Без названия состав'
+'Untitled Composition': 'Состав без названия'
 
 # Desc: Use iFrame
 'Use iFrame': 'Использовать iFrame'
@@ -569,7 +563,7 @@ Tour: Тур
 Users: Пользователи
 
 # Desc: Utilities
-Utilities: Полезности
+Utilities: 'Полезности'
 
 # Desc: Utilities Widgets
 'Utilities Widgets': 'Полезности Виджеты'
@@ -631,8 +625,8 @@ Welcome: 'Добро пожаловать'
 # Desc: Widgets
 Widgets: Виджеты
 
-# Desc: Wrong email adress
-'Wrong email adress': 'Неправильный адрес электронной почты'
+# Desc: Wrong email address
+'Wrong email address': 'Неправильный адрес электронной почты'
 
 # Desc: You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time
 'You can change the values of data-width and data-height to change the width and height of the composition, and it will be updated in real time': 'Вы можете изменять значения данных ширины и данных высоты, чтобы изменить ширину и высоту композиции, и она будет обновляться в реальном времени'

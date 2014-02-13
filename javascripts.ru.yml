@@ -95,7 +95,7 @@ Impressions: Впечатления
 'Message sent': 'Сообщение отправлено'
 
 # Desc: Most Viewed Compositions
-'Most Viewed Compositions': 'Самые Популярные Compositions'
+'Most Viewed Compositions': 'Самые Популярные'
 
 # Desc: Name
 Name: Имя
@@ -248,7 +248,7 @@ Utilities: Полезности
 Video: Видео
 
 # Desc: Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?
-'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Хотите %link_one% войдите %end_tag% или %link_two% восстановить %end_tag_two% пароль?'
+'Want to %link_one% login %end_tag% or %link_two% recover %end_tag_two% your password?': 'Хотите% link_one% войдите %end_tag% или %link_two% восстановить %end_tag_two% пароль?'
 
 # Desc: We sent an activation link to your email, please confirm it by clicking the link
 'We sent an activation link to your email, please confirm it by clicking the link': 'Мы отправили активационную ссылку на ваш почтовый ящик, пожалуйста подтвердите её, кликнув по ссылке'
